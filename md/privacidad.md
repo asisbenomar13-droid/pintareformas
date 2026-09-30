@@ -5,7 +5,7 @@ URL canónica: https://pintareformas.es/privacidad.html
 ---
 # Política de Privacidad
 
-Última actualización: mayo de 2026
+Última actualización: septiembre de 2026
 
 ## 1. Responsable del tratamiento
 
@@ -23,7 +23,7 @@ Recogemos únicamente los datos que tú nos proporcionas voluntariamente a trav�
 - Email (opcional)
 - Ciudad y descripción del trabajo solicitado
 
-No recogemos datos de navegación, no usamos cookies de rastreo ni instalamos ningún software en tu dispositivo.
+Aparte del formulario, solo usamos estadísticas de visitas (Google Analytics 4) y únicamente si tú las aceptas en el aviso de cookies; te lo explico en el apartado 9. No usamos cookies de publicidad ni de rastreo.
 
 ## 3. Finalidad del tratamiento
 
