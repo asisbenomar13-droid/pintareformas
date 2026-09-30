@@ -3,7 +3,7 @@
 URL canónica: https://pintareformas.es/pintura-y-placas-yeso-granada.html
 
 ---
-# Tu Pintor de Confianza en Granada
+# Pintura y placas de yeso en Granada
 
 Llevo desde 2012 como pintor y montador de placas de yeso laminado en Granada: tabiques, falsos techos y reformas. El equipo es mío, no subcontrato a nadie. Precio cerrado por escrito, trabajo limpio y factura. Llámame hoy y te doy presupuesto gratis el mismo día.
 
