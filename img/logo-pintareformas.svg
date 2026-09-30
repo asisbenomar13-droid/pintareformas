@@ -18,11 +18,11 @@
   <!-- Línea naranja separadora -->
   <rect x="0" y="51" width="210" height="2" rx="1" fill="#FF9800" opacity="0.5"/>
 
-  <!-- PLADUR espaciado abajo -->
+  <!-- REFORMAS espaciado abajo -->
   <text x="2" y="60"
         font-family="Arial,sans-serif"
         font-weight="700"
         font-size="9.5"
         fill="#FF9800"
-        letter-spacing="7">PLADUR</text>
+        letter-spacing="5">REFORMAS</text>
 </svg>
