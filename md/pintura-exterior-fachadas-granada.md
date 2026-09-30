@@ -1,6 +1,6 @@
 # Pintar una fachada en Granada: precios desde 6 €/m²
 
-> Pinto fachadas en Granada desde 6 €/m²: limpieza, masillado, imprimación y dos manos. Si hay filtraciones, la impermeabilización va aparte. Presupuesto gratis: 633 915 898.
+> Pinto fachadas en Granada desde 6 €/m²: limpieza, masillado, imprimación y dos manos. Impermeabilización aparte si hay filtraciones. Tel. 633 915 898.
 
 URL canónica: https://pintareformas.es/pintura-exterior-fachadas-granada.html
 

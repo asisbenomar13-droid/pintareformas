@@ -32,6 +32,8 @@ Aquí subo a verlo el mismo día o al siguiente, según cómo tenga la semana. E
 
 [Maracena](https://pintareformas.es/maracena.html)Pisos y bajos: el mismo que levanta el tabique lo pinta
 
+[Dúrcal](https://pintareformas.es/durcal.html)Valle de Lecrín: baños, placas de yeso y pintura sin cobrar el desplazamiento
+
 ## Costa de Granada — la Costa Tropical
 
 Bajo por la autovía y en tres cuartos de hora estoy en Motril. Aquí cambia todo: pisos y apartamentos, muchos de segunda residencia que se abren dos meses al año, y bastante alquiler vacacional que se repinta entre temporadas. El enemigo es el mar. Salitre en las fachadas y terrazas, y humedad de condensación en las viviendas que pasan medio año cerradas sin ventilar: vuelves en junio y tienes manchas negras en las esquinas de los dormitorios.

@@ -129,7 +129,7 @@ Llámame o escríbeme por WhatsApp, dime tu barrio y me paso a verlo. Presupuest
 [💬 WhatsApp](https://wa.me/34633915898?text=Hola%20Asis%2C%20quiero%20presupuesto%20para%20pintar%20en%20Granada%20capital) [📞 633 915 898](tel:+34633915898)
 
 **Te puede interesar:** [Pintor en Granada](https://pintareformas.es/pintor-granada.html) · [Quitar Gotelé](https://pintareformas.es/quitar-gotele-alisar-paredes-granada.html) · [Precio Pintar Piso](https://pintareformas.es/pintura-pisos-granada.html) · [Placas de Yeso Granada](https://pintareformas.es/pintura-y-placas-yeso-granada.html) · [Colores de Moda 2026](https://pintareformas.es/colores-tendencia-pintura-2026-granada.html)
-**Cinturón de Granada:** [Armilla](https://pintareformas.es/localidades/armilla.html) · [La Zubia](https://pintareformas.es/localidades/la-zubia.html) · [Maracena](https://pintareformas.es/localidades/maracena.html)
+**Cinturón de Granada:** [Armilla](https://pintareformas.es/localidades/armilla.html) · [La Zubia](https://pintareformas.es/localidades/la-zubia.html) · [Dúrcal](https://pintareformas.es/localidades/durcal.html) · [Maracena](https://pintareformas.es/localidades/maracena.html)
 
 ¿Y cuánto me costaría a mí?
 

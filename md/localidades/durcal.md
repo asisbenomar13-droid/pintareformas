@@ -1,4 +1,4 @@
-# Reformas y pintor en Dúrcal — baños, placas de yeso y pintura
+# Reformas y pintor en Dúrcal: baños, placas de yeso, pintura
 
 > Reformas de baño, placas de yeso y pintura en Dúrcal y el Valle de Lecrín. Baño pequeño desde 2.000 €, gotelé desde 10 €/m². Sin cobrar el desplazamiento.
 
