@@ -177,6 +177,7 @@ WhatsApp: Disponible 24/7
 **Artículos relacionados:**
 • [Pintura a Prueba de Humedad: Baños y Cocinas](https://pintareformas.es/pintura-humedad-banos.html)
 • [Falsos Techos con LED: Tendencias 2026](https://pintareformas.es/falsos-techos-led-granada.html)
+• [Tabiques de placas de yeso: precio por m²](https://pintareformas.es/tabiques-placas-yeso-granada.html)
 • [Costo Reforma Integral: Presupuesto Realista Pintura + Placas de Yeso](https://pintareformas.es/costo-reforma-integral.html)
 
 ¿Y cuánto me costaría a mí?

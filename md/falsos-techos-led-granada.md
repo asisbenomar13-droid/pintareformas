@@ -360,7 +360,7 @@ Mándame los metros y una foto del techo por WhatsApp y te digo lo que cuesta. P
 
 [💬 WhatsApp con foto](https://wa.me/34633915898?text=Hola%20Asis%2C%20quiero%20presupuesto%20de%20falso%20techo%20con%20LED) [📞 633 915 898](tel:+34633915898) [✉️ info@pintareformas.es](mailto:info@pintareformas.es)
 
-**Te puede interesar:** [Placas de yeso en Granada](https://pintareformas.es/pintura-y-placas-yeso-granada.html) · [Placas de yeso en cocinas](https://pintareformas.es/placas-yeso-cocinas.html) · [Placas de yeso Costa de Málaga](https://pintareformas.es/pintura-y-placas-yeso-malaga.html) · [Quitar Gotelé](https://pintareformas.es/quitar-gotele-alisar-paredes-granada.html) · [Precio Pintar Piso](https://pintareformas.es/pintura-pisos-granada.html) · [Pintor en Granada](https://pintareformas.es/pintor-granada.html)
+**Te puede interesar:** [Placas de yeso en Granada](https://pintareformas.es/pintura-y-placas-yeso-granada.html) · [Placas de yeso en cocinas](https://pintareformas.es/placas-yeso-cocinas.html) · [Tabiques de placas de yeso](https://pintareformas.es/tabiques-placas-yeso-granada.html) · [Placas de yeso Costa de Málaga](https://pintareformas.es/pintura-y-placas-yeso-malaga.html) · [Quitar Gotelé](https://pintareformas.es/quitar-gotele-alisar-paredes-granada.html) · [Precio Pintar Piso](https://pintareformas.es/pintura-pisos-granada.html) · [Pintor en Granada](https://pintareformas.es/pintor-granada.html)
 
 ¿Y cuánto me costaría a mí?
 
