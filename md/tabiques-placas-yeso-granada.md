@@ -126,7 +126,7 @@ Mándame fotos y las medidas aproximadas por WhatsApp y te doy un precio orienta
 
 [💬 WhatsApp con fotos](https://wa.me/34633915898?text=Hola%20Asis%2C%20te%20mando%20fotos%20para%20un%20tabique) [📞 633 915 898](tel:+34633915898)
 
-**Te puede interesar:** [Falsos techos de placas de yeso con LED](https://pintareformas.es/falsos-techos-led-granada.html) · [Placas de yeso en cocinas](https://pintareformas.es/placas-yeso-cocinas.html) · [Pintura y placas de yeso en Granada](https://pintareformas.es/pintura-y-placas-yeso-granada.html) · [Reforma integral](https://pintareformas.es/costo-reforma-integral.html) · [Pintor en Granada](https://pintareformas.es/pintor-granada.html)
+**Te puede interesar:** [Falsos techos de placas de yeso con LED](https://pintareformas.es/falsos-techos-led-granada.html) · [Placas de yeso en cocinas](https://pintareformas.es/placas-yeso-cocinas.html) · [Pintura y placas de yeso en Granada](https://pintareformas.es/pintura-y-placas-yeso-granada.html) · [Reformas integrales en Granada](https://pintareformas.es/reformas-integrales-granada.html) · [Reforma integral](https://pintareformas.es/costo-reforma-integral.html) · [Pintor en Granada](https://pintareformas.es/pintor-granada.html)
 
 ¿Y cuánto me costaría a mí?
 

@@ -9,7 +9,7 @@ URL canónica: https://pintareformas.es/blog-guia-reforma-integral.html
 
 # Guía Completa: Reformas Integrales con Pintura y Placas de Yeso 2026
 
-📅 Actualizado: Mayo 2026 ⏱️ Lectura: 15 minutos 📍 Aplicable en Málaga, Granada y alrededores
+📅 Actualizado: Mayo 2026 ⏱️ Lectura: 15 minutos 📍 Aplicable en Málaga, Granada y alrededores 🏠 [Reformas integrales en Granada](https://pintareformas.es/reformas-integrales-granada.html)
 
 ### 📑 Tabla de Contenidos
 - ¿Qué es una reforma integral con pintura y placas de yeso?
