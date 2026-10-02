@@ -5,8 +5,6 @@
 URL canónica: https://pintareformas.es/microcemento-granada.html
 
 ---
-Pared acabada con microcemento en un salón: sin juntas y con el veteado propio de la aplicación a mano.
-
 ## El microcemento no es para todo el mundo
 
 Mira, te lo voy a contar sin pelos en la lengua: el microcemento, cuando sale bien, es una belleza. Pero si lo aplica alguien sin saber, en seis meses te sale todo fisurado. Se levanta en las esquinas de la ducha, o el color te queda desigual porque la mano no fue uniforme. Es un material que pide mucho oficio.
