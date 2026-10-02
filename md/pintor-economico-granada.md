@@ -66,37 +66,25 @@ En Granada hay de todo: el autónomo que va solo y cobra muy poco, y la empresa 
 
 Mi precio no sale bajo por casualidad ni por recortar donde no se ve. Sale de aquí:
 
-🏗️
-
 ### Sin intermediarios
 
 Trabajamos directamente con el cliente. No hay comerciales, no hay captadores, no hay empresa intermediaria que se lleve un margen. Lo que pagas va directamente al trabajo.
 
-👷
-
-### Equipo propio en Granada
+### Pinto yo, en Granada
 
 Pinto yo, con oficio desde 2012. No subcontrato a terceros en cada obra. Eso evita costes de más y el acabado es el mismo en toda la casa.
-
-📦
 
 ### Compra directa de materiales
 
 Compramos pintura, imprimaciones y materiales directamente a distribuidores mayoristas. El ahorro en materiales nos permite trasladarlo al precio final sin sacrificar calidad de producto.
 
-⏱️
-
 ### Eficiencia en obra
 
 Desde 2012 trabajando en Granada me permite organizar los trabajos con precisión: menos tiempo de preparación, menos desperdicios, más metros al día. La eficiencia se traduce en precio justo.
 
-📍
-
 ### Conocimiento local real
 
 Conocemos los barrios de Granada, los edificios con paredes problemáticas y los proveedores locales. No perdemos tiempo ni recursos aprendiendo en cada obra lo que ya sabemos.
-
-🔁
 
 ### Clientes que vuelven
 
@@ -106,35 +94,19 @@ Casi todo el trabajo me llega porque alguien me recomienda a un vecino o a un fa
 
 Cuando te digo un precio, dentro va todo esto. Nada de extras que aparecen a mitad de obra:
 
-🔍
-
 Visita y presupuesto gratis
-
-🧱
 
 Preparación de superficies
 
-🖌️
-
 Imprimación incluida
-
-🎨
 
 Mínimo 2 manos pintura
 
-📦
-
 Materiales de calidad
-
-🛡️
 
 Protección suelos y muebles
 
-🧹
-
 Limpieza final completa
-
-📋
 
 Factura
 

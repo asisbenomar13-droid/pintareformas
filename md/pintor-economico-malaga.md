@@ -66,37 +66,25 @@ La costa es un mercado con precios muy dispares. Esta tabla te sitúa: a la izqu
 
 Mi precio es bajo por cómo trabajo, no por recortar materiales. Esto es lo que lo explica en la costa:
 
-🏗️
-
 ### Sin intermediarios
 
 Trato directo conmigo, sin comerciales ni empresa intermedia. Lo que pagas va al trabajo y no a una comisión.
 
-👷
+### Pinto yo
 
-### Equipo propio
-
-Trabajo con mi propio equipo y no subcontrato cada obra, así el acabado es el mismo en toda la vivienda, sea un piso en Málaga capital o un apartamento en la costa.
-
-📦
+Pinto yo y no subcontrato cada obra, así el acabado es el mismo en toda la vivienda, sea un piso en Málaga capital o un apartamento en la costa.
 
 ### Compra directa de materiales
 
 Compro la pintura y las imprimaciones directamente a distribuidores, y ese ahorro lo paso al precio sin bajar la calidad del bote.
 
-🌊
-
 ### Conocimiento del clima costero
 
 La sal y la humedad del mar tratan la pintura distinto que en el interior. Sabemos qué materiales aguantan en fachada en primera línea de playa y cuáles se estropean al año.
 
-🗣️
-
 ### Atención en español, inglés y árabe
 
 En la Costa del Sol hay mucho cliente extranjero. Poder explicar el presupuesto en su idioma evita malentendidos y ahorra tiempo a los dos.
-
-🔁
 
 ### Clientes que vuelven
 
@@ -106,35 +94,19 @@ Gran parte del trabajo me llega por recomendación, así que me interesa que te 
 
 Esto es lo que va dentro del precio que te doy, sin cosas que aparezcan a mitad de obra:
 
-🔍
-
 Visita y presupuesto gratis
-
-🧱
 
 Preparación de superficies
 
-🖌️
-
 Imprimación incluida
-
-🎨
 
 Mínimo 2 manos pintura
 
-📦
-
 Materiales de calidad
-
-🛡️
 
 Protección suelos y muebles
 
-🧹
-
 Limpieza final completa
-
-📋
 
 Precio cerrado por escrito
 
