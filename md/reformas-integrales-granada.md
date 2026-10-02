@@ -135,7 +135,7 @@ Dónde trabajo
 
 Reformo en Granada capital (Albaicín, Realejo, Zaidín, Camino de Ronda, Chana y el resto de barrios, que tienes en [pintor en Granada capital](https://pintareformas.es/pintores-granada-capital.html)), en el cinturón ([Armilla](https://pintareformas.es/localidades/armilla.html), [La Zubia](https://pintareformas.es/localidades/la-zubia.html), [Maracena](https://pintareformas.es/localidades/maracena.html)), en Dúrcal y en la costa de Granada. Si estás en otra zona, escríbeme y lo hablamos.
 
-**Lo que no hago:** no toco muros de carga ni estructura sin técnico, y no hago un presupuesto a ciegas. Prefiero ir a ver el piso.
+**Antes de empezar:** mira [qué licencia necesita tu reforma](https://pintareformas.es/licencia-obras-reforma-piso-granada.html). **Lo que no hago:** no toco muros de carga ni estructura sin técnico, y no hago un presupuesto a ciegas. Prefiero ir a ver el piso.
 
 Preguntas frecuentes
 

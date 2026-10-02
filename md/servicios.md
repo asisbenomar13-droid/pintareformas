@@ -169,6 +169,12 @@ El precio por metro de una reforma completa en Granada, partida por partida.
 
 Precio por m²
 
+📋
+
+### [Licencia para reformar tu piso](https://pintareformas.es/licencia-obras-reforma-piso-granada.html)
+
+Obra menor, declaración responsable u obra mayor: qué necesita tu reforma y cuánto tarda.
+
 📖
 
 ### [Guía: el orden de una reforma](https://pintareformas.es/blog-guia-reforma-integral.html)
