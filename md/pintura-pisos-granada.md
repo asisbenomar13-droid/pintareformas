@@ -104,6 +104,8 @@ La temporada alta para pintura de pisos en Granada es la primavera y el verano. 
 
 Otro factor que ayuda es reservar con antelación. Si me contactas con dos o tres semanas de margen, puedo planificar mejor la semana y en algunos casos tengo algo de flexibilidad en el precio.
 
+Si pintas para vender o alquilar, mira [cómo pintar un piso antes de venderlo](https://pintareformas.es/pintar-piso-antes-de-vender-granada.html): es donde más rinde cada euro. Y si además de color quieres darle carácter a una pared, tienes el [papel pintado](https://pintareformas.es/papel-pintado-granada.html) y el [microcemento](https://pintareformas.es/microcemento-granada.html).
+
 También sale más económico hacer toda la casa de una vez que habitación por habitación. La preparación, los desplazamientos y la organización del material tienen un coste fijo, y si se reparten entre más metros cuadrados el precio por m² baja.
 
 Tendencias 2026

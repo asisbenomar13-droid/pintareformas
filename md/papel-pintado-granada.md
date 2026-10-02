@@ -14,6 +14,8 @@ Poner papel pintado tiene su técnica para que quede perfecto. Llevamos años ha
 
 [Pedir presupuesto gratis](https://wa.me/34633915898?text=Hola%20PintaReformas%2C%20quiero%20presupuesto%20para%20papel%20pintado) [📞 633 915 898](tel:+34633915898)
 
+Papel pintado de motivo tropical en la pared de la cabecera.
+
 El proceso
 
 ## Cómo lo hacemos

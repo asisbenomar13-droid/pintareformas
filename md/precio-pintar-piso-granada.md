@@ -156,7 +156,7 @@ Con eso me sobra. Y si prefieres hacerte tú una idea primero, tengo una [calcul
 
 ## Y si no es sólo pintar
 
-A veces la gente me escribe por la pintura y acabamos hablando de otra cosa. Si estás con la reforma del piso entero, mira antes [cuánto cuesta una reforma integral en Granada por m²](https://pintareformas.es/costo-reforma-integral.html), que ahí van los precios de todo lo demás. Y si lo tuyo es el baño, tengo la cuenta hecha en [precio de reformar un baño en Granada desde 2.000 €](https://pintareformas.es/reformas-banos-granada.html).
+A veces la gente me escribe por la pintura y acabamos hablando de otra cosa. Si pintas para vender, mira [cómo pintar un piso antes de venderlo](https://pintareformas.es/pintar-piso-antes-de-vender-granada.html). Si estás con la reforma del piso entero, mira antes [cuánto cuesta una reforma integral en Granada por m²](https://pintareformas.es/costo-reforma-integral.html), que ahí van los precios de todo lo demás. Y si lo tuyo es el baño, tengo la cuenta hecha en [precio de reformar un baño en Granada desde 2.000 €](https://pintareformas.es/reformas-banos-granada.html).
 
 ## Preguntas que me hacen todos los días sobre el precio
 

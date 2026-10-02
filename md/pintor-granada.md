@@ -25,7 +25,7 @@ Si lo que te preocupa ahora mismo es el bolsillo, te lo he puesto aparte: en [pr
 
 ## Qué hago: pintura, tabiques y falsos techos en Granada
 
-Cojo el trabajo entero, de principio a fin: preparar la pared, tapar grietas, tratar la humedad si la hay y dar el acabado. Y lo mismo con las placas de yeso laminado — tabiques, falsos techos y reformas — con la misma gente, sin llamar a nadie de fuera.
+Cojo el trabajo entero, de principio a fin: preparar la pared, tapar grietas, tratar la humedad si la hay y dar el acabado. Y lo mismo con las placas de yeso laminado — tabiques, falsos techos y reformas — con la misma gente, sin llamar a nadie de fuera. También hago [papel pintado](https://pintareformas.es/papel-pintado-granada.html), [microcemento](https://pintareformas.es/microcemento-granada.html), [pintura de pisos para vender](https://pintareformas.es/pintar-piso-antes-de-vender-granada.html) y [reformas integrales](https://pintareformas.es/reformas-integrales-granada.html).
 
 🖌️
 
