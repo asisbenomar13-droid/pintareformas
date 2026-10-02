@@ -27,15 +27,11 @@ Si lo que te preocupa ahora mismo es el bolsillo, te lo he puesto aparte: en [pr
 
 Cojo el trabajo entero, de principio a fin: preparar la pared, tapar grietas, tratar la humedad si la hay y dar el acabado. Y lo mismo con las placas de yeso laminado — tabiques, falsos techos y reformas — con la misma gente, sin llamar a nadie de fuera. También hago [papel pintado](https://pintareformas.es/papel-pintado-granada.html), [microcemento](https://pintareformas.es/microcemento-granada.html), [pintura de pisos para vender](https://pintareformas.es/pintar-piso-antes-de-vender-granada.html) y [reformas integrales](https://pintareformas.es/reformas-integrales-granada.html).
 
-🖌️
-
 ### Pintura Interior
 
 Viviendas, pisos de alquiler, locales y oficinas en Granada. Imprimación + 2 manos de acabado, materiales de primera incluidos.
 
 Desde 4 €/m²
-
-🏗️
 
 ### Pintura Exterior
 
@@ -43,15 +39,11 @@ Fachadas y comunidades de vecinos en Granada. Pintura impermeable con tratamient
 
 Desde 6 €/m²
 
-✨
-
 ### Pintura Decorativa
 
 Estuco veneciano, efecto óxido y papel pintado. Acabados únicos para salones y dormitorios. El [microcemento](https://pintareformas.es/microcemento-granada.html) va aparte, desde 85 €/m².
 
 Desde 10 €/m²
-
-💧
 
 ### Pintura Antihumedad
 
@@ -59,15 +51,11 @@ Diagnóstico gratuito de la causa de la humedad. Tratamiento con productos espec
 
 Desde 9 €/m²
 
-🧱
-
 ### Tabiques de Placas de Yeso
 
 Tabiques divisorios, trasdosados y reformas de distribución interior. Instalación rápida y limpia, sin obras húmedas.
 
 Desde 25 €/m²
-
-💡
 
 ### Falsos Techos con LED
 
