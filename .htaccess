@@ -85,7 +85,8 @@ AddType 'text/markdown; charset=UTF-8' .md
 </IfModule>
 
 # ---- 3. PÁGINA DE ERROR 404 ----
-ErrorDocument 404 /404.html
+# 404.php sirve Markdown si el cliente pide text/markdown y HTML en el resto (siempre 404)
+ErrorDocument 404 /404.php
 
 # ---- 4. COMPRESIÓN GZIP ----
 <IfModule mod_deflate.c>
