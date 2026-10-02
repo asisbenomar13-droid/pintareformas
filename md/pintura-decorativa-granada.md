@@ -14,6 +14,8 @@ Llevo desde 2012 aplicando estucos, efectos y acabados decorativos en Granada. S
 
 [Pedir presupuesto gratis](https://wa.me/34633915898?text=Hola%20PintaReformas%2C%20quiero%20presupuesto%20de%20pintura%20decorativa) [📞 633 915 898](tel:+34633915898)
 
+Acabado decorativo pulido: el brillo de la pared refleja la luz de la ventana.
+
 Qué es
 
 ## ¿Qué es la pintura decorativa?
