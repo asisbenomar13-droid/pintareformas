@@ -398,7 +398,7 @@ section{padding:80px 0}
 .blog-meta i{color:#555}
 .blog-card h3{color:var(--navy);margin-bottom:10px;font-size:1.12rem;line-height:1.4}
 .blog-card p{color:var(--gray-600);margin-bottom:13px;font-size:.92rem}
-.blog-link{color:#0D1B2A;font-weight:600;display:inline-flex;align-items:center;gap:5px;font-size:.9rem}
+.blog-link{background:none;border:0;padding:0;cursor:pointer;font-family:inherit;color:#0D1B2A;font-weight:600;display:inline-flex;align-items:center;gap:5px;font-size:.9rem}
 .blog-link:hover{gap:9px}
 .blog-post-expanded{display:none;background:var(--gray-50);border-radius:var(--radius);padding:25px;margin-top:10px;border-left:4px solid var(--orange)}
 .blog-post-expanded.show{display:block}
@@ -452,9 +452,9 @@ footer{background:var(--navy);color:#fff;padding:58px 0 22px;border-top:4px soli
 .social-row a{width:40px;height:40px;background:rgba(255,255,255,.1);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff}
 .social-row a:hover{background:var(--orange);transform:translateY(-3px)}
 .footer-bottom{border-top:1px solid rgba(255,255,255,.1);padding-top:22px;text-align:center;color:rgba(255,255,255,.75);font-size:.88rem}
-.wa-float{position:fixed;bottom:24px;right:24px;width:62px;height:62px;background:var(--green);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:1.9rem;z-index:9999;box-shadow:0 4px 18px rgba(37,211,102,.5)}
+.wa-float{position:fixed;bottom:24px;right:24px;width:62px;height:62px;background:#128C7E;border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:1.9rem;z-index:9999;box-shadow:0 4px 18px rgba(37,211,102,.5)}
 .wa-float:hover{transform:scale(1.12);color:#fff}
-.wa-float::before{content:'';position:absolute;inset:0;border-radius:50%;background:var(--green);animation:ripple 2s infinite;z-index:-1}
+.wa-float::before{content:'';position:absolute;inset:0;border-radius:50%;background:#128C7E;animation:ripple 2s infinite;z-index:-1}
 .calc-float{position:fixed;bottom:100px;right:24px;width:62px;height:62px;background:var(--navy);border-radius:50%;display:flex;align-items:center;justify-content:center;color:#fff;font-size:1.6rem;z-index:9999;box-shadow:0 4px 18px rgba(13,27,42,.5);text-decoration:none;border:3px solid var(--orange)}
 .calc-float:hover{transform:scale(1.1);color:#fff}
 .calc-float-label{position:fixed;bottom:170px;right:18px;background:var(--navy);color:white;font-size:.72rem;font-weight:700;padding:4px 10px;border-radius:20px;white-space:nowrap;z-index:9999;border:2px solid var(--orange)}
@@ -605,7 +605,7 @@ footer{background:var(--navy);color:#fff;padding:58px 0 22px;border-top:4px soli
     <div class="hero-grid">
       <div>
         <h1>Pintor en Granada y Costa del Sol <span>desde 2012</span></h1>
-        <p class="lead">Soy Asis. Llevo 14 años pintando y reformando casas — yo mismo, sin intermediarios. Precio cerrado por escrito, factura y te atiendo en español, árabe o inglés. Te visito y te doy presupuesto el mismo día.</p>
+        <p class="lead">Soy Asis. Llevo desde 2012 pintando y reformando casas — yo mismo, sin intermediarios. Precio cerrado por escrito, factura y te atiendo en español, árabe o inglés. Te visito y te doy presupuesto el mismo día.</p>
         <div class="hero-btns">
           <a href="#contacto" class="btn btn-primary btn-lg"><svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-file-invoice"/></svg> Presupuesto Gratis</a>
           <a href="tel:+34633915898" class="btn btn-outline btn-lg"><svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-phone"/></svg> 633 915 898</a>
@@ -896,7 +896,7 @@ footer{background:var(--navy);color:#fff;padding:58px 0 22px;border-top:4px soli
           <div class="blog-meta"><span><svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-tag"/></svg>Precios</span><span><svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-calendar"/></svg>2026</span></div>
           <h3>Precio Pintar Casa en Granada 2026</h3>
           <p>Guía completa de precios para pintar tu vivienda.</p>
-          <span class="blog-link" onclick="togglePost(this)">Leer más <svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-arrow-right"/></svg></span>
+          <button type="button" class="blog-link" onclick="togglePost(this)">Leer más <svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-arrow-right"/></svg></button>
           <div class="blog-post-expanded">
             <h4>Precios de Pintura en Granada 2026</h4>
             <p>El precio varía según el tipo de pintura y el acabado deseado:</p>
@@ -917,7 +917,7 @@ footer{background:var(--navy);color:#fff;padding:58px 0 22px;border-top:4px soli
           <div class="blog-meta"><span><svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-tag"/></svg>Tabiques</span><span><svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-calendar"/></svg>2026</span></div>
           <h3>Tabique de Placas de Yeso vs Albañilería: ¿Qué Elegir?</h3>
           <p>Comparativa entre el tabique seco y la obra tradicional.</p>
-          <span class="blog-link" onclick="togglePost(this)">Leer más <svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-arrow-right"/></svg></span>
+          <button type="button" class="blog-link" onclick="togglePost(this)">Leer más <svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-arrow-right"/></svg></button>
           <div class="blog-post-expanded">
             <h4>Ventajas del tabique de placas de yeso frente a la albañilería</h4>
             <p><strong>Placa de yeso:</strong> instalación en 2-3 días, desde 25€/m², mínima suciedad, permite aislamiento integrado, modificable en el futuro.</p>
@@ -933,7 +933,7 @@ footer{background:var(--navy);color:#fff;padding:58px 0 22px;border-top:4px soli
           <div class="blog-meta"><span><svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-tag"/></svg>Consejos</span><span><svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-calendar"/></svg>2026</span></div>
           <h3>Cómo Preparar las Paredes para Pintar</h3>
           <p>7 pasos para un acabado profesional perfecto.</p>
-          <span class="blog-link" onclick="togglePost(this)">Leer más <svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-arrow-right"/></svg></span>
+          <button type="button" class="blog-link" onclick="togglePost(this)">Leer más <svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-arrow-right"/></svg></button>
           <div class="blog-post-expanded">
             <h4>7 Pasos para Preparar tus Paredes</h4>
             <ul>
@@ -956,7 +956,7 @@ footer{background:var(--navy);color:#fff;padding:58px 0 22px;border-top:4px soli
           <div class="blog-meta"><span><svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-tag"/></svg>Costa Málaga</span><span><svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-calendar"/></svg>2026</span></div>
           <h3>Mejor Pintura para la Costa de Málaga</h3>
           <p>Pintura resistente al salitre y humedad costera.</p>
-          <span class="blog-link" onclick="togglePost(this)">Leer más <svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-arrow-right"/></svg></span>
+          <button type="button" class="blog-link" onclick="togglePost(this)">Leer más <svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-arrow-right"/></svg></button>
           <div class="blog-post-expanded">
             <h4>Pinturas Recomendadas para Zonas Costeras</h4>
             <p>En la Costa de Málaga el salitre y la humedad degradan rápidamente la pintura convencional. Recomendamos:</p>
@@ -976,7 +976,7 @@ footer{background:var(--navy);color:#fff;padding:58px 0 22px;border-top:4px soli
           <div class="blog-meta"><span><svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-tag"/></svg>Granada</span><span><svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-calendar"/></svg>2026</span></div>
           <h3>Cuándo Pintar tu Casa en Granada</h3>
           <p>La mejor época del año según el clima granadino.</p>
-          <span class="blog-link" onclick="togglePost(this)">Leer más <svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-arrow-right"/></svg></span>
+          <button type="button" class="blog-link" onclick="togglePost(this)">Leer más <svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-arrow-right"/></svg></button>
           <div class="blog-post-expanded">
             <h4>Mejores Épocas para Pintar en Granada</h4>
             <p><strong>✅ Primavera (abril-junio):</strong> Ideal. Temperaturas 15-25°C, sin lluvias, baja humedad.</p>
@@ -994,7 +994,7 @@ footer{background:var(--navy);color:#fff;padding:58px 0 22px;border-top:4px soli
           <div class="blog-meta"><span><svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-tag"/></svg>Precios</span><span><svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-calendar"/></svg>2026</span></div>
           <h3>Precio del Tabique y el Falso Techo en Granada por m²</h3>
           <p>Tarifas actualizadas de tabiques y falsos techos.</p>
-          <span class="blog-link" onclick="togglePost(this)">Leer más <svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-arrow-right"/></svg></span>
+          <button type="button" class="blog-link" onclick="togglePost(this)">Leer más <svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-arrow-right"/></svg></button>
           <div class="blog-post-expanded">
             <h4>Precios de tabiques y falsos techos en Granada 2026</h4>
             <ul>
@@ -1078,7 +1078,7 @@ footer{background:var(--navy);color:#fff;padding:58px 0 22px;border-top:4px soli
 <section class="cta">
   <div class="container cta-inner">
     <h2>¿Necesitas Presupuesto?</h2>
-    <p>Te respondemos en menos de 5 minutos. Gratis y sin compromiso.</p>
+    <p>Te contesto yo, el mismo día. Gratis y sin compromiso.</p>
     <div class="cta-btns">
       <a href="https://wa.me/34633915898?text=Hola%20PintaReformas%2C%20quiero%20presupuesto%20gratis" target="_blank" class="btn btn-green btn-lg"><svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-whatsapp"/></svg> WhatsApp Directo</a>
       <a href="tel:+34633915898" class="btn btn-outline btn-lg"><svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-phone"/></svg> 633 915 898</a>
@@ -1135,7 +1135,7 @@ footer{background:var(--navy);color:#fff;padding:58px 0 22px;border-top:4px soli
     <div class="sec-header">
       <span class="sec-tag">Contacto</span>
       <h2>Solicita Tu Presupuesto Gratis</h2>
-      <p>Respondemos en menos de 5 minutos</p>
+      <p>Te contesto yo, el mismo día</p>
     </div>
     <div class="contact-grid">
       <div class="contact-info-box">

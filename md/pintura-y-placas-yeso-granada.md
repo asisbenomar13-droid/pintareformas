@@ -7,7 +7,7 @@ URL canónica: https://pintareformas.es/pintura-y-placas-yeso-granada.html
 
 Llevo desde 2012 como pintor y montador de placas de yeso laminado en Granada: tabiques, falsos techos y reformas. El equipo es mío, no subcontrato a nadie. Precio cerrado por escrito, trabajo limpio y factura. Llámame hoy y te doy presupuesto gratis el mismo día.
 
-Pedir Presupuesto [633 915 898](tel:633915898)
+Pedir Presupuesto [633 915 898](tel:+34633915898)
 
 +10 Años
 
@@ -162,7 +162,7 @@ Siempre. Visita a domicilio, medición y presupuesto detallado completamente gra
 
 Llámame hoy o escríbeme por WhatsApp. Voy a ver el trabajo sin cobrarte nada y te doy el precio ese mismo día.
 
-[WhatsApp](https://wa.me/34633915898?text=Hola%20PintaReformas%2C%20quiero%20presupuesto%20gratis) [633 915 898](tel:633915898) [Formulario de Contacto](https://pintareformas.es/#contacto)
+[WhatsApp](https://wa.me/34633915898?text=Hola%20PintaReformas%2C%20quiero%20presupuesto%20gratis) [633 915 898](tel:+34633915898) [Formulario de Contacto](https://pintareformas.es/#contacto)
 
 **Más servicios:** [Falsos Techos LED](https://pintareformas.es/falsos-techos-led-granada.html) · [Placas de yeso en cocinas](https://pintareformas.es/placas-yeso-cocinas.html) · [Reformas Baños](https://pintareformas.es/reformas-banos-granada.html) · [Pintura Fachadas](https://pintareformas.es/pintura-exterior-fachadas-granada.html) · [Pintura Antihumedad](https://pintareformas.es/pintura-humedad-banos.html) · [Granada Capital por Barrios](https://pintareformas.es/pintores-granada-capital.html) · [Locales y Oficinas](https://pintareformas.es/pintura-locales-oficinas-granada.html)
 **Ciudades:** [Málaga](https://pintareformas.es/pintura-y-placas-yeso-malaga.html) · [Marbella](https://pintareformas.es/localidades/marbella.html) · [Nerja](https://pintareformas.es/localidades/nerja.html) · [Motril](https://pintareformas.es/localidades/motril.html) · [Fuengirola](https://pintareformas.es/localidades/fuengirola.html) · [Armilla](https://pintareformas.es/localidades/armilla.html) · [La Zubia](https://pintareformas.es/localidades/la-zubia.html) · [Maracena](https://pintareformas.es/localidades/maracena.html)

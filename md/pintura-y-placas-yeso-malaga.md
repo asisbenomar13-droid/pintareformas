@@ -5,9 +5,9 @@ URL canónica: https://pintareformas.es/pintura-y-placas-yeso-malaga.html
 ---
 # Tu Pintor de Confianza en Málaga y Costa del Sol
 
-Trabajamos en Málaga y toda la Costa del Sol desde hace más de 10 años. Conozco bien los materiales que aguantan la humedad y la sal del mar. Precio cerrado y presupuesto gratis hoy.
+Trabajamos en Málaga y toda la Costa del Sol desde 2012. Conozco bien los materiales que aguantan la humedad y la sal del mar. Precio cerrado y presupuesto gratis hoy.
 
-Pedir Presupuesto [633 915 898](tel:633915898)
+Pedir Presupuesto [633 915 898](tel:+34633915898)
 
 +10 Años
 
@@ -162,7 +162,7 @@ Siempre. Sin compromiso y en menos de 24 horas.
 
 Llámame hoy o escríbeme por WhatsApp. Voy a ver el trabajo sin cobrarte nada y te doy el precio ese mismo día.
 
-[WhatsApp](https://wa.me/34633915898?text=Hola%20PintaReformas%2C%20quiero%20presupuesto%20gratis) [633 915 898](tel:633915898) [Formulario de Contacto](https://pintareformas.es/#contacto)
+[WhatsApp](https://wa.me/34633915898?text=Hola%20PintaReformas%2C%20quiero%20presupuesto%20gratis) [633 915 898](tel:+34633915898) [Formulario de Contacto](https://pintareformas.es/#contacto)
 
 **Más servicios:** [Falsos Techos LED](https://pintareformas.es/falsos-techos-led-granada.html) · [Placas de yeso en cocinas](https://pintareformas.es/placas-yeso-cocinas.html) · [Reformas Baños](https://pintareformas.es/reformas-banos-granada.html) · [Pintura Fachadas](https://pintareformas.es/pintura-exterior-fachadas-granada.html) · [Pintura Antihumedad](https://pintareformas.es/pintura-humedad-banos.html)
 **Ciudades:** [Granada](https://pintareformas.es/pintura-y-placas-yeso-granada.html) · [Marbella](https://pintareformas.es/localidades/marbella.html) · [Nerja](https://pintareformas.es/localidades/nerja.html) · [Motril](https://pintareformas.es/localidades/motril.html) · [Fuengirola](https://pintareformas.es/localidades/fuengirola.html)

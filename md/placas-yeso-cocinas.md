@@ -161,11 +161,11 @@ Si buscas:
 
 **Entonces sí, las placas de yeso son lo tuyo.**
 
-En [pintareformas.es](https://pintareformas.es/) llevamos más de 10 años especializados en [montaje de placas de yeso en Granada y Málaga](https://pintareformas.es/pintura-y-placas-yeso-granada.html). Hemos completado más de 500 proyectos, incluyendo cocinas de todos los tamaños y estilos.
+En [pintareformas.es](https://pintareformas.es/) llevo desde 2012 especializado en [montaje de placas de yeso en Granada y Málaga](https://pintareformas.es/pintura-y-placas-yeso-granada.html). Hemos completado más de 500 proyectos, incluyendo cocinas de todos los tamaños y estilos.
 
 ## ¿Listo para Reformar tu Cocina?
 
-Solicita tu presupuesto personalizado HOY. Respondemos en menos de 5 minutos y ofrecemos presupuesto sin compromiso.
+Solicita tu presupuesto personalizado HOY. Te contesto yo, el mismo día, y el presupuesto va sin compromiso.
 
 [📞 Solicitar Presupuesto Gratis](https://pintareformas.es/#contacto)
 

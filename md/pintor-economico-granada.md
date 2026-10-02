@@ -76,7 +76,7 @@ Trabajamos directamente con el cliente. No hay comerciales, no hay captadores, n
 
 ### Equipo propio en Granada
 
-Nuestros pintores son empleados propios con más de 10 años de experiencia. No subcontratamos a terceros en cada obra. Eso evita costes de más y el acabado es el mismo en toda la casa.
+Pinto yo, con oficio desde 2012. No subcontrato a terceros en cada obra. Eso evita costes de más y el acabado es el mismo en toda la casa.
 
 📦
 
@@ -88,7 +88,7 @@ Compramos pintura, imprimaciones y materiales directamente a distribuidores mayo
 
 ### Eficiencia en obra
 
-14 años de experiencia en Granada nos permiten organizar los trabajos con precisión: menos tiempo de preparación, menos desperdicios, más metros al día. La eficiencia se traduce en precio justo.
+Desde 2012 trabajando en Granada me permite organizar los trabajos con precisión: menos tiempo de preparación, menos desperdicios, más metros al día. La eficiencia se traduce en precio justo.
 
 📍
 

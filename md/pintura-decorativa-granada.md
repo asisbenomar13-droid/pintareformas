@@ -10,7 +10,7 @@ Pintura Decorativa · Granada
 # Pintura Decorativa en Granada —
 Cuando Quieres Algo Diferente
 
-Llevo más de 10 años aplicando estucos, efectos y acabados decorativos en Granada. Si estás cansado de paredes blancas lisas, esto es lo tuyo.
+Llevo desde 2012 aplicando estucos, efectos y acabados decorativos en Granada. Si estás cansado de paredes blancas lisas, esto es lo tuyo.
 
 [Pedir presupuesto gratis](https://wa.me/34633915898?text=Hola%20PintaReformas%2C%20quiero%20presupuesto%20de%20pintura%20decorativa) [📞 633 915 898](tel:+34633915898)
 

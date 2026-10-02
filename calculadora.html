@@ -192,7 +192,7 @@ gtag("js",new Date());gtag("config","G-NMD6YPS60T");
         }
         .form-grp .hint {
             font-size: 0.78rem;
-            color: #888;
+            color: #707070;
             margin-top: 4px;
         }
         .option-cards {
@@ -576,12 +576,12 @@ gtag("js",new Date());gtag("config","G-NMD6YPS60T");
                 <div class="section-title">🎨 Pintura Interior</div>
                 <div class="form-grid">
                     <div class="form-grp">
-                        <label>📐 Metros cuadrados (m²)</label>
+                        <label for="pi-metros">📐 Metros cuadrados (m²)</label>
                         <input type="number" id="pi-metros" placeholder="Ej: 80" min="1" oninput="calcular()">
                         <div class="hint">Total de paredes y techos a pintar</div>
                     </div>
                     <div class="form-grp">
-                        <label>📑 Número de manos</label>
+                        <label for="pi-manos">📑 Número de manos</label>
                         <select id="pi-manos" onchange="calcular()">
                             <option value="1">1 mano</option>
                             <option value="2" selected>2 manos (recomendado)</option>
@@ -623,12 +623,12 @@ gtag("js",new Date());gtag("config","G-NMD6YPS60T");
                 <div class="section-title">🏢 Pintura Exterior / Fachadas</div>
                 <div class="form-grid">
                     <div class="form-grp">
-                        <label>📐 Metros cuadrados (m²)</label>
+                        <label for="pe-metros">📐 Metros cuadrados (m²)</label>
                         <input type="number" id="pe-metros" placeholder="Ej: 120" min="1" oninput="calcular()">
                         <div class="hint">Superficie total de la fachada</div>
                     </div>
                     <div class="form-grp">
-                        <label>🏠 Tipo de edificio</label>
+                        <label for="pe-tipo-edificio">🏠 Tipo de edificio</label>
                         <select id="pe-tipo-edificio" onchange="calcular()">
                             <option value="1">Vivienda / Chalet</option>
                             <option value="1.2">Comunidad de vecinos</option>
@@ -670,12 +670,12 @@ gtag("js",new Date());gtag("config","G-NMD6YPS60T");
                 <div class="section-title">📦 Tabiques de placa de yeso laminado</div>
                 <div class="form-grid">
                     <div class="form-grp">
-                        <label>📐 Metros cuadrados (m²)</label>
+                        <label for="pt-metros">📐 Metros cuadrados (m²)</label>
                         <input type="number" id="pt-metros" placeholder="Ej: 20" min="1" oninput="calcular()">
                         <div class="hint">Superficie del tabique a instalar</div>
                     </div>
                     <div class="form-grp">
-                        <label>🖌️ ¿Incluye pintura?</label>
+                        <label for="pt-pintura">🖌️ ¿Incluye pintura?</label>
                         <select id="pt-pintura" onchange="calcular()">
                             <option value="0">No incluir pintura</option>
                             <option value="4">Sí, pintura básica (+4€/m²)</option>
@@ -717,12 +717,12 @@ gtag("js",new Date());gtag("config","G-NMD6YPS60T");
                 <div class="section-title">💡 Falsos techos de placa de yeso</div>
                 <div class="form-grid">
                     <div class="form-grp">
-                        <label>📐 Metros cuadrados (m²)</label>
+                        <label for="ft-metros">📐 Metros cuadrados (m²)</label>
                         <input type="number" id="ft-metros" placeholder="Ej: 25" min="1" oninput="calcular()">
                         <div class="hint">Superficie del techo a cubrir</div>
                     </div>
                     <div class="form-grp">
-                        <label>💡 ¿Incluye iluminación LED?</label>
+                        <label for="ft-led">💡 ¿Incluye iluminación LED?</label>
                         <select id="ft-led" onchange="calcular()">
                             <option value="0">No, sin LED</option>
                             <option value="20">Sí, LED integrado (+20€/m²)</option>
@@ -764,12 +764,12 @@ gtag("js",new Date());gtag("config","G-NMD6YPS60T");
                 <div class="section-title">🍳 Reforma Cocina (pintura + placas de yeso)</div>
                 <div class="form-grid">
                     <div class="form-grp">
-                        <label>📐 Tamaño de la cocina (m²)</label>
+                        <label for="rc-metros">📐 Tamaño de la cocina (m²)</label>
                         <input type="number" id="rc-metros" placeholder="Ej: 12" min="4" oninput="calcular()">
                         <div class="hint">Metros cuadrados de superficie de la cocina</div>
                     </div>
                     <div class="form-grp">
-                        <label>⭐ Nivel de reforma</label>
+                        <label for="rc-nivel">⭐ Nivel de reforma</label>
                         <select id="rc-nivel" onchange="calcular()">
                             <option value="basic">Básica (pintura + pequeños arreglos)</option>
                             <option value="medium" selected>Media (placas de yeso + pintura + reforma)</option>
@@ -787,12 +787,12 @@ gtag("js",new Date());gtag("config","G-NMD6YPS60T");
                 <div class="section-title">🚿 Reforma Baño (pintura + placas de yeso)</div>
                 <div class="form-grid">
                     <div class="form-grp">
-                        <label>📐 Tamaño del baño (m²)</label>
+                        <label for="rb-metros">📐 Tamaño del baño (m²)</label>
                         <input type="number" id="rb-metros" placeholder="Ej: 6" min="2" oninput="calcular()">
                         <div class="hint">Metros cuadrados del baño completo</div>
                     </div>
                     <div class="form-grp">
-                        <label>⭐ Nivel de reforma</label>
+                        <label for="rb-nivel">⭐ Nivel de reforma</label>
                         <select id="rb-nivel" onchange="calcular()">
                             <option value="basic">Básica (pintura antihumedad)</option>
                             <option value="medium" selected>Media (placas de yeso + pintura)</option>
@@ -810,12 +810,12 @@ gtag("js",new Date());gtag("config","G-NMD6YPS60T");
                 <div class="section-title">🖼️ Papel Pintado</div>
                 <div class="form-grid">
                     <div class="form-grp">
-                        <label>📐 Metros cuadrados (m²)</label>
+                        <label for="pp-metros">📐 Metros cuadrados (m²)</label>
                         <input type="number" id="pp-metros" placeholder="Ej: 30" min="1" oninput="calcular()">
                         <div class="hint">Superficie de paredes a empapelar</div>
                     </div>
                     <div class="form-grp">
-                        <label>🔧 ¿Retirar papel viejo?</label>
+                        <label for="pp-retirar">🔧 ¿Retirar papel viejo?</label>
                         <select id="pp-retirar" onchange="calcular()">
                             <option value="0">No, paredes limpias</option>
                             <option value="3">Sí, retirar papel existente (+3€/m²)</option>

@@ -5,7 +5,7 @@ URL canónica: https://pintareformas.es/
 ---
 # Pintor en Granada y Costa del Sol desde 2012
 
-Soy Asis. Llevo 14 años pintando y reformando casas — yo mismo, sin intermediarios. Precio cerrado por escrito, factura y te atiendo en español, árabe o inglés. Te visito y te doy presupuesto el mismo día.
+Soy Asis. Llevo desde 2012 pintando y reformando casas — yo mismo, sin intermediarios. Precio cerrado por escrito, factura y te atiendo en español, árabe o inglés. Te visito y te doy presupuesto el mismo día.
 
 Presupuesto Gratis [633 915 898](tel:+34633915898)
 
@@ -303,8 +303,6 @@ Precios 2026
 
 Guía completa de precios para pintar tu vivienda.
 
-Leer más
-
 #### Precios de Pintura en Granada 2026
 
 El precio varía según el tipo de pintura y el acabado deseado:
@@ -321,8 +319,6 @@ Tabiques 2026
 
 Comparativa entre el tabique seco y la obra tradicional.
 
-Leer más
-
 #### Ventajas del tabique de placas de yeso frente a la albañilería
 
 **Placa de yeso:** instalación en 2-3 días, desde 25€/m², mínima suciedad, permite aislamiento integrado, modificable en el futuro.
@@ -336,8 +332,6 @@ Consejos 2026
 ### Cómo Preparar las Paredes para Pintar
 
 7 pasos para un acabado profesional perfecto.
-
-Leer más
 
 #### 7 Pasos para Preparar tus Paredes
 - 1. Limpiar la superficie con agua y detergente
@@ -356,8 +350,6 @@ Costa Málaga 2026
 
 Pintura resistente al salitre y humedad costera.
 
-Leer más
-
 #### Pinturas Recomendadas para Zonas Costeras
 
 En la Costa de Málaga el salitre y la humedad degradan rápidamente la pintura convencional. Recomendamos:
@@ -372,8 +364,6 @@ Granada 2026
 ### Cuándo Pintar tu Casa en Granada
 
 La mejor época del año según el clima granadino.
-
-Leer más
 
 #### Mejores Épocas para Pintar en Granada
 
@@ -392,8 +382,6 @@ Precios 2026
 ### Precio del Tabique y el Falso Techo en Granada por m²
 
 Tarifas actualizadas de tabiques y falsos techos.
-
-Leer más
 
 #### Precios de tabiques y falsos techos en Granada 2026
 - **Tabique simple:** desde 25€/m²
@@ -455,7 +443,7 @@ Pintar entre temporadas sin cerrar el piso y qué pintura aguanta el salitre de 
 
 ## ¿Necesitas Presupuesto?
 
-Te respondemos en menos de 5 minutos. Gratis y sin compromiso.
+Te contesto yo, el mismo día. Gratis y sin compromiso.
 
 [WhatsApp Directo](https://wa.me/34633915898?text=Hola%20PintaReformas%2C%20quiero%20presupuesto%20gratis) [633 915 898](tel:+34633915898)
 
@@ -485,7 +473,7 @@ Contacto
 
 ## Solicita Tu Presupuesto Gratis
 
-Respondemos en menos de 5 minutos
+Te contesto yo, el mismo día
 
 ### Datos de Contacto
 
