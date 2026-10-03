@@ -18,6 +18,18 @@ Trabajar en Granada capital no es como trabajar en cualquier sitio. No es lo mis
 
 Una buena parte de las llamadas que me entran en la capital son de gente que va a poner el piso en el mercado. Si es tu caso, antes de gastar de más échale un ojo a lo que cuesta y lo que devuelve [pintar el piso antes de venderlo](https://pintareformas.es/pintar-piso-antes-de-vender-granada.html): hay cosas que se notan en el precio de venta y otras que te puedes ahorrar tranquilamente.
 
+## Cómo es un trabajo conmigo en la capital
+
+Primero voy a verlo. Me das la dirección, quedamos el mismo día o al siguiente, mido, miro el estado de las paredes y te digo el precio allí mismo. Lo dejo por escrito, con lo que incluye y lo que no, y ese es el precio final. Si por el camino aparece algo que no se veía, como una humedad escondida detrás de un mueble, te lo enseño antes de tocar nada.
+
+En un piso vacío suelo tardar de 1 a 3 días, según los metros y si hay gotelé que quitar. Lo tapo todo bien, lijo, doy las manos que hagan falta y lo dejo recogido. Si el piso está habitado, vamos por habitaciones para que puedas seguir viviendo en él.
+
+En Granada hay muchos bloques con comunidad de vecinos. Si el trabajo toca el portal, la escalera o una fachada, hay que avisar a la comunidad, y en eso te echo una mano con el presupuesto por escrito que te van a pedir. Y si lo que quieres es reformar el piso entero, no solo pintarlo, mira [reformas integrales](https://pintareformas.es/reformas-integrales-granada.html) y, antes de empezar, [si necesitas licencia](https://pintareformas.es/licencia-obras-reforma-piso-granada.html).
+
+Pared de un piso en obra, con el suelo protegido mientras se pinta.
+
+Según lo que tengas entre manos, te servirá más una página u otra: [quitar gotelé](https://pintareformas.es/quitar-gotele-alisar-paredes-granada.html) en los pisos de los 70 y 80, [reparar humedades](https://pintareformas.es/reparacion-humedades-granada.html) en plantas bajas y casas antiguas, [pintura decorativa y estuco](https://pintareformas.es/pintura-decorativa-granada.html) para dar carácter, o [locales y oficinas](https://pintareformas.es/pintura-locales-oficinas-granada.html) si no puedes parar la actividad.
+
 Dónde trabajo
 
 ## Los barrios de Granada, uno a uno

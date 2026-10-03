@@ -5,19 +5,17 @@ URL canónica: https://pintareformas.es/pintura-y-placas-yeso-granada.html
 ---
 # Pintura y placas de yeso en Granada
 
-Llevo desde 2012 como pintor y montador de placas de yeso laminado en Granada: tabiques, falsos techos y reformas. El equipo es mío, no subcontrato a nadie. Precio cerrado por escrito, trabajo limpio y factura. Llámame hoy y te doy presupuesto gratis el mismo día.
+Soy Asis. Desde 2012 pinto y monto placas de yeso en Granada, y casi siempre es el mismo trabajo: levantas un tabique o un falso techo y luego hay que dejarlo listo para pintar. Si lo hace la misma persona de principio a fin, las juntas no se notan y nadie se pasa la pelota. Precio cerrado por escrito y factura.
 
 Pedir Presupuesto [633 915 898](tel:+34633915898)
 
-+10 Años
+2012 Trabajando en Granada
 
 4€/m² Desde
 
 Gratis en 24h
 
 Por escrito Precio cerrado
-
-Trabajo terminado en Granada — salón con pintura premium y acabado perfecto
 
 ## Pintura, tabiques y falsos techos en Granada
 
@@ -92,53 +90,27 @@ Granada Capital Albaicín / Sacromonte Armilla Maracena Atarfe Churriana de la V
 
 Desplazamiento gratuito hasta 50 km desde Granada capital.
 
-## Cómo Trabajamos — Sin Complicaciones
+## Pintar y montar placas en la misma obra: el orden importa
 
-1
+La mayoría de los problemas que veo en pisos reformados vienen de ahí: se montó el techo o el tabique y se pintó con prisas, y a los dos meses se marca la junta o se ve una mancha en la pared nueva. No es la pintura. Es que el trabajo no se hizo en el orden que toca.
 
-### Llama o escribe
+**El orden que sigo yo:**
+- **Instalaciones primero.** Antes de cerrar un techo o un tabique tiene que estar pasado todo lo de electricidad y los puntos de luz. Cerrar y abrir después es tirar trabajo.
+- **Montaje de las placas** con su estructura y, si hace falta, aislamiento dentro.
+- **Juntas y tornillos con cinta y pasta,** en varias pasadas y dejando secar entre una y otra. Es la parte que no se ve y la que decide el resultado.
+- **Lijado** hasta que la mano no note la junta.
+- **Imprimación selladora.** La placa y la pasta absorben de forma distinta; sin esta mano se ven las juntas aunque estén bien hechas.
+- **Pintura,** dos manos, con las paredes de al lado ya preparadas para que todo case.
 
-Te contesto en minutos por teléfono o WhatsApp.
+Falso techo de placas en un piso en obra: juntas tratadas, todavía sin imprimar ni pintar.
 
-2
+Si hay también gotelé que quitar o paredes que alisar, eso va antes de la imprimación, no después. Y el tiempo: un piso de unos 80 m² solo de pintura lleva de 3 a 5 días, y con tabiques o falsos techos de por medio, de 7 a 10, porque la pasta necesita secar entre manos y no se puede acelerar. Quien te prometa lo contrario te está vendiendo un trabajo que se va a marcar.
 
-### Voy a ver el trabajo
+Dependiendo de lo que necesites, entra directo en [tabiques de placas de yeso](https://pintareformas.es/tabiques-placas-yeso-granada.html), [falsos techos con LED](https://pintareformas.es/falsos-techos-led-granada.html), [pintura de pisos](https://pintareformas.es/pintura-pisos-granada.html) o [reformas integrales](https://pintareformas.es/reformas-integrales-granada.html), donde coordino también a albañiles, electricistas y fontaneros.
 
-Visita gratuita sin compromiso. Mido y evalúo.
+## El precio que te doy es el que pagas
 
-3
-
-### Presupuesto en 24h
-
-Precio cerrado por escrito. Lo que digo es lo que cobro.
-
-4
-
-### Empezamos
-
-El día acordado, sin excusas ni retrasos.
-
-5
-
-### Trabajamos limpio
-
-Protegemos todo y recogemos al terminar.
-
-6
-
-### Entrega y repaso final
-
-Revisamos juntos antes de darlo por terminado.
-
-## Cómo Trabajo en Granada
-
-### El precio que te doy es el que pagas
-
-Voy a ver la obra, mido y te paso un presupuesto cerrado. Si a mitad aparece algo que no se veía — una pared podrida, una viga fuera de sitio — te lo enseño y decides tú. No aparece en la factura sin que lo hayamos hablado.
-
-### Equipo propio, sin subcontratar
-
-El que te da el presupuesto es el que monta el tabique. Por eso, si algo no queda como hablamos, sé exactamente quién lo hizo y vuelvo a mirarlo.
+Voy a ver la obra, mido y te paso un presupuesto cerrado por escrito. Si a mitad aparece algo que no se veía, una pared en mal estado o una viga fuera de sitio, te lo enseño y decides tú. Nada aparece en la factura sin que lo hayamos hablado antes.
 
 ## Preguntas Frecuentes sobre Pintura en Granada
 
@@ -148,11 +120,19 @@ Entre 3 y 5 días para pintura completa. Si hay tabiques, falsos techos o papel 
 
 ¿Necesito salir de casa durante la obra?
 
-No. Trabajamos con pinturas de baja emisión que permiten habitar la casa a las pocas horas.
+No. Uso pinturas de baja emisión, así que puedes volver a habitar las estancias a las pocas horas.
 
 ¿Qué tipo de pintura usan?
 
 Pintura acrílica de alta cobertura (Valentine, Bruguer, Jotun). Para exteriores, plástico con protección UV.
+
+¿Se nota la junta de las placas después de pintar?
+
+No si se hace bien: cinta y pasta en varias pasadas, lijado e imprimación selladora antes de la pintura. Si se salta alguno de esos pasos, la junta acaba marcándose con el tiempo.
+
+¿Qué va primero, pintar o montar el falso techo?
+
+Primero el techo y las instalaciones, después las juntas y la imprimación, y la pintura al final. Pintar antes obliga a repintar.
 
 ¿El presupuesto es gratuito?
 
