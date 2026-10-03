@@ -130,7 +130,7 @@ Techo de placas de yeso con iluminacion empotrada — acabado habitual en reform
 
 ## Pintor en Motril: aquí se pinta para vivir, no para la foto
 
-Motril tiene menos apartamento de alquiler por semanas que Torremolinos o Fuengirola y mucha más vivienda de todo el año. Eso cambia bastante el trabajo. Aquí no me suelen llamar para dejar un piso mono de cara a un anuncio: me llaman porque el salón lleva quince años sin pintarse, porque los niños han crecido y las paredes lo han pagado, o porque se ha comprado un piso de segunda mano y hay que dejarlo habitable antes de mudarse.
+Motril tiene menos apartamento de alquiler por semanas que Torremolinos o Fuengirola y mucha más vivienda de todo el año (si tienes un apartamento turístico, aquí cuento [cómo organizo ese trabajo](https://pintareformas.es/pintar-piso-alquiler-vacacional-costa.html)). Eso cambia bastante el trabajo. Aquí no me suelen llamar para dejar un piso mono de cara a un anuncio: me llaman porque el salón lleva quince años sin pintarse, porque los niños han crecido y las paredes lo han pagado, o porque se ha comprado un piso de segunda mano y hay que dejarlo habitable antes de mudarse.
 
 Con la familia dentro de casa, lo que más importa después del precio es el orden. Voy por habitaciones, te dejo siempre sitio para hacer vida, te digo el día antes qué cuarto toca y recojo cada tarde. No dejo la casa levantada dos semanas para ahorrarme viajes.
 

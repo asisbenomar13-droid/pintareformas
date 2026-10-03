@@ -49,7 +49,7 @@ Marbella tiene una particularidad: muchas viviendas son apartamentos de segunda 
 
 Eso no significa que sea más caro obligatoriamente, significa que hay que hacerlo bien desde el principio. Yo trabajo con pinturas de primera, protejo todo el mobiliario que haya, y no salgo de la obra hasta que el resultado esté limpio.
 
-Otra cosa que me pasa mucho en Marbella: propietarios que vienen solo en verano y quieren que el piso esté listo para cuando lleguen. En ese caso, podemos cuadrar fechas con tiempo y yo me encargo de todo sin que tengas que estar presente. Te mando fotos del avance y al terminar quedamos para que lo veas.
+Otra cosa que me pasa mucho en Marbella: propietarios que vienen solo en verano y quieren que el piso esté listo para cuando lleguen. En ese caso, podemos cuadrar fechas con tiempo y yo me encargo de todo sin que tengas que estar presente. Te mando fotos del avance y al terminar quedamos para que lo veas. Si es un apartamento que alquilas, tengo escrito [cómo pintarlo sin perder semanas de reservas](https://pintareformas.es/pintar-piso-alquiler-vacacional-costa.html).
 
 Me muevo por toda la zona: Marbella ciudad, Nueva Andalucía, Puerto Banús, San Pedro de Alcántara, Elviria, Cabopino. Si tienes una villa en las colinas o un ático en primera línea, también llego.
 

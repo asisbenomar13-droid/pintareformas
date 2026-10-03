@@ -20,7 +20,7 @@ En Benalmádena desde 2012. Aquí hay mucho piso turístico y mucho residente ex
 - ✅ **Te hablo en tu idioma:** en Benalmádena hay mucho propietario extranjero que se pierde con los gremios locales. Conmigo no hay ese problema — español, inglés o árabe, lo que necesites.
 - ✅ **El precio que te digo es el que te cobro:** nada de "esto no estaba incluido" al terminar. Todo por escrito antes de empezar. Si aparece algo imprevisto, te llamo antes de tocarlo.
 - ✅ **La costa castiga la pintura:** la humedad del mar, el salitre y el sol de Benalmádena hacen que la pintura barata dure poco. Sé qué productos funcionan aquí de verdad y cuáles son un gasto tirado.
-- ✅ **Trabajo limpio:** protejo muebles y suelos, recojo todos los días. Sobre todo en apartamentos de alquiler turístico — entiendo que no puedes tener el piso parado más de lo necesario.
+- ✅ **Trabajo limpio:** protejo muebles y suelos, recojo todos los días. Sobre todo en apartamentos de alquiler turístico — entiendo que no puedes tener el piso parado más de lo necesario. Lo explico con detalle en [pintar un piso de alquiler vacacional en la costa](https://pintareformas.es/pintar-piso-alquiler-vacacional-costa.html).
 - ✅ **Si algo no queda como hablamos, me llamas:** me acerco y lo miro. Sin excusas.
 - ✅ **Tratas conmigo directamente:** sin comerciales, sin encargados intermedios. Desde el primer mensaje hasta el último día soy yo.
 

@@ -41,7 +41,7 @@ Si tu zona no la ves aquí, llámame igual. No digo que no por estar un poco má
 
 ### 🎨 Pintura de apartamentos para alquilar
 
-Desde 4€/m². Es lo que más hago en Nerja — gente que tiene su piso o apartamento para alquiler vacacional y necesita dejarlo como nuevo antes de la temporada. Un piso de 70m² lo tengo en 3-5 días, sin que pierdas reservas.
+Desde 4€/m². Es lo que más hago en Nerja — gente que tiene su piso o apartamento para alquiler vacacional y necesita dejarlo como nuevo antes de la temporada. Un piso de 70m² lo tengo en 3-5 días, sin que pierdas reservas. Cómo organizo el trabajo entre huéspedes lo cuento en [pintar un piso de alquiler vacacional en la costa](https://pintareformas.es/pintar-piso-alquiler-vacacional-costa.html).
 
 ### 🏢 Fachadas y pintura exterior frente al mar
 

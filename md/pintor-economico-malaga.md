@@ -156,7 +156,7 @@ Para enviarte un presupuesto ajustado necesitamos: metros cuadrados aproximados 
 
 ## Presupuesto gratuito en 24 horas — sin compromiso
 
-Mándame fotos por WhatsApp de lo que quieres pintar en Málaga o en la costa y te respondo con un precio detallado por escrito en 24 horas.
+Mándame fotos por WhatsApp de lo que quieres pintar en Málaga o en la costa y te respondo con un precio detallado por escrito en 24 horas. Si es un piso de alquiler turístico, mira antes [pintar un piso de alquiler vacacional en la costa](https://pintareformas.es/pintar-piso-alquiler-vacacional-costa.html).
 
 [WhatsApp — Respuesta inmediata](https://wa.me/34633915898?text=Hola%2C%20quiero%20presupuesto%20de%20pintura%20econ%C3%B3mica%20en%20M%C3%A1laga) [Formulario de contacto](https://pintareformas.es/#contacto)
 
