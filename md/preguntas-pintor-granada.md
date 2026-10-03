@@ -17,7 +17,7 @@ Tabique simple desde 25€/m², tabique doble desde 35€/m², falso techo bási
 
 ¿Cuánto cuesta reformar un baño en Granada?
 
-Desde 200€ para solo pintura antimoho hasta 3.500€ para una reforma integral. Una reforma media con placa hidrófuga, falso techo y pintura para un baño de 5-8m² cuesta entre 1.200€ y 2.000€.
+Desde 200€ si solo hace falta pintura antimoho. Una reforma de baño completa empieza desde 2.000€: un baño pequeño de 3 a 4 m² se queda normalmente entre 2.000 y 3.000 €, y uno mediano de 5 a 6 m², entre 2.600 y 4.200 €. Detalle por partidas en la página de reformas de baño.
 
 ¿Cuánto cuesta reformar una cocina en Granada?
 

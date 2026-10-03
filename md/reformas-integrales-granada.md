@@ -1,4 +1,4 @@
-# Reformas integrales en Granada: precio, plazos y un solo interlocutor
+# Reformas integrales en Granada: precio y plazos
 
 > Reformas integrales de pisos en Granada desde 400 €/m². Una sola persona al frente, plazos por escrito y precio cerrado. Presupuesto gratis: 633 915 898.
 

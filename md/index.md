@@ -33,7 +33,7 @@ Interior, exterior, decorativa o fachadas. Usamos buenos materiales porque quere
 - Pintura decorativa
 - Fachadas e impermeabilización
 
-Desde 4€/m²
+Desde 4€/m² de pared y techo
 
 Pedir Presupuesto
 
@@ -45,7 +45,7 @@ Sin martillazos ni polvo durante semanas. La placa de yeso laminado es rápida, 
 - Aislamiento acústico
 - Muebles a medida
 
-Desde 25€/m²
+Tabique desde 25€/m² · Techo desde 30€/m²
 
 Pedir Presupuesto
 
@@ -57,7 +57,7 @@ Cocinas, baños o la casa entera. Te damos un precio cerrado antes de empezar y 
 - Reforma baño
 - Reforma oficinas
 
-Desde 2.000€
+Baño desde 2.000€ · Casa entera desde 400€/m²
 
 Pedir Presupuesto
 
@@ -311,7 +311,7 @@ El precio varía según el tipo de pintura y el acabado deseado:
 - **Pintura decorativa:** desde 12€/m²
 - **Estuco veneciano:** desde 18€/m²
 
-Una vivienda completa de 80m² ronda entre 800€ y 2.500€. El precio incluye preparación, imprimación y 2 manos de pintura. Pide tu presupuesto gratis →
+Una vivienda completa de 80m² ronda entre 800€ y 2.500€. Los 4 €/m² son de pared y techo, no de los metros del piso: una vivienda de 80 m² tiene entre 240 y 280 m² que pintar. El precio incluye preparación, imprimación y 2 manos de pintura. Pide tu presupuesto gratis →
 
 Tabiques 2026
 
@@ -453,7 +453,7 @@ FAQ
 
 Haz clic en cada pregunta para ver la respuesta
 
-El precio empieza desde **4€/m²** para pintura básica y hasta **15€/m²** para pintura decorativa. Una vivienda de 80m² ronda entre 800€ y 2.500€ según calidad y acabado.
+El precio empieza desde **4€/m²** para pintura básica y hasta **15€/m²** para pintura decorativa. Una vivienda de 80m² ronda entre 800€ y 2.500€ según calidad y acabado. Los 4 €/m² son de pared y techo, no de los metros del piso: una vivienda de 80 m² tiene entre 240 y 280 m² que pintar.
 
 Los **tabiques de placas de yeso** desde 25€/m². Los **falsos techos** desde 30€/m². Con **aislamiento acústico** desde 40€/m². El precio incluye material y mano de obra.
 
