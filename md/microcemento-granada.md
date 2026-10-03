@@ -64,6 +64,14 @@ Esa es la pregunta que me hacen más. "Oye Asis, ¿lo pongo encima del azulejo s
 
 Ahora bien, las juntas del azulejo hay que tratarlas con malla y una cosa de adherencia. Si te lo ponen directamente sin eso, al cabo de unos meses empiezas a ver las juntas marcadas. Es el fallo más típico que veo reparar.
 
+## Así queda en un baño
+
+Estas fotos son de un baño con microcemento que me mandó un cliente junto con su reseña: una pared en gris con el grifo empotrado y un lavabo sobre encimera en tono arena. Se ve bien cómo cambia el acabado según el color y cómo el material sube sin juntas por la pared y la encimera.
+
+Microcemento gris en la pared de un baño.
+
+Microcemento en tono arena en la encimera y las paredes.
+
 ## Preguntas que me hacen casi todas las semanas
 
 ¿Cuánto dura el microcemento?
