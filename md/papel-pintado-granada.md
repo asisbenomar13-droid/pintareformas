@@ -16,6 +16,12 @@ Poner papel pintado tiene su técnica para que quede perfecto. Llevamos años ha
 
 Papel pintado de motivo tropical en la pared de la cabecera.
 
+Papel pintado de ramas en gris, durante la colocación.
+
+Papel pintado de efecto tejido en tonos arena y gris.
+
+Papel de efecto tejido ya colocado, con el suelo protegido.
+
 El proceso
 
 ## Cómo lo hacemos
