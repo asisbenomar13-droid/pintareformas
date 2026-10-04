@@ -36,6 +36,8 @@ Hojas de palma en gris suave.
 
 Efecto tejido en gris junto a pared pintada: la esquina queda limpia.
 
+Hojas en negro y gris, durante la colocación.
+
 El proceso
 
 ## Cómo lo hacemos
