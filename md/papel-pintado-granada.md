@@ -34,6 +34,8 @@ Damasco en gris claro, en un comedor.
 
 Hojas de palma en gris suave.
 
+Efecto tejido en gris junto a pared pintada: la esquina queda limpia.
+
 El proceso
 
 ## Cómo lo hacemos

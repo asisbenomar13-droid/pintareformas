@@ -14,7 +14,9 @@ Te explico cuánto cuesta pintar un piso en Granada en 2026, qué incluye y qué
 
 [Presupuesto gratis hoy](https://wa.me/34633915898?text=Hola%20PintaReformas%2C%20quiero%20presupuesto%20para%20pintar%20mi%20piso) [📞 633 915 898](tel:+34633915898)
 
-Pasillo de un piso en plena obra, con panel de madera a media altura en las paredes.
+Paredes lisas en gris muy claro con rodapié blanco.
+
+Pasillo en plena obra, con panel de madera a media altura.
 
 Factores de precio
 
