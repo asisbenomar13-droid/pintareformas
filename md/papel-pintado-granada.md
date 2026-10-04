@@ -14,13 +14,25 @@ Poner papel pintado tiene su técnica para que quede perfecto. Llevamos años ha
 
 [Pedir presupuesto gratis](https://wa.me/34633915898?text=Hola%20PintaReformas%2C%20quiero%20presupuesto%20para%20papel%20pintado) [📞 633 915 898](tel:+34633915898)
 
-Papel pintado de motivo tropical en la pared de la cabecera.
+## Algunos trabajos de papel pintado
 
-Papel pintado de ramas en gris, durante la colocación.
+Papel de motivo tropical en la cabecera.
 
-Papel pintado de efecto tejido en tonos arena y gris.
+Hojas en verde y gris, estilo acuarela.
 
-Papel de efecto tejido ya colocado, con el suelo protegido.
+Ramas en gris, durante la colocación.
+
+Efecto tejido en tonos arena y gris.
+
+Efecto tejido ya colocado, con el suelo protegido.
+
+Textura en tono bronce en un recibidor.
+
+Floral beige tras el cabecero.
+
+Damasco en gris claro, en un comedor.
+
+Hojas de palma en gris suave.
 
 El proceso
 
