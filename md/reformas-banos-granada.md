@@ -121,6 +121,36 @@ Sin ventana, el extractor deja de ser opcional y hay que llevar el conducto hast
 
 En pisos de los 60 y 70 aparece de todo detrás del azulejo: tubería de plomo, desagües de fibrocemento, tabiques que se caen al picar. No se arregla, se sustituye. Entre un 15 y un 25 % más. Lo veo antes de darte precio para que no salga a mitad de obra.
 
+## Qué se lleva ahora en los baños (y qué te conviene de verdad)
+
+Las revistas de decoración repiten las mismas ideas para los baños de 2026 y 2027. Te cuento cada una con lo que implica en obra, que es lo que no sale en las fotos.
+
+### Ducha a ras de suelo
+
+Se lleva mucho, con una mampara fina de cristal. Pide una pendiente bien hecha en el suelo y, a veces, tocar el desagüe, que es lo que más encarece un baño, como ves más arriba. Antes de decidirlo lo miro en tu baño para ver si el suelo lo permite.
+
+### Microcemento en la ducha y las paredes
+
+Es continuo, sin juntas donde se acumule la suciedad, y en muchos casos se puede aplicar sobre el azulejo viejo. En la zona de ducha sale entre 95 y 125 €/m². Tienes [todo sobre el microcemento](https://pintareformas.es/microcemento-granada.html) en su página.
+
+### Tonos tierra y acabados naturales
+
+Arena, beige cálido, terracota suave y madera clara en lugar del blanco frío. Queda acogedor y se lleva bien con la luz de aquí. Si solo quieres cambiar el aire sin reformar, un color nuevo con [pintura antihumedad](https://pintareformas.es/pintura-humedad-banos.html) ya cambia mucho.
+
+### Muebles suspendidos
+
+Dejan el suelo libre y el baño parece más grande. Para colgarlos, la pared tiene que aguantar el peso: en un tabique de placas de yeso lo dejo reforzado por dentro desde el principio.
+
+### Luz LED integrada
+
+Focos en el techo y una tira de luz tras el espejo en lugar de una sola lámpara. Con un [falso techo con LED](https://pintareformas.es/falsos-techos-led-granada.html) queda todo escondido y limpio.
+
+### Porcelánico de gran formato
+
+Menos juntas y un aspecto más limpio, imitando mármol o piedra. Ya te he contado arriba que pide una pared perfectamente plana y más horas de colocación, y por eso cuesta más.
+
+Mi consejo: no hagas todo a la vez. Elige dos cosas que te gusten de verdad, por ejemplo la ducha y los tonos, y haz bien esas. Un baño pequeño recargado de tendencias envejece antes que uno sencillo bien ejecutado.
+
 ## Cómo abaratarlo sin quedarte a medias
 
 Si el presupuesto te aprieta, aquí es por donde yo recortaría. Y también por dónde no.
