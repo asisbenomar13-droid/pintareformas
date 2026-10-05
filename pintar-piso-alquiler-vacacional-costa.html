@@ -225,6 +225,80 @@ footer a:hover{text-decoration:underline}
 </section>
 
 <!-- INTRO -->
+<section style="background:#fff;padding:44px 20px 36px">
+  <div style="max-width:1000px;margin:0 auto">
+    <h2 style="text-align:center;color:#0D1B2A;font-size:1.7rem;margin-bottom:26px">Dormitorios y baño terminados</h2>
+    <div class="gal">
+      <button type="button" class="gal-btn gal-prev" aria-label="Foto anterior">&#8249;</button>
+      <div class="gal-track" tabindex="0" role="region" aria-label="Galería de fotos">
+<figure class="gal-item">
+    <picture>
+      <source srcset="img/webp/dormitorio-terminado-cabecero-gris-cortinas.webp" type="image/webp">
+      <img src="img/dormitorio-terminado-cabecero-gris-cortinas.jpg" width="840" height="1120" alt="Dormitorio terminado con cama doble, cabecero gris y cortinas largas" style="width:100%;height:auto;aspect-ratio:3/4;object-fit:cover;border-radius:12px" loading="lazy">
+    </picture>
+    <figcaption style="font-size:.85rem;color:#707070;margin-top:8px;text-align:center">Dormitorio terminado.</figcaption>
+  </figure>
+<figure class="gal-item">
+    <picture>
+      <source srcset="img/webp/dormitorio-terminado-banera-exenta-pared-taupe.webp" type="image/webp">
+      <img src="img/dormitorio-terminado-banera-exenta-pared-taupe.jpg" width="840" height="1120" alt="Dormitorio terminado con cama doble, pared en tono taupe y bañera exenta junto a la ventana" style="width:100%;height:auto;aspect-ratio:3/4;object-fit:cover;border-radius:12px" loading="lazy">
+    </picture>
+    <figcaption style="font-size:.85rem;color:#707070;margin-top:8px;text-align:center">Dormitorio terminado, pared en tono taupe.</figcaption>
+  </figure>
+<figure class="gal-item">
+    <picture>
+      <source srcset="img/webp/dormitorio-dos-camas-terminado-cortinas.webp" type="image/webp">
+      <img src="img/dormitorio-dos-camas-terminado-cortinas.jpg" width="840" height="1120" alt="Dormitorio con dos camas individuales terminado, con cortinas largas" style="width:100%;height:auto;aspect-ratio:3/4;object-fit:cover;border-radius:12px" loading="lazy">
+    </picture>
+    <figcaption style="font-size:.85rem;color:#707070;margin-top:8px;text-align:center">Dormitorio con dos camas, terminado.</figcaption>
+  </figure>
+<figure class="gal-item">
+    <picture>
+      <source srcset="img/webp/bano-terminado-azulejo-marmol-lavabo.webp" type="image/webp">
+      <img src="img/bano-terminado-azulejo-marmol-lavabo.jpg" width="840" height="1120" alt="Baño terminado con azulejo efecto mármol, lavabo y claraboya" style="width:100%;height:auto;aspect-ratio:3/4;object-fit:cover;border-radius:12px" loading="lazy">
+    </picture>
+    <figcaption style="font-size:.85rem;color:#707070;margin-top:8px;text-align:center">Baño terminado.</figcaption>
+  </figure>
+      </div>
+      <button type="button" class="gal-btn gal-next" aria-label="Foto siguiente">&#8250;</button>
+      <div class="gal-dots" role="group" aria-label="Elegir foto"></div>
+    </div>
+  </div>
+</section>
+<style>
+.gal{position:relative}
+.gal-track{display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;-webkit-overflow-scrolling:touch;scrollbar-width:none;padding:4px 2px 8px}
+.gal-track::-webkit-scrollbar{display:none}
+.gal-item{flex:0 0 78%;scroll-snap-align:start;margin:0}
+@media(min-width:640px){.gal-item{flex-basis:calc((100% - 16px)/2)}}
+@media(min-width:900px){.gal-item{flex-basis:calc((100% - 48px)/4)}}
+.gal-btn{position:absolute;top:42%;transform:translateY(-50%);width:44px;height:44px;border-radius:50%;border:0;background:rgba(13,27,42,.82);color:#fff;font-size:22px;line-height:44px;cursor:pointer;z-index:2;box-shadow:0 4px 14px rgba(0,0,0,.3)}
+.gal-btn:hover,.gal-btn:focus-visible{background:#FF9800;color:#0D1B2A}
+.gal-prev{left:-6px}.gal-next{right:-6px}
+.gal-dots{display:flex;gap:8px;justify-content:center;margin-top:14px}
+.gal-dot{width:9px;height:9px;border-radius:50%;border:0;padding:0;background:#c9d1da;cursor:pointer}
+.gal-dot[aria-current="true"]{background:#FF9800;width:24px;border-radius:6px}
+</style>
+<script>
+(function(){document.querySelectorAll(".gal").forEach(function(g){
+var t=g.querySelector(".gal-track"),items=[].slice.call(t.children),dots=g.querySelector(".gal-dots"),pause=false,reduce=window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches;
+function step(){return items[0].getBoundingClientRect().width+16}
+function idx(){return Math.round(t.scrollLeft/step())}
+function go(d){var max=t.scrollWidth-t.clientWidth-2;if(d>0&&t.scrollLeft>=max){t.scrollTo({left:0,behavior:"smooth"})}else if(d<0&&t.scrollLeft<=2){t.scrollTo({left:max,behavior:"smooth"})}else{t.scrollBy({left:d*step(),behavior:"smooth"})}}
+items.forEach(function(_,i){var b=document.createElement("button");b.className="gal-dot";b.type="button";b.setAttribute("aria-label","Foto "+(i+1));b.onclick=function(){t.scrollTo({left:i*step(),behavior:"smooth"})};dots.appendChild(b)});
+function paint(){var i=Math.min(idx(),items.length-1);[].forEach.call(dots.children,function(d,k){d.setAttribute("aria-current",k===i?"true":"false")})}
+t.addEventListener("scroll",paint,{passive:true});paint();
+g.querySelector(".gal-prev").onclick=function(){go(-1)};g.querySelector(".gal-next").onclick=function(){go(1)};
+function onscreen(){var r=g.getBoundingClientRect();return r.bottom>0&&r.top<(window.innerHeight||document.documentElement.clientHeight)}
+if(!reduce){setInterval(function(){if(!pause&&!document.hidden&&onscreen())go(1)},3500)}
+function stop(){pause=true}function resume(){pause=false}
+["mouseenter","focusin","touchstart","pointerdown"].forEach(function(e){g.addEventListener(e,stop,{passive:true})});
+["mouseleave","focusout"].forEach(function(e){g.addEventListener(e,resume)});
+g.addEventListener("touchend",function(){setTimeout(resume,4000)},{passive:true});
+
+})})();
+</script>
+
 <section>
   <div class="container">
     <div class="prose">

@@ -14,6 +14,16 @@ Soy Asis. Llevo desde 2012 pintando en la costa y buena parte de lo que hago son
 
 [Presupuesto para tu apartamento](https://wa.me/34633915898?text=Hola%20Asis%2C%20tengo%20un%20piso%20de%20alquiler%20vacacional%20y%20quiero%20presupuesto) [📞 633 915 898](tel:+34633915898)
 
+## Dormitorios y baño terminados
+
+Dormitorio terminado.
+
+Dormitorio terminado, pared en tono taupe.
+
+Dormitorio con dos camas, terminado.
+
+Baño terminado.
+
 Un piso de alquiler vacacional no se pinta como una casa. En una casa la pared la rozan cuatro personas que la cuidan porque es suya. En un apartamento turístico pasan cincuenta familias al año con maletas, carritos, tablas de surf y niños, y ninguna se para a pensar en tu pared. A los seis meses el pasillo tiene la línea de las maletas, el cabecero está negro de manos y detrás de la puerta hay una marca del pomo.
 
 Eso no se arregla pintando más veces. Se arregla pintando **con otro criterio**: otro tipo de pintura, otro acabado y unos cuantos detalles en las zonas que se comen todo el desgaste. Te cuento cómo lo hago yo, cuánto cuesta y qué cosas te puedes ahorrar tranquilamente.

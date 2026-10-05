@@ -40,6 +40,10 @@ Efecto tejido en gris junto a pared pintada: la esquina queda limpia.
 
 Hojas en negro y gris, durante la colocación.
 
+Papel pintado de rayas en gris y beige.
+
+Rayas verticales en gris y beige.
+
 El proceso
 
 ## Cómo lo hacemos
