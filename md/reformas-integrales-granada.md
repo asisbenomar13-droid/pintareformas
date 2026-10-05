@@ -36,15 +36,11 @@ Qué incluye
 
 ## Qué entra en una reforma integral
 
-🔨
-
 ### Demolición y albañilería
 
 Tirar tabiques, picar alicatado y suelo, sacar escombros, nuevos tabiques y regularizar suelos.
 
 🔎 Aquí se decide el ritmo de toda la obra.
-
-⚡
 
 ### Electricidad y fontanería
 
@@ -52,15 +48,11 @@ Instalación nueva completa, cuadro con diferenciales, boletín eléctrico y tub
 
 🔎 Imprescindible en pisos de los 60, 70 y 80.
 
-🚿
-
 ### Baños y cocina
 
 Alicatado, sanitarios, plato de ducha y mampara, y la obra de la cocina lista para los muebles.
 
-🔎 Detalle en [reformas de baño](https://pintareformas.es/reformas-banos-granada.html).
-
-🧱
+🔎 Detalle en [reformas de baño](https://pintareformas.es/reformas-banos-granada.html) y [reformas de cocina](https://pintareformas.es/reformas-cocinas-granada.html).
 
 ### Tabiques y falsos techos
 
@@ -68,15 +60,11 @@ Redistribución con [tabiques de placas de yeso](https://pintareformas.es/tabiqu
 
 🔎 Limpio, rápido y sin obra húmeda.
 
-🎨
-
 ### Pintura y acabados
 
 Imprimación sobre yeso nuevo, dos o tres manos en paredes y techos y esmalte en puertas. También la hago yo.
 
 🔎 Mira [el precio de pintar un piso](https://pintareformas.es/precio-pintar-piso-granada.html).
-
-📄
 
 ### Licencias y limpieza
 

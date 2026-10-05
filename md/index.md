@@ -53,8 +53,8 @@ Pedir Presupuesto
 
 Cocinas, baños o la casa entera. Te damos un precio cerrado antes de empezar y cumplimos el plazo. Sin sustos al final.
 - Reforma integral
-- Reforma cocina
-- Reforma baño
+- [Reforma cocina](https://pintareformas.es/reformas-cocinas-granada.html)
+- [Reforma baño](https://pintareformas.es/reformas-banos-granada.html)
 - Reforma oficinas
 
 Baño desde 2.000€ · Casa entera desde 400€/m²

@@ -72,7 +72,7 @@ Esta es la tabla que de verdad importa y la que casi nadie te enseña. Son los p
 
 ### Dos cosas que hay que aclarar de esa tabla
 
-**La cocina.** Cuando digo que hago una [reforma de cocina desde 3.000 €](https://pintareformas.es/placas-yeso-cocinas.html) hablo de la obra: picar, alicatar, solar, mover la fontanería y la electricidad y dejarla lista. Los muebles, la encimera y los electrodomésticos no van ahí, esos son entre 3.000 y 8.000 € más según lo que elijas. Por eso en la tabla de arriba la cocina se lleva 9.350 €: es la obra más el mobiliario junto.
+**La cocina.** Cuando digo que hago una [reforma de cocina desde 3.000 €](https://pintareformas.es/reformas-cocinas-granada.html) hablo de la obra: picar, alicatar, solar, mover la fontanería y la electricidad y dejarla lista. Los muebles, la encimera y los electrodomésticos no van ahí, esos son entre 3.000 y 8.000 € más según lo que elijas. Por eso en la tabla de arriba la cocina se lleva 9.350 €: es la obra más el mobiliario junto.
 
 **La pintura.** Pintar un piso de 90 m² suelto te cuesta entre 1.080 y 1.890 €, y te lo explico con los números en [mi página de precio de pintar un piso en Granada](https://pintareformas.es/precio-pintar-piso-granada.html). Dentro de una reforma sale algo más caro porque el yeso nuevo chupa mucho y hay que dar imprimación y a veces tres manos, y porque van también las puertas y los rodapiés. De ahí los 2.750 €.
 

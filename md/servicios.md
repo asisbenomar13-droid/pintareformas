@@ -91,6 +91,12 @@ Techos con la luz integrada, con el precio desglosado y ejemplos de cómo quedan
 
 Desde 50 €/m²
 
+### [Reforma de cocina](https://pintareformas.es/reformas-cocinas-granada.html)
+
+La obra de la cocina y los muebles, con plazo y precio cerrados por escrito.
+
+Obra desde 3.000 €
+
 ### [Placas de yeso en cocinas](https://pintareformas.es/placas-yeso-cocinas.html)
 
 Tapar tubos y bajantes a la vista dejando registro para poder abrir si hace falta.
