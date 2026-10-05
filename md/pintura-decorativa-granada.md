@@ -24,6 +24,16 @@ Papel pintado de diseño geométrico en gris.
 
 Pared de baño con motivo geométrico de hexágonos.
 
+Pintura decorativa efecto damasco, acabado nacarado.
+
+Efecto damasco aplicado en las paredes de la habitación.
+
+Efecto damasco: brillo perlado según la luz.
+
+Damasco en tono arena claro.
+
+Detalle del acabado damasco con la luz.
+
 Detalle del mismo acabado decorativo.
 
 Papel pintado de motivo tropical en la cabecera.
@@ -54,15 +64,11 @@ Servicios
 
 Estas son las técnicas que más aplico en Granada. Si lo que buscas no aparece aquí, pregúntame igualmente.
 
-🏛️
-
 ### Estuco Veneciano
 
 Desde 18€/m²
 
 El acabado más elegante. Imita el mármol y dura décadas si se cuida. Lo aplico a mano en varias capas y acaba con una cera que lo protege y le da ese brillo característico.
-
-🔲
 
 ### Microcemento
 
@@ -70,15 +76,17 @@ Desde 85€/m²
 
 Moderno, continuo, sin juntas. Ideal para suelos y paredes de baños y cocinas. Se puede aplicar sobre casi cualquier superficie sin necesidad de demoler lo que hay.
 
-🎨
-
 ### Efectos Decorativos
 
 Desde 10€/m²
 
 Rayas, geométricos, envejecidos... lo que imagines, lo hablamos. Con la pintura y las herramientas correctas se pueden conseguir texturas muy distintas y originales.
 
-🖼️
+### Efecto Damasco
+
+Según la superficie
+
+Pintura decorativa de acabado nacarado, con un brillo perlado que cambia según la luz. Queda muy bien en dormitorios y salones. Mira las fotos de arriba y dime qué te gusta.
 
 ### Papel Pintado
 
