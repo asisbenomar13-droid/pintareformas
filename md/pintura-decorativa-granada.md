@@ -84,7 +84,7 @@ Rayas, geométricos, envejecidos... lo que imagines, lo hablamos. Con la pintura
 
 ### Efecto Damasco
 
-Según la superficie
+Desde 9€/m²
 
 Pintura decorativa de acabado nacarado, con un brillo perlado que cambia según la luz. Queda muy bien en dormitorios y salones. Mira las fotos de arriba y dime qué te gusta.
 
