@@ -244,7 +244,7 @@ footer a:hover{text-decoration:underline}
 </style>
 <script>
 (function(){document.querySelectorAll(".gal").forEach(function(g){
-var t=g.querySelector(".gal-track"),items=[].slice.call(t.children),dots=g.querySelector(".gal-dots"),pause=false,timer=null,reduce=window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches;
+var t=g.querySelector(".gal-track"),items=[].slice.call(t.children),dots=g.querySelector(".gal-dots"),pause=false,reduce=window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches;
 function step(){return items[0].getBoundingClientRect().width+16}
 function idx(){return Math.round(t.scrollLeft/step())}
 function go(d){var max=t.scrollWidth-t.clientWidth-2;if(d>0&&t.scrollLeft>=max){t.scrollTo({left:0,behavior:"smooth"})}else if(d<0&&t.scrollLeft<=2){t.scrollTo({left:max,behavior:"smooth"})}else{t.scrollBy({left:d*step(),behavior:"smooth"})}}
@@ -252,12 +252,13 @@ items.forEach(function(_,i){var b=document.createElement("button");b.className="
 function paint(){var i=Math.min(idx(),items.length-1);[].forEach.call(dots.children,function(d,k){d.setAttribute("aria-current",k===i?"true":"false")})}
 t.addEventListener("scroll",paint,{passive:true});paint();
 g.querySelector(".gal-prev").onclick=function(){go(-1)};g.querySelector(".gal-next").onclick=function(){go(1)};
-function start(){if(reduce||timer)return;timer=setInterval(function(){if(!pause&&!document.hidden)go(1)},3500)}
+function onscreen(){var r=g.getBoundingClientRect();return r.bottom>0&&r.top<(window.innerHeight||document.documentElement.clientHeight)}
+if(!reduce){setInterval(function(){if(!pause&&!document.hidden&&onscreen())go(1)},3500)}
 function stop(){pause=true}function resume(){pause=false}
 ["mouseenter","focusin","touchstart","pointerdown"].forEach(function(e){g.addEventListener(e,stop,{passive:true})});
 ["mouseleave","focusout"].forEach(function(e){g.addEventListener(e,resume)});
 g.addEventListener("touchend",function(){setTimeout(resume,4000)},{passive:true});
-if("IntersectionObserver" in window){new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting)start();else if(timer){clearInterval(timer);timer=null}})},{threshold:.2}).observe(g)}else start();
+
 })})();
 </script>
 
