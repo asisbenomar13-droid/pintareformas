@@ -20,6 +20,8 @@ Papel de motivo tropical en la cabecera.
 
 Hojas en verde y gris, estilo acuarela.
 
+Papel pintado de diseño geométrico en gris.
+
 Ramas en gris, durante la colocación.
 
 Efecto tejido en tonos arena y gris.

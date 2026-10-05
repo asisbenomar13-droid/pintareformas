@@ -20,6 +20,8 @@ Estuco en un salón: acabado mate, con el veteado propio de la aplicación a man
 
 Estuco pulido: el brillo de la pared refleja la luz de la ventana.
 
+Papel pintado de diseño geométrico en gris.
+
 Pared de baño con motivo geométrico de hexágonos.
 
 Detalle del mismo acabado decorativo.
