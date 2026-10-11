@@ -16,7 +16,7 @@ Soy Asis, de PintaReformas. Llevo años trabajando en Marbella y la Costa del So
 
 En resumen
 
-Pintar en Marbella cuesta entre 5 y 9 €/m² en interior y entre 7 y 14 €/m² en fachada. Un piso completo de 80 m² suele salir entre 900 y 1.600 €, y una habitación estándar entre 180 y 320 €. Soy Asis (PintaReformas), pinto en Marbella y la Costa del Sol desde 2012 y hablo inglés. Precio cerrado por escrito antes de empezar.
+Pintar en Marbella cuesta desde 4 €/m² en interior (de 7 a 9 €/m² en calidad alta) y desde 6 €/m² en fachada, igual que en Granada. Un piso de 80 m² sale entre 960 y 1.120 € en calidad básica. Soy Asis (PintaReformas), pinto en Marbella y la Costa del Sol desde 2012 y hablo inglés. Precio cerrado por escrito antes de empezar.
 
 [633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
 
@@ -38,14 +38,14 @@ Estos son los rangos con los que trabajo. El precio exacto siempre depende del e
 
 | Tipo de trabajo | Precio mínimo | Precio máximo | Nota |
 |---|---|---|---|
-| **Pintura interior por m²** | 5 €/m² | 9 €/m² | Paredes en buen estado, 2 manos |
-| **Pintura piso completo (80 m²)** | 900 € | 1.600 € | Incluye materiales y preparación básica |
-| **Pintura habitación** | 180 € | 320 € | Habitación estándar 12-15 m² |
-| **Pintura salón/comedor** | 250 € | 480 € | Salón de 20-30 m², techo incluido |
-| **Pintura fachada exterior por m²** | 7 €/m² | 14 €/m² | Depende del tipo de acabado y altura |
-| **Estuco veneciano por m²** | 35 €/m² | 65 €/m² | Acabado liso o rugoso, dos tonos |
-| **Papel pintado por m²** | 18 €/m² | 40 €/m² | Sin contar el coste del papel |
-| **Tratamiento antihumedad** | 12 €/m² | 25 €/m² | Según gravedad y tipo de humedad |
+| **Pintura interior por m²** | 4 €/m² | 9 €/m² | Básica desde 4 €/m²; calidad alta de 7 a 9 €/m². Paredes en buen estado, 2 manos |
+| **Pintura piso completo (80 m²)** | 960 € | 2.520 € | Unos 240–280 m² de pared y techo. Incluye materiales y preparación básica |
+| **Pintura habitación** | 190 € | 500 € | Habitación estándar 12-15 m² |
+| **Pintura salón/comedor** | 270 € | 780 € | Salón de 20-30 m², techo incluido |
+| **Pintura fachada exterior por m²** | 6 €/m² | 12 €/m² | Plástica desde 6, siloxano 10, monocapa 12 €/m². Depende también de la altura |
+| **Estuco veneciano por m²** | 18 €/m² | según acabado | Aplicado a mano en varias capas y acabado con cera |
+| **Papel pintado por m²** | 12 €/m² | 18 €/m² | Colocación, sin contar el papel. Retirar el antiguo, 3 €/m² más |
+| **Tratamiento antihumedad** | 5 €/m² | 25 €/m² | Pintura antimoho desde 5 €/m²; tratamientos según la causa de la humedad |
 
 * Precios orientativos con materiales incluidos en la mayoría de los casos. El presupuesto definitivo se hace siempre viendo el trabajo en persona o con fotos detalladas.
 
