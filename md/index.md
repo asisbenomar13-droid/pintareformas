@@ -15,8 +15,6 @@ Por escrito Precio cerrado
 
 ES·EN·AR Te atiendo en 3 idiomas
 
-DESDE 2012
-
 ![Dormitorio terminado con pared en tono taupe y bañera exenta junto a la ventana]()
 
 ![Dormitorio con dos camas terminado, paredes en tonos claros y cortinas largas]()
