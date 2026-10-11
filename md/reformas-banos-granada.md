@@ -11,6 +11,12 @@ Precios reales 2026
 
 Actualizado agosto de 2026 | Lectura: 10 min | PintaReformas
 
+En resumen
+
+Reformar un baño en Granada cuesta desde 2.000 €: un baño pequeño de 3 a 4 m² suele quedarse entre 2.000 y 3.000 €, y uno mediano entre 2.600 y 4.200 €. Te separo el precio por partidas (demolición, fontanería, electricidad, alicatado y sanitarios) y te dejo el plazo por escrito. Soy Asis (PintaReformas), desde 2012.
+
+[633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
+
 [Inicio](https://pintareformas.es/) › [Granada](https://pintareformas.es/pintura-y-placas-yeso-granada.html) › Reforma de baño en Granada
 
 Soy Asis. Llevo desde 2012 haciendo baños en Granada y en la costa de Málaga. El baño es la reforma que más me piden y la que más dudas genera, porque es poco metro y mucho dinero. Aquí te pongo el precio partida por partida, para que sepas de dónde sale cada euro. Te digo el precio y ese es el que cobro.

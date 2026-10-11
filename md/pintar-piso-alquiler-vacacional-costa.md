@@ -14,6 +14,12 @@ Soy Asis. Llevo desde 2012 pintando en la costa y buena parte de lo que hago son
 
 [Presupuesto para tu apartamento](https://wa.me/34633915898?text=Hola%20Asis%2C%20tengo%20un%20piso%20de%20alquiler%20vacacional%20y%20quiero%20presupuesto) [📞 633 915 898](tel:+34633915898)
 
+En resumen
+
+Pinto apartamentos de alquiler vacacional en Nerja, Marbella, Fuengirola y Torremolinos entre reserva y reserva. Pintura lavable premium de 7 a 9 €/m², techos desde 4 €/m² y lacado de puertas desde 90 € por puerta. Soy Asis (PintaReformas), desde 2012, hablo inglés y entro con llave si no estás.
+
+[633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
+
 ## Dormitorios y baño terminados
 
 Dormitorio terminado.

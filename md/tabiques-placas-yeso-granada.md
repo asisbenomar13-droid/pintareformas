@@ -14,6 +14,12 @@ Soy Asis. Levanto tabiques de placas de yeso en Granada desde 2012, sin obra pes
 
 [Mándame las medidas por WhatsApp](https://wa.me/34633915898?text=Hola%20Asis%2C%20quiero%20presupuesto%20para%20un%20tabique) [📞 633 915 898](tel:+34633915898)
 
+En resumen
+
+Un tabique de placas de yeso en Granada cuesta desde 25 €/m² el simple y desde 35 €/m² el doble con aislamiento acústico. Un tabique simple de 10 m² sale desde 250 €, y pintarlo cuesta desde 4 €/m² más. Soy Asis (PintaReformas), desde 2012: precio cerrado por escrito, sin obra de ladrillo ni escombro.
+
+[633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
+
 Un tabique de placas de yeso es la forma más rápida y limpia de separar una habitación, cerrar un hueco, hacer un vestidor o aislar una zona del piso. Se monta sobre una estructura metálica, se cubre con las placas, se tapan las juntas con cinta y pasta y se deja listo para pintar. No hay obra húmeda ni días de polvo de cemento, y si dentro de unos años quieres cambiar la distribución, se quita con facilidad.
 
 Esta página va de eso: cuánto cuesta por metro, qué tipo te conviene y cómo lo hago. Los precios son los míos, los mismos que doy en presupuesto, y el definitivo lo pongo por escrito después de ver el sitio.

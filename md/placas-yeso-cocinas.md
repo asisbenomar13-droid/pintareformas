@@ -11,6 +11,12 @@ URL canónica: https://pintareformas.es/placas-yeso-cocinas.html
 
 📅 Publicado: Mayo 2026 | ⏱️ Lectura: 12 minutos | 👤 Por: pintareformas.es
 
+En resumen
+
+Con placas de yeso en la cocina se tapan tubos y bajantes, se hacen hornacinas y se nivelan paredes, sin obra. Un tabique desde 25 €/m², un falso techo desde 30 €/m² y con LED desde 50 €/m², siempre con placa hidrófuga. Soy Asis (PintaReformas), en Granada desde 2012.
+
+[633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
+
 **📌 En corto:** Un tabique de placas de yeso en la cocina te sale desde 25 €/m² y un falso techo desde 30 €/m². Es lo más rápido y limpio para reformar, y aísla del ruido y del frío mejor que la obra de toda la vida.
 
 ## ¿Por qué poner placas de yeso en la cocina?

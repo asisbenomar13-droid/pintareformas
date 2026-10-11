@@ -14,6 +14,12 @@ Soy Asis, de PintaReformas. Llevo años trabajando en Marbella y la Costa del So
 
 [Llámame y te doy precio hoy: 633 915 898](tel:+34633915898)
 
+En resumen
+
+Pintar en Marbella cuesta entre 5 y 9 €/m² en interior y entre 7 y 14 €/m² en fachada. Un piso completo de 80 m² suele salir entre 900 y 1.600 €, y una habitación estándar entre 180 y 320 €. Soy Asis (PintaReformas), pinto en Marbella y la Costa del Sol desde 2012 y hablo inglés. Precio cerrado por escrito antes de empezar.
+
+[633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
+
 ## Por qué ves precios tan distintos en Marbella
 
 Si has pedido presupuestos de pintura en Marbella, seguro que te han dado cifras que no tienen nada que ver entre sí. Y no es que alguien te esté mintiendo necesariamente, es que pintar tiene muchas variables.

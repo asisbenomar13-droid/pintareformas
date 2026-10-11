@@ -11,6 +11,12 @@ Guía de Precios 2026
 
 Actualizado septiembre 2026 | Lectura: 10 min | pintareformas.es
 
+En resumen
+
+Pintar una fachada en Granada cuesta desde 6 €/m² con pintura plástica, 10 €/m² con siloxano y 12 €/m² con monocapa. Una fachada de 100 m² sale entre 900 y 1.800 €, con limpieza, masillado, imprimación y dos manos. Soy Asis (PintaReformas): presupuesto claro, también para comunidades de vecinos.
+
+[633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
+
 [Inicio](https://pintareformas.es/) › [Blog](https://pintareformas.es/placas-yeso-cocinas.html) › Pintura Exterior y Fachadas en Granada
 
 **Resumen rápido:** Pintar una fachada de 100 m² en Granada cuesta entre 900€ (pintura plástica) y 1.800€ (siloxano de calidad). El precio incluye limpieza, masillado de grietas, imprimación y 2 manos de pintura. Soy Asis, pinto fachadas en Granada desde 2012 y el presupuesto te lo doy gratis en 24 horas.

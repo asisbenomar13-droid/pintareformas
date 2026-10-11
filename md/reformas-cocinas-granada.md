@@ -14,6 +14,12 @@ Soy Asis. Reformo cocinas en Granada y alrededores desde 2012. **La obra desde 3
 
 [Mándame fotos de tu cocina por WhatsApp](https://wa.me/34633915898?text=Hola%20Asis%2C%20quiero%20presupuesto%20para%20reformar%20mi%20cocina) [📞 633 915 898](tel:+34633915898)
 
+En resumen
+
+Reformar una cocina en Granada cuesta desde 3.000 € la obra y entre 6.000 y 12.000 € la cocina completa con muebles y encimera, sin electrodomésticos. Si no cambias la distribución, son de 2 a 3 semanas. Soy Asis (PintaReformas), desde 2012: precio por partidas y cerrado por escrito.
+
+[633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
+
 ## Lo importante, en pocas líneas
 
 Reformar una cocina son dos cosas distintas que se pagan por separado: la **obra** (picar, alicatar, solar, fontanería y electricidad, hasta dejarla lista) y la **cocina en sí** (muebles, encimera, fregadero, campana y montaje). Mucha gente compara presupuestos que no incluyen lo mismo, y de ahí salen los sustos.

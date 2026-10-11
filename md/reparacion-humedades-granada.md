@@ -14,6 +14,12 @@ Soy Asis. Llevo desde 2012 peleándome con humedades en Granada y te voy a decir
 
 [Mándame una foto por WhatsApp](https://wa.me/34633915898?text=Hola%20Asis%2C%20tengo%20una%20humedad%20y%20quiero%20presupuesto) [📞 633 915 898](tel:+34633915898)
 
+En resumen
+
+Las humedades no se arreglan pintando encima: primero busco de dónde viene el agua (condensación, capilaridad o filtración) y corto la causa. Tratar una humedad por condensación cuesta desde 150 a 300 € por estancia, e impermeabilizar una terraza entre 20 y 40 €/m². Soy Asis (PintaReformas), en Granada desde 2012.
+
+[633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
+
 Me llaman muchas veces después de que alguien haya "arreglado" la humedad dos o tres veces... pintando encima. A los meses, la mancha vuelve, el moho vuelve, y el dinero se fue. Una humedad es como una gotera: hasta que no cierras el grifo, no sirve de nada secar el suelo. Lo primero es saber **qué tipo de humedad tienes**, porque cada una se arregla de una manera distinta.
 
 Los 3 tipos

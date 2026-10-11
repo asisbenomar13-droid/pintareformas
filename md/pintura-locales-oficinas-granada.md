@@ -14,6 +14,12 @@ Soy Asis. Sé lo que es vivir de un negocio, porque yo también tengo el mío. P
 
 [Presupuesto gratis para tu negocio](https://wa.me/34633915898?text=Hola%20Asis%2C%20quiero%20presupuesto%20para%20pintar%20mi%20local%20u%20oficina) [📞 633 915 898](tel:+34633915898)
 
+En resumen
+
+Pinto locales y oficinas en Granada por las tardes y los fines de semana, para que no cierres ni un día. Un local de 80 a 100 m² sale normalmente entre 600 y 1.200 € con pintura lavable de calidad. Soy Asis (PintaReformas), desde 2012: precio cerrado por escrito y factura.
+
+[633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
+
 Pintar un local no es como pintar una casa. Aquí cada día cerrado es dinero que pierdes, así que el trabajo hay que organizarlo al revés: primero tu horario, después el mío. Uso pinturas sin olor y de secado rápido, protejo el género y el mobiliario, y dejo el local ventilado y limpio antes de que llegue tu primer cliente. Llevo desde 2012 haciéndolo en tiendas, bares, peluquerías, clínicas y oficinas de Granada.
 
 Y si lo que necesitas es más que pintura — dividir una oficina en despachos, montar un falso techo con LED, arreglar una pared castigada — también lo hago con placas de yeso laminado: rápido, sin escombros y con aislamiento acústico para que en una sala de reuniones no se oiga la de al lado.

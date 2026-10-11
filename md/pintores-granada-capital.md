@@ -14,6 +14,12 @@ Soy Asis. Llevo desde 2012 pintando pisos, casas y locales por toda Granada capi
 
 [Presupuesto gratis hoy](https://wa.me/34633915898?text=Hola%20Asis%2C%20quiero%20presupuesto%20para%20pintar%20en%20Granada%20capital) [📞 633 915 898](tel:+34633915898)
 
+En resumen
+
+Pinto pisos, casas y locales en todos los barrios de Granada capital: Zaidín, Albaicín, Realejo, Centro, la Chana y más. Pintura interior desde 4 €/m², quitar gotelé desde 12 €/m² y placas de yeso desde 25 €/m². Soy Asis (PintaReformas), desde 2012; voy a verlo gratis y te dejo el precio cerrado por escrito.
+
+[633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
+
 Trabajar en Granada capital no es como trabajar en cualquier sitio. No es lo mismo pintar un piso de los años 70 en el Zaidín, con su gotelé de toda la vida, que una casa del Albaicín con muros de cal que respiran, o un local en el Centro donde no puedes cortar la actividad ni una mañana. Por eso no doy precios al tuntún: voy, lo veo, y te digo lo que cuesta. Y ese precio es el que te cobro. Sin sorpresas al final.
 
 Una buena parte de las llamadas que me entran en la capital son de gente que va a poner el piso en el mercado. Si es tu caso, antes de gastar de más échale un ojo a lo que cuesta y lo que devuelve [pintar el piso antes de venderlo](https://pintareformas.es/pintar-piso-antes-de-vender-granada.html): hay cosas que se notan en el precio de venta y otras que te puedes ahorrar tranquilamente.

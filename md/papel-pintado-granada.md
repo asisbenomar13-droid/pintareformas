@@ -14,6 +14,12 @@ Poner papel pintado tiene su técnica para que quede perfecto. Llevamos años ha
 
 [Pedir presupuesto gratis](https://wa.me/34633915898?text=Hola%20PintaReformas%2C%20quiero%20presupuesto%20para%20papel%20pintado) [📞 633 915 898](tel:+34633915898)
 
+En resumen
+
+Colocar papel pintado en Granada cuesta desde 12 €/m² (vinílico), 14 €/m² el no tejido y 18 €/m² los murales; retirar el papel antiguo son 3 €/m² más. Soy Asis (PintaReformas): preparo la pared antes de pegar para que no haya burbujas ni juntas abiertas, y te dejo el precio cerrado por escrito.
+
+[633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
+
 ## Algunos trabajos de papel pintado
 
 Papel de motivo tropical en la cabecera.

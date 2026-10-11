@@ -14,6 +14,12 @@ Te explico cuánto cuesta pintar un piso en Granada en 2026, qué incluye y qué
 
 [Presupuesto gratis hoy](https://wa.me/34633915898?text=Hola%20PintaReformas%2C%20quiero%20presupuesto%20para%20pintar%20mi%20piso) [📞 633 915 898](tel:+34633915898)
 
+En resumen
+
+Pintar un piso en Granada cuesta desde 4 €/m²: un piso pequeño de 50 a 70 m² sale entre 700 y 1.100 € y uno mediano de 80 a 100 m² entre 1.100 y 1.500 €, en 2 a 4 días. Soy Asis (PintaReformas), pintor en Granada desde 2012. El precio que te doy por escrito es el que cobras.
+
+[633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
+
 ## Algunos trabajos de pintura en viviendas
 
 Paredes lisas en gris muy claro con rodapié blanco.

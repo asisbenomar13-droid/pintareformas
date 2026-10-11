@@ -11,6 +11,12 @@ URL canónica: https://pintareformas.es/quitar-gotele-alisar-paredes-granada.htm
 
 Soy Asis y llevo desde 2012 dejando paredes lisas en Granada. El gotelé era lo normal en los pisos de los años 80 y 90, pero hoy queda anticuado y se ensucia con facilidad. Aquí te cuento, sin rodeos, cuánto cuesta quitarlo, cómo lo hago y qué resultado te queda.
 
+En resumen
+
+Quitar el gotelé y alisar la pared en Granada cuesta de 7 a 9 €/m², o de 10 a 14 €/m² si incluye la pintura. Un piso completo de 70 m² sale entre 2.300 y 2.950 € alisado y pintado. Soy Asis (PintaReformas), desde 2012: tapo la casa, lo recojo todo al acabar y te dejo el precio cerrado por escrito.
+
+[633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
+
 **PintaReformas — Pintores en Granada desde 2012.** Te quito el gotelé, te dejo la pared lisa y te la pinto. Precio cerrado por m², trabajo limpio y factura. Presupuesto gratis en 24 horas.
 
 ## ¿Por Qué Quitar el Gotelé y Alisar la Pared?

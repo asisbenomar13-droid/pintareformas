@@ -17,6 +17,12 @@ Soy Asis. Desde 2012 montando falsos techos de placa de yeso laminado en Granada
 
 [💬 Presupuesto por WhatsApp](https://wa.me/34633915898?text=Hola%20Asis%2C%20quiero%20presupuesto%20de%20falso%20techo%20con%20LED) [📞 633 915 898](tel:+34633915898)
 
+En resumen
+
+Un falso techo de placas de yeso en Granada cuesta desde 30 €/m² liso y desde 50 €/m² con la luz LED integrada. Por ejemplo, 20 m² de techo con LED salen por unos 1.000 €, montado y pintado. Soy Asis (PintaReformas), desde 2012, en Granada y la costa. Precio cerrado por escrito.
+
+[633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
+
 Estructura de un falso techo en Granada — así queda antes de placar y de dejar el hueco para la tira LED
 
 Lo primero, el precio

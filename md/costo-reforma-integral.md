@@ -7,6 +7,12 @@ URL canónica: https://pintareformas.es/costo-reforma-integral.html
 
 Soy Asis. Llevo desde 2012 en obra, en Granada y en la costa de Málaga. Esta es la pregunta que más me hacen y casi nadie la contesta con un número. Yo te lo pongo aquí: el precio por metro, tres niveles de calidad, ejemplos cerrados y qué se lleva cada partida. Léelo antes de pedir presupuesto a nadie y ya no te la cuelan.
 
+En resumen
+
+Una reforma integral en Granada cuesta entre 400 y 550 €/m² en calidad básica, entre 550 y 750 €/m² en media y entre 750 y 1.000 €/m² en alta. Un piso de 90 m² en calidad media son unos 55.000 € y de 10 a 12 semanas de obra. Lo que más encarece son los baños y la cocina, no los metros.
+
+[633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
+
 **Lo importante, en cuatro líneas:** una reforma integral en Granada sale entre **400 y 550 €/m²** en calidad básica, entre **550 y 750 €/m²** en calidad media y entre **750 y 1.000 €/m²** en calidad alta. Un piso de 90 m² con calidad media son unos **55.000 €** y de 10 a 12 semanas de obra. El presupuesto detallado te lo hago gratis, y el precio queda cerrado por escrito antes de empezar.
 
 ¿Quieres la horquilla de tu piso ya? Mándame los metros y el año del edificio por WhatsApp. Qué trámite necesita tu obra lo cuento en [licencia para reformar un piso](https://pintareformas.es/licencia-obras-reforma-piso-granada.html). Cómo trabajo una reforma de principio a fin lo tienes en [reformas integrales en Granada](https://pintareformas.es/reformas-integrales-granada.html).

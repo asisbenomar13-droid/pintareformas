@@ -14,6 +14,12 @@ Soy Asis. Reformo pisos enteros en Granada y provincia desde 2012, con una sola 
 
 [Mándame los metros por WhatsApp](https://wa.me/34633915898?text=Hola%20Asis%2C%20quiero%20presupuesto%20para%20una%20reforma%20integral) [📞 633 915 898](tel:+34633915898)
 
+En resumen
+
+Una reforma integral en Granada cuesta entre 400 y 550 €/m² en calidad básica, entre 550 y 750 €/m² en media y entre 750 y 1.000 €/m² en alta. Un piso de 90 m² en calidad media ronda los 55.000 €. Soy Asis (PintaReformas): una sola persona al frente de toda la obra, con calendario y precio cerrado por escrito.
+
+[633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
+
 Una reforma integral es dejar el piso en los ladrillos y volver a montarlo entero: instalación eléctrica y de fontanería nuevas, baños y cocina, suelos, puertas, falsos techos y pintura. Lo que más miedo da no es el precio, es que la obra se alargue y que cada gremio te diga que el retraso es culpa del anterior.
 
 Por eso lo llevo yo de una pieza. Hago en persona la pintura, las placas de yeso, los tabiques y los falsos techos, y coordino yo albañilería, electricidad, fontanería y carpintería. Tú me llamas a mí, siempre, y yo sé en qué punto está cada cosa.

@@ -7,6 +7,12 @@ URL canónica: https://pintareformas.es/pintor-economico-granada.html
 
 Si has entrado aquí es porque quieres saber cuánto te va a costar, y con razón. Esta página va solo de eso: precio por metro, qué entra en cada tramo, dónde se puede recortar sin que se note y dónde no hay que tocar nada. Buscar un pintor barato en Granada me parece de lo más normal — lo que hay que evitar es el que cobra poco porque hace poco.
 
+En resumen
+
+Un pintor económico en Granada, sin recortar en lo importante: pintura interior desde 4 €/m² con imprimación y dos manos incluidas. Soy Asis (PintaReformas), pinto yo mismo desde 2012, sin intermediarios. Te doy el precio cerrado por escrito después de verlo, y ese es el que pagas.
+
+[633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
+
 Si lo que quieres es ver primero todo lo que hago, cómo trabajo y en qué pueblos me muevo, eso lo tienes en mi página de [pintor en Granada y servicios de pintura](https://pintareformas.es/pintor-granada.html).
 
 **Llevo pintando en Granada desde 2012.** Precios desde 4 €/m². Sin intermediarios, sin subcontratas y sin sorpresas al final: el precio que te doy por escrito es el que pagas. Te paso presupuesto detallado en 24 horas y no te cuesta nada.

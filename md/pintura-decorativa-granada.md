@@ -14,6 +14,12 @@ Llevo desde 2012 aplicando estucos, efectos y acabados decorativos en Granada. S
 
 [Pedir presupuesto gratis](https://wa.me/34633915898?text=Hola%20PintaReformas%2C%20quiero%20presupuesto%20de%20pintura%20decorativa) [📞 633 915 898](tel:+34633915898)
 
+En resumen
+
+Pintura decorativa en Granada: efecto damasco desde 9 €/m², efectos decorativos desde 10 €/m², papel pintado desde 12 €/m², estuco veneciano desde 18 €/m² y microcemento desde 85 €/m². Soy Asis (PintaReformas), desde 2012: te enseño una muestra antes de empezar y te dejo el precio cerrado por escrito.
+
+[633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
+
 ## Algunos acabados decorativos que he hecho
 
 Estuco en un salón: acabado mate, con el veteado propio de la aplicación a mano.

@@ -14,6 +14,12 @@ Llevo desde 2012 pintando pisos en Granada y una buena parte son de gente que va
 
 [💬 Pedir presupuesto por WhatsApp](https://wa.me/34633915898?text=Hola%20Asis%2C%20voy%20a%20vender%20mi%20piso%20y%20quiero%20presupuesto%20de%20pintura) [📞 633 915 898](tel:+34633915898)
 
+En resumen
+
+Pintar un piso antes de venderlo en Granada cuesta desde 4 €/m² de pared: un piso de 60 m² sale entre 720 y 840 €, y uno de 80 m² entre 960 y 1.120 €, en 2 o 3 días. Es de lo que más rinde para vender antes. Soy Asis (PintaReformas): precio cerrado por escrito y fecha fija.
+
+[633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
+
 ## Lo primero: nadie compra una pared, pero todo el mundo la mira
 
 Cuando alguien entra a ver un piso, decide en los primeros treinta segundos si le gusta o no. Y en esos treinta segundos no ha abierto un armario ni ha comprobado la caldera: solo ha visto luz, espacio y paredes.

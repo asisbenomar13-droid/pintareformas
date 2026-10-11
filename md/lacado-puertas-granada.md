@@ -14,6 +14,12 @@ Soy Asis. Si tu piso tiene esas puertas de sapelly oscuro de los años 80 y 90, 
 
 [Presupuesto gratis hoy](https://wa.me/34633915898?text=Hola%20Asis%2C%20quiero%20presupuesto%20para%20lacar%20mis%20puertas) [📞 633 915 898](tel:+34633915898)
 
+En resumen
+
+Lacar una puerta en Granada cuesta entre 80 y 150 €, con marco y jambas incluidos, y un piso de 7 u 8 puertas sale entre 700 y 1.100 €. Cambiarlas por nuevas costaría entre 2.000 y 3.000 €. Soy Asis (PintaReformas), desde 2012: precio cerrado por escrito.
+
+[633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
+
 Es de los trabajos más agradecidos que hago: llego a un piso con las puertas marrón oscuro de toda la vida, y me voy dejándolas blancas, lisas y con un acabado de fábrica. La casa gana una luz que no te imaginas — muchas veces el cliente me dice que parece que hemos tirado un tabique, y solo hemos cambiado el color de las puertas.
 
 Y te voy a ser honesto, como siempre: no todas las puertas merecen lacado. Si la madera está hinchada por humedad o el golpe es muy grande, a veces compensa más cambiar esa puerta. Cuando venga a verlas te diré puerta por puerta cuáles merecen la pena — llevo desde 2012 haciéndolo y no me gusta cobrar por trabajos que no lucen.

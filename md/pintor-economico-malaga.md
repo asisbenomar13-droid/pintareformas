@@ -7,6 +7,12 @@ URL canónica: https://pintareformas.es/pintor-economico-malaga.html
 
 Buscas un pintor económico en Málaga y quieres ver los números antes de llamar. Aquí los tienes: lo que cobro por metro en la capital y en la Costa del Sol, qué entra en cada tramo y dónde se puede apretar el precio sin que se note en la pared. Barato solo sale caro cuando se recorta donde no ves: en la imprimación y en la pintura.
 
+En resumen
+
+Pintar en Málaga y la Costa del Sol desde 4 €/m², con imprimación y dos manos incluidas. Soy Asis (PintaReformas), pinto yo mismo desde 2012, sin intermediarios, y hablo inglés. Te doy el precio cerrado por escrito antes de empezar.
+
+[633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
+
 Si prefieres ver antes qué hago en Málaga y cómo me organizo para trabajar en la costa, lo tienes en mi página de [pintor en Málaga y Costa del Sol](https://pintareformas.es/pintura-y-placas-yeso-malaga.html).
 
 **Trabajo en Málaga y la Costa del Sol desde 2012.** Precios desde 4 €/m². Sin intermediarios, sin subcontratas y sin sorpresas al final: el precio que te doy por escrito es el que pagas. Te paso presupuesto detallado en 24 horas y no te cuesta nada.
