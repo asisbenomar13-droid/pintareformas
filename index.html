@@ -33,8 +33,8 @@ gtag("js",new Date());gtag("config","G-NMD6YPS60T");
 <meta name="twitter:image" content="https://pintareformas.es/img/salon-pintura-blanca-vivienda-granada.jpg">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🎨</text></svg>">
 <!-- Preload imagen hero (LCP) — versiones WebP por tamaño de pantalla -->
-<link rel="preload" as="image" href="img/webp/hero-mobile.webp" media="(max-width:640px)" type="image/webp">
-<link rel="preload" as="image" href="img/webp/hero-desktop-600.webp" imagesrcset="img/webp/hero-desktop-600.webp 600w, img/webp/hero-desktop.webp 750w" imagesizes="540px" media="(min-width:641px)" type="image/webp">
+<link rel="preload" as="image" href="img/webp/hero-dormitorio-papel-espiga-600.webp" media="(max-width:640px)" type="image/webp">
+<link rel="preload" as="image" href="img/webp/hero-dormitorio-papel-espiga-600.webp" imagesrcset="img/webp/hero-dormitorio-papel-espiga-600.webp 600w, img/webp/hero-dormitorio-papel-espiga.webp 1080w" imagesizes="540px" media="(min-width:641px)" type="image/webp">
 <!-- Schema: Organization (entidad principal del sitio) -->
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","@id":"https://pintareformas.es/#organization","name":"PintaReformas","url":"https://pintareformas.es","logo":{"@type":"ImageObject","@id":"https://pintareformas.es/#logo","url":"https://pintareformas.es/img/logo-pintareformas-gmb.png","contentUrl":"https://pintareformas.es/img/logo-pintareformas-gmb.png","width":720,"height":720,"caption":"PintaReformas"},"image":{"@id":"https://pintareformas.es/#logo"},"telephone":"+34633915898","email":"info@pintareformas.es","description":"Pintura, tabiques y falsos techos de placa de yeso y reformas de baños y cocinas en Granada y la Costa de Málaga. Presupuesto cerrado por escrito antes de empezar y factura.","areaServed":[{"@type":"City","name":"Granada"},{"@type":"City","name":"Armilla"},{"@type":"City","name":"La Zubia"},{"@type":"City","name":"Maracena"},{"@type":"City","name":"Motril"},{"@type":"City","name":"Almuñécar"},{"@type":"City","name":"Salobreña"},{"@type":"City","name":"Nerja"},{"@type":"City","name":"Marbella"},{"@type":"City","name":"Benalmádena"},{"@type":"City","name":"Torremolinos"},{"@type":"City","name":"Fuengirola"}],"foundingDate":"2012","knowsLanguage":["es","ar","en"],"sameAs":["https://www.linkedin.com/in/asis-benomar-924293249","https://www.google.com/maps?cid=758157405118289434"],"founder":{"@type":"Person","@id":"https://pintareformas.es/#asis","name":"Asis La Gnatha","jobTitle":"Pintor y montador de placas de yeso","knowsLanguage":["es","ar","en"],"sameAs":["https://www.linkedin.com/in/asis-benomar-924293249"],"worksFor":{"@id":"https://pintareformas.es/#organization"}},"contactPoint":{"@type":"ContactPoint","contactType":"customer service","telephone":"+34633915898","email":"info@pintareformas.es","areaServed":"ES","availableLanguage":["es","en","ar"]},"address":{"@type":"PostalAddress","addressLocality":"Granada","addressRegion":"Andalucía","addressCountry":"ES"}}</script>
 <!-- Schema: WebSite -->
@@ -177,7 +177,15 @@ h1,h2,h3,h4,h5{font-weight:700;color:var(--navy);line-height:1.3}
 .hero-visual i{font-size:6rem;color:var(--orange);margin-bottom:18px}
 .hero-visual h3{color:#fff;font-size:1.3rem}
 .hero-visual p{color:rgba(255,255,255,.8);margin-top:8px}
-.badge-exp{position:absolute;top:18px;right:18px;background:var(--orange-cta);color:#fff;padding:8px 18px;border-radius:50px;font-weight:700;font-size:.82rem;box-shadow:var(--shadow-md)}
+.hs{position:relative;width:100%;height:360px;border-radius:14px;overflow:hidden;box-shadow:0 12px 40px rgba(0,0,0,.45);background:#1a2a3a}
+.hs-s{position:absolute;inset:0;opacity:0;transition:opacity 1.4s ease}
+.hs-s.on{opacity:1}
+.hs-s img,img.hs-s{width:100%;height:100%;object-fit:cover;display:block}
+.hs-s.on img,img.hs-s.on{animation:hsZoom 7s ease-out both}
+@media(max-width:640px){.hs{height:auto;aspect-ratio:3/2}.hero-visual{min-height:0}}
+@keyframes hsZoom{from{transform:scale(1)}to{transform:scale(1.07)}}
+@media(prefers-reduced-motion:reduce){.hs-s{transition:none}.hs-s.on img,img.hs-s.on{animation:none}}
+.badge-exp{position:absolute;top:18px;right:18px;z-index:3;background:var(--orange-cta);color:#fff;padding:8px 18px;border-radius:50px;font-weight:700;font-size:.82rem;box-shadow:var(--shadow-md)}
 section{padding:80px 0}
 .bg-light{background:var(--gray-50)}
 .sec-header{text-align:center;margin-bottom:55px;max-width:700px;margin-left:auto;margin-right:auto}
@@ -473,11 +481,19 @@ footer{background:var(--navy);color:#fff;padding:58px 0 22px;border-top:4px soli
       </div>
       <div class="hero-visual">
         <div class="badge-exp">DESDE 2012</div>
-        <picture>
-          <source srcset="img/webp/hero-mobile.webp" media="(max-width:640px)" type="image/webp">
-          <source srcset="img/webp/hero-desktop-600.webp 600w, img/webp/hero-desktop.webp 750w" sizes="540px" media="(min-width:641px)" type="image/webp">
-          <img src="img/dormitorio-papel-pintado-tropical.jpg" alt="Dormitorio reformado con falso techo de placas de yeso y papel pintado tropical en Marbella - PintaReformas" style="width:100%;height:360px;object-fit:cover;border-radius:14px;box-shadow:0 12px 40px rgba(0,0,0,.45);" loading="eager" fetchpriority="high" width="720" height="360" decoding="async">
-        </picture>
+        <div class="hs" role="region" aria-roledescription="carrusel" aria-label="Fotos de trabajos terminados">
+          <picture class="hs-s on">
+            <source srcset="img/webp/hero-dormitorio-papel-espiga-600.webp" media="(max-width:640px)" type="image/webp">
+            <source srcset="img/webp/hero-dormitorio-papel-espiga-600.webp 600w, img/webp/hero-dormitorio-papel-espiga.webp 1080w" sizes="540px" media="(min-width:641px)" type="image/webp">
+            <img src="img/hero-dormitorio-papel-espiga.jpg" alt="Dormitorio terminado con papel pintado de espiga, cabecero tapizado y lámparas de pared" width="1080" height="720" loading="eager" fetchpriority="high" decoding="async">
+          </picture>
+          <img class="hs-s" data-m="img/webp/hero-dormitorio-pared-taupe-600.webp" data-d="img/webp/hero-dormitorio-pared-taupe.webp" alt="Dormitorio terminado con pared en tono taupe y bañera exenta junto a la ventana" width="1080" height="720" decoding="async">
+          <img class="hs-s" data-m="img/webp/hero-dormitorio-dos-camas-600.webp" data-d="img/webp/hero-dormitorio-dos-camas.webp" alt="Dormitorio con dos camas terminado, paredes en tonos claros y cortinas largas" width="1080" height="720" decoding="async">
+          <img class="hs-s" data-m="img/webp/hero-detalle-papel-espiga-600.webp" data-d="img/webp/hero-detalle-papel-espiga.webp" alt="Detalle de papel pintado de espiga junto a un cabecero y una lámpara de pared" width="1080" height="720" decoding="async">
+          <img class="hs-s" data-m="img/webp/hero-bano-marmol-600.webp" data-d="img/webp/hero-bano-marmol.webp" alt="Baño terminado con azulejo efecto mármol, lavabo doble y ventana" width="1080" height="720" decoding="async">
+          <img class="hs-s" data-m="img/webp/hero-dormitorio-cabecero-gris-600.webp" data-d="img/webp/hero-dormitorio-cabecero-gris.webp" alt="Dormitorio terminado con cabecero gris, cojines en tonos tierra y cortinas" width="1080" height="720" decoding="async">
+          <img class="hs-s" data-m="img/webp/hero-dormitorio-banera-600.webp" data-d="img/webp/hero-dormitorio-banera.webp" alt="Dormitorio con bañera exenta y paredes recién pintadas" width="1080" height="720" decoding="async">
+        </div>
         <p class="hero-badge"><strong>Pintando desde 2012</strong> · Granada y Costa de Málaga</p>
       </div>
     </div>
@@ -1214,5 +1230,14 @@ if(!localStorage.getItem("pp_cookies")){document.getElementById("ppCookies").sty
 <a href="tel:+34633915898" class="pr-call" aria-label="Llamar al 633 915 898" onclick="window.gtag&&gtag('event','click_llamar_flotante')">&#128222; Llamar</a>
 <style>.pr-call{display:none}@media(max-width:768px){.pr-call{display:flex;align-items:center;justify-content:center;gap:6px;position:fixed;bottom:14px;left:14px;height:50px;padding:0 18px;background:#FF9800;color:#0D1B2A;font:700 .95rem/1 "Segoe UI",Helvetica,Arial,sans-serif;border-radius:25px;text-decoration:none;z-index:9998;box-shadow:0 4px 16px rgba(0,0,0,.3)}footer{padding-bottom:84px}}</style>
 <script src="/lightbox.js" defer></script>
+<script>
+(function(){var b=document.querySelector('.hs');if(!b)return;var s=[].slice.call(b.querySelectorAll('.hs-s')),i=0,red=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches;
+function load(){var m=window.innerWidth<=640;s.forEach(function(e){if(e.tagName==='IMG'&&!e.src){e.src=m?e.dataset.m:e.dataset.d}})}
+function vis(){var r=b.getBoundingClientRect();return r.bottom>0&&r.top<(window.innerHeight||0)}
+function go(){var n=(i+1)%s.length,nx=s[n];if(nx.tagName==='IMG'&&!nx.complete){return}s[i].classList.remove('on');nx.classList.add('on');i=n}
+function start(){load();if(red)return;setInterval(function(){if(!document.hidden&&vis())go()},4500)}
+if(document.readyState==='complete')setTimeout(start,1200);else addEventListener('load',function(){setTimeout(start,1200)});
+})();
+</script>
 </body>
 </html>

@@ -17,6 +17,18 @@ ES·EN·AR Te atiendo en 3 idiomas
 
 DESDE 2012
 
+![Dormitorio terminado con pared en tono taupe y bañera exenta junto a la ventana]()
+
+![Dormitorio con dos camas terminado, paredes en tonos claros y cortinas largas]()
+
+![Detalle de papel pintado de espiga junto a un cabecero y una lámpara de pared]()
+
+![Baño terminado con azulejo efecto mármol, lavabo doble y ventana]()
+
+![Dormitorio terminado con cabecero gris, cojines en tonos tierra y cortinas]()
+
+![Dormitorio con bañera exenta y paredes recién pintadas]()
+
 **Pintando desde 2012** · Granada y Costa de Málaga
 
 Servicios
