@@ -231,6 +231,16 @@ Reseña publicada en Google · papel pintado
 
 ★★★★★
 
+"Buenas disponibilidad, puntualidad y precio competitivo."
+
+J
+
+José Bernabé Carmona
+
+Reseña publicada en Google
+
+★★★★★
+
 "Tengo la suerte de haber conocido a Asís, trabajador excelente sabiendo lo que hace, con esmero, con delicadeza. De forma minuciosa, educado, respetuoso, atento, después de varios trabajos que nos hizo a mí y a mi familia, lo tenemos en un pedestal, como un amigo, para nosotros. El mejor. Gracias x tu profesionalidad"
 
 J
