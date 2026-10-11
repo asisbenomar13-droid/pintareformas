@@ -221,6 +221,16 @@ Todas las que ves aquí están publicadas en mi ficha de Google y puedes comprob
 
 ★★★★★
 
+"Quiero destacar a Asis no solo lo gran profesional que es, sino también la maravillosa persona que hay detrás de su trabajo. Ha empapelado mi casa con muchísimo gusto, cuidado y dedicación, cuidando cada detalle y consiguiendo un resultado precioso. Es una persona responsable, perfeccionista, cercana y de esas que ponen cariño en todo lo que hacen. Da gusto encontrar a alguien que trabaja tan bien y en quien, además, puedes confiar plenamente. Mi confianza y recomendación absoluta."
+
+S
+
+Silvia
+
+Reseña publicada en Google · papel pintado
+
+★★★★★
+
 "Tengo la suerte de haber conocido a Asís, trabajador excelente sabiendo lo que hace, con esmero, con delicadeza. De forma minuciosa, educado, respetuoso, atento, después de varios trabajos que nos hizo a mí y a mi familia, lo tenemos en un pedestal, como un amigo, para nosotros. El mejor. Gracias x tu profesionalidad"
 
 J

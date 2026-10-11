@@ -50,6 +50,12 @@ Papel pintado de rayas en gris y beige.
 
 Rayas verticales en gris y beige.
 
+★★★★★
+
+"Quiero destacar a Asis no solo lo gran profesional que es, sino también la maravillosa persona que hay detrás de su trabajo. Ha empapelado mi casa con muchísimo gusto, cuidado y dedicación, cuidando cada detalle y consiguiendo un resultado precioso. Es una persona responsable, perfeccionista, cercana y de esas que ponen cariño en todo lo que hacen. Da gusto encontrar a alguien que trabaja tan bien y en quien, además, puedes confiar plenamente. Mi confianza y recomendación absoluta."
+
+Silvia · reseña publicada en Google sobre un trabajo de papel pintado
+
 El proceso
 
 ## Cómo lo hacemos
