@@ -28,37 +28,25 @@ Para quién trabajo
 
 ## Negocios y empresas que atiendo en Granada
 
-🛍️
-
 ### Tiendas y comercios
 
 Pintura lavable que aguanta roces de perchas, carros y clientes. Trabajo al cierre y el local abre al día siguiente. Colores según tu marca.
-
-🍽️
 
 ### Bares y restaurantes
 
 Pinturas antihumedad y lavables para cocinas y salones. Aprovecho tu día de descanso semanal para hacer el grueso del trabajo.
 
-💼
-
 ### Oficinas y despachos
 
 Pintura en fin de semana y división de espacios con tabique acústico de placa de yeso. El lunes tu equipo entra a trabajar y está todo terminado.
-
-💇
 
 ### Peluquerías y clínicas
 
 Acabados finos y fáciles de limpiar, pinturas sin olor aptas para espacios donde la higiene importa. Sin cerrar ni un día.
 
-🏢
-
 ### Comunidades de vecinos
 
 Portales, escaleras y zonas comunes. A los administradores de fincas les doy presupuesto por partidas, factura y fechas cerradas para sus juntas.
-
-🏨
 
 ### Pisos turísticos y gestoras
 

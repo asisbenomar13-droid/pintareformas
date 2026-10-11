@@ -40,31 +40,21 @@ Factores de precio
 
 Dos pisos del mismo tamaño pueden tener presupuestos muy distintos. Aquí te explico por qué.
 
-📐
-
 ### Superficie total
 
 Los metros cuadrados de techo y pared son la base del cálculo. Un piso de 80 m² puede tener entre 250 y 350 m² de superficie a pintar.
-
-🧱
 
 ### Estado de las paredes
 
 Si hay grietas, manchas de humedad o paredes que nunca se han lijado, hay trabajo previo de preparación. Eso tiene un coste.
 
-🪣
-
 ### Tipo de pintura
 
 Una pintura básica de gotelé sale a 4€/m². Una pintura plástica de calidad con acabado mate puede estar en 7-8€/m². Y la decorativa, más arriba.
 
-🔢
-
 ### Número de manos
 
 Lo habitual son dos manos más imprimación. Si el color es muy oscuro o hay manchas difíciles, puede hacer falta una tercera.
-
-➕
 
 ### Extras
 

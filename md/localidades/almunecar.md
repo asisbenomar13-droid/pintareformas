@@ -24,15 +24,11 @@ Llevo desde 2012 trabajando aquí y he visto de todo: pintura que se levanta a l
 
 Esto es lo que más sale en Almuñécar, con el precio de partida de cada cosa. Son precios reales de tarifa, no ganchos.
 
-🎨
-
 ### Pintura Interior
 
 Paredes, techos y molduras con pinturas acrílicas antimoho. Especial para alta humedad subtropical. Acabados mate, satinado y liso perfecto.
 
 Desde 4 €/m²
-
-✨
 
 ### Pintura Decorativa
 
@@ -40,15 +36,11 @@ Estucos, efectos marmolados y técnicas hechas a mano para darle un aire distint
 
 Desde 10 €/m²
 
-🏛️
-
 ### Estuco Veneciano
 
 Un acabado que impresiona de verdad y aguanta muy bien la humedad del mar. Queda genial en salones.
 
 Desde 18 €/m²
-
-🏢
 
 ### Pintura Exterior y Fachadas
 
@@ -56,15 +48,11 @@ Impermeabilización elástica con protección UV y anti-salinidad. Sistema bicap
 
 Desde 6 €/m²
 
-🔧
-
 ### Tabique de placas de yeso
 
 División de espacios con placa estándar o hidrófuga. Instalación limpia, sin obra húmeda, ideal para apartamentos de alquiler turístico.
 
 Desde 25 €/m²
-
-💡
 
 ### Falso Techo con LED
 
@@ -72,15 +60,11 @@ Falso techo de placas de yeso con tira de LED empotrada. Cambia por completo una
 
 Desde 50 €/m²
 
-📦
-
 ### Falso techo básico
 
 Para esconder tubos, conductos del aire y cables sin picar nada, y de paso se oye menos al vecino de arriba.
 
 Desde 30 €/m²
-
-🖼️
 
 ### Papel Pintado
 
@@ -233,15 +217,11 @@ Sí. Me muevo por toda la Costa Tropical: Almuñécar, La Herradura, Salobreña 
 
 Estoy de lunes a viernes de 8:00 a 19:00 y los sábados de 9:00 a 14:00. Por WhatsApp me puedes escribir a la hora que quieras y te contesto en cuanto lo vea. Español, inglés o árabe, como prefieras.
 
-📞
-
 ### Teléfono
 
 [633 915 898](tel:+34633915898)
 
 Te contesto yo, no un centralita
-
-💬
 
 ### WhatsApp
 
@@ -249,15 +229,11 @@ Te contesto yo, no un centralita
 
 Escríbeme a la hora que sea
 
-✉️
-
 ### Email
 
 [info@pintareformas.es](mailto:info@pintareformas.es)
 
 Respuesta en < 24h
-
-🌐
 
 ### Web
 

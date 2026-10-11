@@ -37,15 +37,11 @@ Qué hago en Armilla
 
 Precios de partida. El definitivo te lo doy cerrado, por escrito y después de ver la casa.
 
-🧱
-
 ### Tabique de placas de yeso
 
 Simple para separar espacios; doble con lana si quieres aislamiento de verdad.
 
 25 – 35 €/m²
-
-💡
 
 ### Falso techo con LED
 
@@ -53,15 +49,11 @@ Básico para tapar instalaciones, o con foseado para la tira de luz indirecta.
 
 30 – 50 €/m²
 
-🎨
-
 ### Pintar el piso completo
 
 Dos manos, material incluido y recogida al final de cada día.
 
 Desde 4 €/m²
-
-🚪
 
 ### Lacado de puertas
 
@@ -69,15 +61,11 @@ De madera oscura a blanco. Lo típico cuando se pinta la casa entera.
 
 Presupuesto cerrado
 
-🖼️
-
 ### Papel pintado
 
 Una pared del salón o el cabecero del dormitorio. Colocación incluida.
 
 Desde 12 €/m²
-
-🛁
 
 ### Reforma de baño
 

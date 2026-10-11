@@ -98,25 +98,17 @@ Tipos de papel
 
 Cada tipo tiene sus ventajas. Te oriento sobre cuál encaja mejor según la habitación y el uso.
 
-💧
-
 ### Vinílico
 
 El más resistente a la humedad y al roce. Ideal para cocinas, pasillos y zonas con mucho paso. Se limpia fácilmente con un trapo húmedo.
-
-🌿
 
 ### No tejido (non-woven)
 
 Se encola la pared, no el papel. Más fácil de colocar y de retirar cuando quieras cambiarlo. Muy buena relación calidad-precio para dormitorios y salones.
 
-🍃
-
 ### Papel natural y ecológico
 
 Fabricado con fibras naturales. Tiene una textura y un tacto distintos al vinílico. Requiere más cuidado en la colocación pero el resultado es muy elegante.
-
-🧱
 
 ### Papel pintado 3D
 

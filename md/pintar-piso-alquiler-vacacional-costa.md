@@ -173,7 +173,7 @@ Dónde voy
 
 Estas son las zonas donde más apartamentos turísticos pinto.
 
-### [🏖️NerjaApartamentos y villas Ver zona →](https://pintareformas.es/localidades/nerja.html) ### [🌴AlmuñécarCosta tropical Ver zona →](https://pintareformas.es/localidades/almunecar.html) ### [⛵MarbellaUrbanizaciones y áticos Ver zona →](https://pintareformas.es/localidades/marbella.html) ### [🌞TorremolinosAlta rotación Ver zona →](https://pintareformas.es/localidades/torremolinos.html) ### [🏘️FuengirolaPisos de temporada Ver zona →](https://pintareformas.es/localidades/fuengirola.html) ### [🚡BenalmádenaApartamentos con vistas Ver zona →](https://pintareformas.es/localidades/benalmadena.html)
+### [NerjaApartamentos y villas Ver zona →](https://pintareformas.es/localidades/nerja.html) ### [AlmuñécarCosta tropical Ver zona →](https://pintareformas.es/localidades/almunecar.html) ### [MarbellaUrbanizaciones y áticos Ver zona →](https://pintareformas.es/localidades/marbella.html) ### [TorremolinosAlta rotación Ver zona →](https://pintareformas.es/localidades/torremolinos.html) ### [FuengirolaPisos de temporada Ver zona →](https://pintareformas.es/localidades/fuengirola.html) ### [BenalmádenaApartamentos con vistas Ver zona →](https://pintareformas.es/localidades/benalmadena.html)
 
 También trabajo en Motril, Salobreña y toda la costa tropical. Y si lo que necesitas es levantar un tabique o cerrar un armario, mira lo que hago con [tabiques y falsos techos en la costa de Málaga](https://pintareformas.es/pintura-y-placas-yeso-malaga.html).
 

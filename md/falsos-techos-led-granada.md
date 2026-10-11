@@ -77,25 +77,17 @@ Por qué a tu vecino le costó otra cosa
 
 Dos salones del mismo tamaño pueden costar distinto, y no es capricho. Estos son los factores que de verdad mueven el precio.
 
-📐
-
 ### Los metros totales
 
 Cuantos más metros seguidos, mejor precio por m². Montar en un salón de 25 m² sale más barato por metro que en un pasillo de 6 m², porque el tiempo de preparar la obra es el mismo.
-
-📏
 
 ### La altura del techo
 
 Hasta 2,80 m se trabaja con borriquetas y es lo normal. Por encima de 3,5 m hace falta andamio, se tarda más y eso se nota en el precio.
 
-💡
-
 ### El tipo de LED
 
 Una tira lineal en un foseado recto es lo más económico. Focos empotrados uno a uno, tira RGB con mando o dobles niveles de luz suben el precio del metro.
-
-🔲
 
 ### Registros y trampillas
 
@@ -107,19 +99,13 @@ Uno va incluido. Si el techo esconde llaves de paso, desagües o varias fuentes,
 
 Un rectángulo limpio es rápido. Vigas que sortear, curvas, dos niveles o una isla central en el medio del salón multiplican los cortes y el tiempo de masilla.
 
-🚿
-
 ### Placa hidrófuga
 
 En baños y cocinas uso la placa verde, que aguanta el vapor. Cuesta algo más que la normal, pero en un baño no hay discusión: va hidrófuga.
 
-🏚️
-
 ### Qué hay ahora arriba
 
 Si hay que quitar un techo de escayola viejo o el forjado está muy irregular, hay trabajo previo. Lo veo en la visita y te lo digo antes, no después.
-
-🚚
 
 ### Dónde está la casa
 
@@ -286,25 +272,17 @@ La parte de la luz
 
 Aquí es donde la gente se pierde y donde más se ahorra mal. Te lo resumo en cuatro decisiones.
 
-🔌
-
 ### 24 V mejor que 12 V
 
 En tiradas largas, como el perímetro de un salón, la tira de 12 V pierde intensidad según se aleja de la fuente y se nota a simple vista. Con 24 V el color se mantiene parejo de punta a punta.
-
-🌡️
 
 ### 3000K en salón, 4000K en cocina
 
 Cálido (3000K) para salón y dormitorio, que es donde quieres estar a gusto. Neutro (4000K) para cocina y baño, donde necesitas ver bien. Lo que nunca hago: mezclar temperaturas en la misma habitación.
 
-🎨
-
 ### RGB, solo si la vas a usar
 
 La tira de colores con mando está bien y a los niños les encanta. Pero te aviso: en un salón, el 90 % del tiempo la vas a tener en blanco cálido. Si la quieres, la pongo; si dudas, ahorra ahí.
-
-🧯
 
 ### La fuente, accesible
 

@@ -42,23 +42,17 @@ Qué tabique necesitas
 
 ## Simple, doble con aislamiento o para zonas húmedas
 
-🧱
-
 ### Tabique simple
 
 Para separar estancias, cerrar un hueco o hacer un vestidor. Es el más económico y el más rápido.
 
 🔎 Ideal si solo quieres dividir espacio.
 
-🔇
-
 ### Doble con aislamiento
 
 Doble placa y aislamiento dentro. Lo monto cuando se busca bajar el ruido de la escalera o de la habitación de al lado.
 
 🔎 Ideal entre dormitorios o pegado a una escalera.
-
-💧
 
 ### Para baño o cocina
 

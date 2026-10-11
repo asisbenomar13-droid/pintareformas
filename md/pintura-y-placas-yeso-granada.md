@@ -25,15 +25,11 @@ Pintura y placas de yeso en Granada: pintura interior desde 4 €/m², fachadas 
 
 ## Pintura, tabiques y falsos techos en Granada
 
-🎨
-
 ### Pintura Interior
 
 Desde 4€/m²
 
 Paredes y techos con pintura de calidad. Imprimación incluida, dos manos y acabado perfecto.
-
-🏢
 
 ### Pintura Exterior y Fachadas
 
@@ -41,15 +37,11 @@ Desde 6€/m²
 
 Impermeabilizante, protección UV y acabados que aguantan el clima de Granada.
 
-✨
-
 ### Pintura Decorativa
 
 Desde 10€/m²
 
 Estuco veneciano, efectos especiales y papel pintado. Para quien quiere algo diferente.
-
-📦
 
 ### Tabiques y falsos techos
 
@@ -57,15 +49,11 @@ Desde 25€/m²
 
 Tabiques, falsos techos y trasdosados sin obra pesada. Limpio y rápido.
 
-💡
-
 ### Falsos Techos LED
 
 Desde 50€/m²
 
 El trabajo que más sorprende cuando se ve terminado. Placa de yeso con la luz LED integrada.
-
-🔧
 
 ### Reformas Integrales
 

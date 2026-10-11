@@ -28,8 +28,6 @@ Los 3 tipos
 
 Mira las señales. En la visita gratis te lo confirmo.
 
-💨
-
 ### Condensación (moho)
 
 El vapor de la casa se condensa en las zonas frías. Es la más común en Granada, sobre todo en pisos con poca ventilación y en invierno.
@@ -43,8 +41,6 @@ El vapor de la casa se condensa en las zonas frías. Es la más común en Granad
 El agua del terreno sube por el muro como si fuera una esponja. Típica de plantas bajas y casas de pueblo antiguas.
 
 🔎 Señal: la mancha sube desde el suelo, la pintura se abomba y suelta salitre.
-
-🌧️
 
 ### Filtración
 

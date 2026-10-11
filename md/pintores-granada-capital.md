@@ -78,15 +78,11 @@ Qué hago
 
 ## Servicios en Granada capital
 
-🎨
-
 ### Pintura interior
 
 Pisos, casas y locales
 
 Desde 4 €/m²
-
-🧱
 
 ### Quitar gotelé
 
@@ -94,15 +90,11 @@ Paredes lisas perfectas
 
 Desde 12 €/m²
 
-🔧
-
 ### Placas de yeso
 
 Tabiques y falsos techos
 
 Desde 25 €/m²
-
-💡
 
 ### Techo con LED
 
@@ -110,15 +102,13 @@ Luz indirecta moderna
 
 Desde 50 €/m²
 
-✨
-
 ### Decorativa
 
 Estuco y efectos
 
 Desde 10 €/m²
 
-### [🏢Locales y oficinasSin parar tu negocio Ver servicio →](https://pintareformas.es/pintura-locales-oficinas-granada.html)
+### [Locales y oficinasSin parar tu negocio Ver servicio →](https://pintareformas.es/pintura-locales-oficinas-granada.html)
 
 Preguntas frecuentes
 

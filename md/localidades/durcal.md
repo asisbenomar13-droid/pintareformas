@@ -39,15 +39,11 @@ Qué hago en Dúrcal
 
 Precios de partida. El número cerrado, por partidas, después de verlo.
 
-🛁
-
 ### Reforma de baño
 
 Baño pequeño entero, con material. De 5 a 7 días laborables.
 
 Desde 2.000 €
-
-🚿
 
 ### Bañera por plato de ducha
 
@@ -55,15 +51,11 @@ Plato, mampara, grifería y remates. En 2 o 3 días.
 
 700 – 1.200 €
 
-🔧
-
 ### Tabiques de placas de yeso
 
 Partir una habitación, hacer un vestidor o trasdosar una pared fría.
 
 25 – 35 €/m²
-
-💡
 
 ### Falsos techos
 
@@ -71,15 +63,11 @@ Bajar un techo alto o meter luz indirecta.
 
 Desde 30 €/m²
 
-🧱
-
 ### Quitar gotelé
 
 Alisado, imprimación y dos manos de pintura.
 
 10 – 14 €/m²
-
-🖌️
 
 ### Pintura interior
 

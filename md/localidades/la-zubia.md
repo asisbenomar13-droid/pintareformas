@@ -41,15 +41,11 @@ Qué hago en La Zubia
 
 Precios de partida. En casa unifamiliar el número cerrado sale después de verla, siempre.
 
-🏡
-
 ### Fachada de la casa
 
 Lavado, sellado de fisuras, imprimación y pintura. Andamio aparte si hace falta.
 
 Desde 6 €/m²
-
-✨
 
 ### Estuco veneciano
 
@@ -57,15 +53,11 @@ Capas finas y bruñido a mano. Para recibidores y paredes de salón.
 
 Desde 18 €/m²
 
-🪨
-
 ### Microcemento
 
 Continuo y resistente al agua: baños, suelos y encimeras.
 
 Desde 85 €/m²
-
-🎨
 
 ### Pintura decorativa
 
@@ -73,15 +65,11 @@ Textura y efecto en una pared, sin irse de presupuesto.
 
 Desde 10 €/m²
 
-🔧
-
 ### Placas de yeso en casa
 
 Cerrar un porche, forrar la buhardilla o partir una habitación.
 
 25 – 35 €/m²
-
-🖌️
 
 ### Pintura interior
 

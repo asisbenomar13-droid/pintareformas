@@ -100,37 +100,25 @@ Dónde va cada color
 
 La pregunta del millón. Te lo resumo como se lo explico a mis clientes.
 
-🛋️
-
 ### Salón
 
 Verde oliva o terracota en una sola pared, y el resto en blanco cálido o arena. Da personalidad sin agobiar.
-
-🛏️
 
 ### Dormitorio
 
 Verde salvia o azul neblina. Son colores que relajan y ayudan a descansar mejor.
 
-🍳
-
 ### Cocina
 
 Terracota o un tono tierra suave. Calientan la estancia y combinan con la madera y el acero.
-
-🚿
 
 ### Baño
 
 Azul neblina o blanco cálido. Y si quieres dar el salto, microcemento en la pared de la ducha.
 
-🚪
-
 ### Pasillo y entrada
 
 Arena o blanco cálido. Son zonas con poca luz, así que cuanto más luminoso, mejor.
-
-🧒
 
 ### Habitación infantil
 

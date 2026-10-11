@@ -11,49 +11,33 @@ URL canónica: https://pintareformas.es/localidades/motril.html
 
 Motril no es Granada capital y aquí se pinta distinto. Hay humedad casi todo el año, el sol pega fuerte en verano y de vez en cuando cae la lluvia de barro que te deja la fachada hecha un cuadro. Con eso encima, una pintura corriente aguanta bastante menos de lo que te dice el bote. Llevo desde 2012 trabajando en esta costa y sé qué producto poner en cada sitio. Y también sé cuándo no hace falta gastarse más: si tu casa está resguardada, te lo digo y nos ahorramos ese dinero.
 
-🌊
-
 ### Pintura que aguanta la sal
 
 En las paredes que se llevan el aire del mar uso producto para ambiente marino. Cuesta más por bote y dura bastante más. Te lo digo antes de que decidas.
-
-☀️
 
 ### El sol de aquí come el color
 
 En exterior uso pinturas con protección solar para que el color no se te apague al segundo verano. Se nota sobre todo en los tonos fuertes.
 
-💧
-
 ### Humedad y moho de invierno
 
 Las manchas negras de las esquinas son condensación. Si las pinto por encima vuelven. Primero se trata la zona, después se pinta con antimoho.
-
-🏖️
 
 ### Casas donde se vive todo el año
 
 En Motril la mayoría de lo que pinto es vivienda habitual, con la familia dentro. Organizo la obra por habitaciones para que puedas seguir haciendo vida.
 
-📋
-
 ### El precio que digo es el que cobro
 
 Materiales, mano de obra y días, todo por escrito antes de empezar. Si aparece algo no previsto, te llamo antes de tocarlo.
-
-⏱️
 
 ### Los días que te digo
 
 Una vivienda normal suele llevar entre 5 y 15 días según lo que haya que hacer. Ese plazo va en el presupuesto, no de palabra.
 
-✅
-
 ### Si algo falla, vuelvo
 
 Precio cerrado por escrito en el presupuesto, material y mano de obra. Lo que pone ahí es lo que pagas, sin sorpresas.
-
-🌿
 
 ### Recojo todos los días
 
@@ -82,45 +66,35 @@ Estos son mis precios de partida, los mismos que te diría por teléfono. El def
 
 Bajo a toda la Costa Tropical. Cuando la obra dura varios días me quedo por la zona en vez de subir y bajar, y por eso el desplazamiento te va incluido en el presupuesto.
 
-📍 **Motril** Sede principal
+**Motril** Costa Tropical
 
-📍 **Almunecar** Costa Tropical occidental
+**Almuñécar** Costa Tropical occidental
 
-📍 **Salobrena** Fortaleza árabe y litoral
+**Salobreña** Fortaleza árabe y litoral
 
-📍 **Torrenueva** Playa y urbanizaciones
+**Torrenueva** Playa y urbanizaciones
 
-📍 **La Mamola** Costa Tropical oriental
+**La Mamola** Costa Tropical oriental
 
-📍 **Calahonda** Municipio de Gualchos
+**Calahonda** Municipio de Gualchos
 
 ## Cómo trabajamos tú y yo
-
-📞
 
 ### Contacto inicial
 
 Llamada, WhatsApp o email. Te contesto yo. Si estoy subido a una escalera, en cuanto bajo.
 
-🏠
-
 ### Visita y medicion
 
 Visitamos tu inmueble en Motril, medimos, valoramos el estado del soporte y tomamos fotos de referencia.
-
-📄
 
 ### Presupuesto detallado
 
 Entrega en 24 h con desglose por partidas: materiales, mano de obra, plazos y forma de pago. Sin letra pequeña.
 
-🔨
-
 ### Ejecucion de obra
 
 Equipo propio, sin subcontratas. Protección de muebles y suelos, obra limpia y te voy contando cómo va cada día.
-
-⭐
 
 ### Entrega e inspeccion
 
@@ -200,25 +174,17 @@ Las hago enteras: baño desde 2.000 € y cocina desde 3.000 €, con placas de 
 
 Solicita tu presupuesto gratuito hoy mismo. Visita sin compromiso y respuesta en menos de 24 horas.
 
-📞
-
 ### Telefono directo
 
 [633 915 898](tel:+34633915898) Lun-Vie 8:00-19:00 | Sab 9:00-14:00
-
-💬
 
 ### WhatsApp
 
 [Escribir ahora](https://wa.me/34633915898) Respuesta en menos de 15 min en horario laboral
 
-✉️
-
 ### Correo electronico
 
 [info@pintareformas.es](mailto:info@pintareformas.es) Respuesta en 24 h
-
-🌐
 
 ### Formulario web
 

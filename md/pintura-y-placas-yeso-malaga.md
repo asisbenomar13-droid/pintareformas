@@ -27,15 +27,11 @@ Trabajo terminado en Málaga — acabado impecable con materiales adaptados al a
 
 ## Pintura, tabiques y falsos techos en la Costa del Sol
 
-🎨
-
 ### Pintura Interior
 
 Desde 4€/m²
 
 Paredes y techos con pinturas adaptadas al ambiente costero. Imprimación incluida, dos manos y acabado perfecto.
-
-🏢
 
 ### Pintura Exterior y Fachadas
 
@@ -43,15 +39,11 @@ Desde 6€/m²
 
 Materiales específicos para la Costa del Sol: impermeabilizante marino, protección UV y acabados que aguantan la sal del mar.
 
-✨
-
 ### Pintura Decorativa
 
 Desde 10€/m²
 
 Estuco veneciano, efectos especiales y papel pintado. Para darle personalidad a tu apartamento o villa en la costa.
-
-📦
 
 ### Tabiques y falsos techos
 
@@ -59,15 +51,11 @@ Desde 25€/m²
 
 Tabiques, falsos techos y trasdosados de placa de yeso laminado, sin obra pesada. Especialmente útil en apartamentos donde el ruido o la distribución importan.
 
-💡
-
 ### Falsos Techos LED
 
 Desde 50€/m²
 
 El trabajo que más sorprende cuando se ve terminado. Placa de yeso con la luz LED integrada, muy demandado en apartamentos de la Costa del Sol.
-
-🔧
 
 ### Reformas Integrales
 

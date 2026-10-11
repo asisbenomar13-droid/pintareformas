@@ -37,15 +37,11 @@ Qué hago en Maracena
 
 Precios de partida. El definitivo va por escrito y sale de ver la casa, no de una foto.
 
-🎨
-
 ### Pintar el piso completo
 
 Dos manos, material incluido y limpieza al terminar cada día.
 
 4 – 9 €/m²
-
-🧱
 
 ### Tabique de placas de yeso
 
@@ -53,15 +49,11 @@ Para sacar un dormitorio o cerrar un hueco. En un día, sin escombro.
 
 25 – 35 €/m²
 
-💡
-
 ### Falso techo con LED
 
 Básico o con foseado para la tira de luz indirecta.
 
 30 – 50 €/m²
-
-✨
 
 ### Quitar gotelé y alisar
 
@@ -69,15 +61,11 @@ Cuando el piso tiene sus años y la pared pide quedarse lisa.
 
 Presupuesto aparte
 
-🚪
-
 ### Lacado de puertas
 
 Puertas oscuras a blanco. Sale mejor hacerlo con la pintura.
 
 Presupuesto cerrado
-
-🍳
 
 ### Reforma de cocina
 
