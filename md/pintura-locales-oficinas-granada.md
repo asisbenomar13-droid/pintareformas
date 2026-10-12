@@ -98,7 +98,7 @@ Sí. Divido oficinas con tabiques de placa de yeso laminado con aislamiento acú
 
 ### ¿Trabajáis para comunidades de vecinos y administradores de fincas?
 
-Sí: portales, escaleras y zonas comunes. A los administradores les preparo presupuesto detallado por partidas, con factura y fechas cerradas — lo que necesitan para llevarlo a la junta.
+Sí: portales, escaleras y zonas comunes. A los administradores les preparo presupuesto detallado por partidas, con factura y fechas cerradas — lo que necesitan para llevarlo a la junta. Tienes los precios en [pintar portal y escalera de comunidad](https://pintareformas.es/pintar-portal-escalera-comunidad-granada.html).
 
 ## ¿Renovamos tu local sin que cierres?
 

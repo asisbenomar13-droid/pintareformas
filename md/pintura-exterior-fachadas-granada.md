@@ -182,7 +182,7 @@ Si hay manchas dentro de casa, pintar la fachada por fuera no arregla nada. Miro
 
 ### Presupuesto cerrado y por partidas
 
-En comunidades de vecinos esto importa: te doy el precio desglosado (andamio, saneado, imprimación, pintura) para que lo podáis comparar con otras ofertas de verdad, no a bulto.
+En comunidades de vecinos esto importa: te doy el precio desglosado (andamio, saneado, imprimación, pintura) (y si también queréis pintar dentro, mira [portal y escalera de comunidad](https://pintareformas.es/pintar-portal-escalera-comunidad-granada.html)) para que lo podáis comparar con otras ofertas de verdad, no a bulto.
 
 ### Calendario y aviso a los vecinos
 

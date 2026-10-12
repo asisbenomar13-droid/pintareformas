@@ -161,6 +161,12 @@ Apartamentos en la costa entre temporadas, con fecha de entrega cerrada.
 
 Fecha fija
 
+### [Portal y escalera de comunidad](https://pintareformas.es/pintar-portal-escalera-comunidad-granada.html)
+
+Zonas comunes con pintura lavable, presupuesto por partidas para la junta y paso libre mientras pinto.
+
+7 – 9 €/m²
+
 ### [Locales y oficinas](https://pintareformas.es/pintura-locales-oficinas-granada.html)
 
 Pintar tu negocio trabajando de noche o por fases, para que no tengas que cerrar.
