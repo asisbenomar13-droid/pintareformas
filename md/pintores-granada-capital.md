@@ -1,6 +1,6 @@
-# Pintor en Granada capital: barrio a barrio, desde 2012
+# Pintor en Granada capital desde 4 €/m², barrio a barrio
 
-> Pinto en el Zaidín, Albaicín, Realejo, Centro y la Chana. Voy, lo mido y te doy un número cerrado que es el que vas a pagar. Presupuesto gratis.
+> Pinto pisos y casas en el Zaidín, Albaicín, Realejo, Centro y la Chana desde 4 €/m². Voy, mido y te doy un precio cerrado por escrito. Presupuesto gratis.
 
 URL canónica: https://pintareformas.es/pintores-granada-capital.html
 

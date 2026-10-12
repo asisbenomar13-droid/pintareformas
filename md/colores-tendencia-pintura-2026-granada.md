@@ -1,6 +1,6 @@
-# Colores de moda 2026 y 2027 para pintar tu casa | Granada
+# Colores de moda para pintar la casa 2026–2027 y dónde van
 
-> Verde salvia, terracota y tonos tierra hoy; chocolate, burdeos y verdes herbales para 2027. Qué color va en cada habitación, contado por un pintor.
+> Verde salvia, terracota y tonos tierra; para 2027, chocolate, burdeos y verdes suaves. Qué color poner en cada habitación, contado por un pintor de Granada.
 
 URL canónica: https://pintareformas.es/colores-tendencia-pintura-2026-granada.html
 
