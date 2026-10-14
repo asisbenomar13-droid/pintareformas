@@ -5,7 +5,7 @@ URL canónica: https://pintareformas.es/
 ---
 # Pintor en Granada y Costa del Sol desde 2012
 
-Soy Asis. Llevo desde 2012 pintando y reformando casas — yo mismo, sin intermediarios. Precio cerrado por escrito, factura y te atiendo en español, árabe o inglés. Te visito y te doy presupuesto el mismo día.
+Soy Asis. Llevo desde 2012 pintando y reformando casas — yo mismo, sin intermediarios. Precio cerrado por escrito y factura. Te visito y te doy presupuesto el mismo día.
 
 Presupuesto Gratis [633 915 898](tel:+34633915898)
 
@@ -13,7 +13,7 @@ Presupuesto Gratis [633 915 898](tel:+34633915898)
 
 Por escrito Precio cerrado
 
-ES·EN·AR Te atiendo en 3 idiomas
+Gratis Presupuesto sin compromiso
 
 ![Dormitorio terminado con pared en tono taupe y bañera exenta junto a la ventana]()
 
@@ -103,7 +103,7 @@ Sobre Nosotros
 
 Me llamo Asis y llevo desde 2012 pintando y reformando casas en Granada y toda la Costa de Málaga. Empecé solo y hoy tenemos un equipo que comparte la misma forma de trabajar.
 
-Usamos buenos materiales porque nos importa que el trabajo dure. Atendemos en español, árabe e inglés — y trabajamos con el mismo cuidado en una vivienda pequeña que en una reforma grande.
+Usamos buenos materiales porque nos importa que el trabajo dure. Hablamos claro y por escrito, y trabajamos con el mismo cuidado en una vivienda pequeña que en una reforma grande.
 
 **Lo que más nos piden:** que seamos puntuales, que dejemos todo limpio y que el precio sea el que dijimos. Las tres cosas las cumplimos.
 
@@ -306,16 +306,6 @@ Reseña publicada en Google
 A
 
 Ahmed Ayad
-
-Reseña publicada en Google
-
-★★★★★
-
-"Actually this worker got me a nice job, clear and beautiful — I mean professional. He can be relied on."
-
-A
-
-Abdoo Dodo
 
 Reseña publicada en Google
 

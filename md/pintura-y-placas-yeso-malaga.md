@@ -1,4 +1,4 @@
-> Pinto y monto placas de yeso en Málaga y la Costa del Sol desde 2012. Precio cerrado por escrito, factura y presupuesto gratis. Hablo inglés.
+> Pinto y monto placas de yeso en Málaga y la Costa del Sol desde 2012. Precio cerrado por escrito, factura y presupuesto gratis.
 
 URL canónica: https://pintareformas.es/pintura-y-placas-yeso-malaga.html
 
@@ -19,7 +19,7 @@ Por escrito Precio cerrado
 
 En resumen
 
-Pintura y placas de yeso en Málaga y la Costa del Sol: pintura interior desde 4 €/m², exterior desde 6 €/m², tabiques y falsos techos desde 25 €/m² y techos con LED desde 50 €/m². Soy Asis (PintaReformas), desde 2012, y hablo inglés. Presupuesto gratis y precio cerrado por escrito.
+Pintura y placas de yeso en Málaga y la Costa del Sol: pintura interior desde 4 €/m², exterior desde 6 €/m², tabiques y falsos techos desde 25 €/m² y techos con LED desde 50 €/m². Soy Asis (PintaReformas), desde 2012. Presupuesto gratis y precio cerrado por escrito.
 
 [633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
 

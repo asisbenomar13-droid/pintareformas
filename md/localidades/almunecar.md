@@ -215,7 +215,7 @@ Sí. Me muevo por toda la Costa Tropical: Almuñécar, La Herradura, Salobreña 
 
 ## Escríbeme y te paso presupuesto
 
-Estoy de lunes a viernes de 8:00 a 19:00 y los sábados de 9:00 a 14:00. Por WhatsApp me puedes escribir a la hora que quieras y te contesto en cuanto lo vea. Español, inglés o árabe, como prefieras.
+Estoy de lunes a viernes de 8:00 a 19:00 y los sábados de 9:00 a 14:00. Por WhatsApp me puedes escribir a la hora que quieras y te contesto en cuanto lo vea.
 
 ### Teléfono
 

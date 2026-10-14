@@ -97,7 +97,7 @@ Me llamas y voy a verla. Un alisado bien hecho, con imprimación y sin prisas, n
 
 ## ¿Te Quito el Gotelé? Presupuesto Gratis en 24 h
 
-Cuéntame qué habitaciones quieres alisar y cómo están las paredes, y te doy precio cerrado sin compromiso. Te atiendo yo mismo, en español, inglés o árabe.
+Cuéntame qué habitaciones quieres alisar y cómo están las paredes, y te doy precio cerrado sin compromiso. Te atiendo yo mismo.
 
 [WhatsApp — Respuesta inmediata](https://wa.me/34633915898?text=Hola%20Asis%2C%20quiero%20presupuesto%20para%20quitar%20el%20gotel%C3%A9%20y%20alisar%20paredes%20en%20Granada) [Formulario de contacto](https://pintareformas.es/#contacto)
 

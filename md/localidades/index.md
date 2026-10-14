@@ -13,7 +13,6 @@ Soy Asis. Vivo en Granada y desde 2012 pinto y monto placas de yeso aquí y en l
 
 Salón terminado en Granada — el mismo trabajo que hago en la costa
 
-**🌍 Te atiendo en tu idioma:** Español · English · العربية
 Presupuesto gratis, precio cerrado por escrito antes de empezar y factura. Si la obra dura tres días o más, el desplazamiento no te lo cobro, estés donde estés de esta lista.
 
 [💬 Pregúntame si llego a tu zona](https://wa.me/34633915898?text=Hola%20Asis%2C%20quiero%20saber%20si%20trabajas%20en%20mi%20zona) [📞 633 915 898](tel:+34633915898)
@@ -80,11 +79,9 @@ Y si tienes dos o tres apartamentos que repintar, dímelo de una vez. Los organi
 
 Llámame igual. Estas doce son donde más trabajo, pero me muevo por toda la provincia de Granada y por la Costa del Sol. Si no llego, te lo digo en la misma llamada y no te hago perder la mañana.
 
-## Hablo español, inglés y árabe
+## Te atiendo yo mismo, sin intermediarios
 
-En la costa esto no es un adorno. Buena parte de los propietarios de Nerja, Fuengirola o Marbella no viven en España y no acaban de entenderse con los gremios de aquí: piden un presupuesto, les llega un papel en español con cuatro palabras y no saben qué están firmando. Conmigo lo hablamos en inglés si te viene mejor, por WhatsApp o por teléfono, y el presupuesto te lo explico línea a línea.
-
-El árabe lo hablo de casa. También me sirve, y bastante, con clientes de aquí y de fuera que se manejan mejor así. Al final es lo mismo: que sepas exactamente qué se va a hacer en tu casa y cuánto cuesta antes de que yo toque una pared.
+En la costa esto no es un adorno. Buena parte de los propietarios de Nerja, Fuengirola o Marbella no viven en España y no acaban de entenderse con los gremios de aquí: piden un presupuesto, les llega un papel con cuatro palabras y no saben qué están firmando. Conmigo lo hablamos por WhatsApp o por teléfono, y el presupuesto te lo explico línea a línea.
 
 ## Lo que me piden en todas partes
 
@@ -136,8 +133,6 @@ Si hay algo que no te convence, lo arreglo antes de cobrar el final. Siempre.
 
 **Email:** [info@pintareformas.es](mailto:info@pintareformas.es)
 
-**Idiomas:** Español · English · العربية
-
 **Horario:** Lun-Vie 8:00-19:00 · Sáb 9:00-14:00
 
 [📞 Pedir presupuesto gratis hoy](https://pintareformas.es/#contacto) [💬 Escribir por WhatsApp](https://wa.me/34633915898?text=Hola%20Asis%2C%20te%20escribo%20para%20pedirte%20presupuesto)
@@ -150,7 +145,7 @@ Si la obra dura tres días o más, no. Me quedo allí esos días y el viaje va i
 
 ### Vivo fuera de España y el piso está en la costa, ¿cómo lo hacemos?
 
-Es lo normal aquí. Lo hablamos por WhatsApp en español o en inglés, me dejas llaves con quien tú digas y te mando fotos cada día de cómo va. El presupuesto va por escrito antes de empezar, así sabes qué se hace y qué cuesta sin estar tú delante.
+Es lo normal aquí. Lo hablamos por WhatsApp, me dejas llaves con quien tú digas y te mando fotos cada día de cómo va. El presupuesto va por escrito antes de empezar, así sabes qué se hace y qué cuesta sin estar tú delante.
 
 ### Tengo el piso alquilado por temporadas, ¿puedes pintarlo entre reservas?
 

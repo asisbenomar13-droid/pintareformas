@@ -16,7 +16,7 @@ Soy Asis, de PintaReformas. Llevo años trabajando en Marbella y la Costa del So
 
 En resumen
 
-Pintar en Marbella cuesta desde 4 €/m² en interior (de 7 a 9 €/m² en calidad alta) y desde 6 €/m² en fachada, igual que en Granada. Un piso de 80 m² sale entre 960 y 1.120 € en calidad básica. Soy Asis (PintaReformas), pinto en Marbella y la Costa del Sol desde 2012 y hablo inglés. Precio cerrado por escrito antes de empezar.
+Pintar en Marbella cuesta desde 4 €/m² en interior (de 7 a 9 €/m² en calidad alta) y desde 6 €/m² en fachada, igual que en Granada. Un piso de 80 m² sale entre 960 y 1.120 € en calidad básica. Soy Asis (PintaReformas), pinto en Marbella y la Costa del Sol desde 2012. Precio cerrado por escrito antes de empezar.
 
 [633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
 

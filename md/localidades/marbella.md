@@ -7,17 +7,16 @@ URL canónica: https://pintareformas.es/localidades/marbella.html
 ---
 [Inicio](https://pintareformas.es/) › [Localidades](https://pintareformas.es/localidades/) › Marbella
 
-# Pintor en Marbella desde 2012 — Hablo español, inglés y árabe
+# Pintor en Marbella desde 2012 — precio cerrado por escrito
 
-Soy Asis. Llevo desde 2012 pintando casas y haciendo reformas en Marbella y toda la Costa del Sol. Trabajo limpio, te doy precio cerrado **por escrito** antes de empezar y respondo a clientes en tres idiomas — español, inglés y árabe.
+Soy Asis. Llevo desde 2012 pintando casas y haciendo reformas en Marbella y toda la Costa del Sol. Trabajo limpio, te doy precio cerrado **por escrito** antes de empezar y respondo yo mismo a cada cliente.
 
 Dormitorio reformado en Marbella — falso techo de placas de yeso y papel pintado decorativo
 
-**🌍 Te atiendo en tu idioma:** Español · English · العربية
 En Marbella desde 2012. Si algo no te gusta cuando termino, vuelvo y lo arreglo — eso lo dejo por escrito. Vengo desde Granada, pero me organizo los días para que no te cueste más por eso.
 
 ## Por qué la gente de Marbella me llama
-- ✅ **Te hablo en tu idioma:** aquí hay mucho extranjero que se harta de no entenderse con los gremios. Conmigo lo hablamos en español, inglés o árabe — lo que te venga mejor.
+- ✅ **Trato directo conmigo:** aquí hay mucho extranjero que se harta de no entenderse con los gremios. Conmigo lo hablamos claro, por WhatsApp o por teléfono.
 - ✅ **El precio que te digo es el que te cobro:** nada de "ah, esto era más", "ah, esto otro no estaba". Si aparece algo, te llamo antes de tocarlo.
 - ✅ **Aquí la pintura aguanta menos:** sal, sol y humedad se la comen rápido. He aprendido a mano qué pinturas funcionan en primera línea de playa y cuáles no. No te vendo lo más caro, te vendo lo que dura.
 - ✅ **Dejo la casa como me la encuentro:** protejo los muebles, los suelos, recojo todos los días. Sobre todo en apartamentos amueblados — sé que no quieres encontrarte polvo blanco en las sábanas.
@@ -125,8 +124,6 @@ Cálculo orientativo con mi tarifa, no una obra concreta. Una cocina de 12 m² c
 
 **Email:** [info@pintareformas.es](mailto:info@pintareformas.es)
 
-**Idiomas:** Español · English · العربية
-
 **Horario:** Lun-Vie 8:00-19:00 · Sáb 9:00-14:00
 
 [📞 Pedir presupuesto gratis hoy](https://pintareformas.es/#contacto) [💬 Escribir por WhatsApp](https://wa.me/34633915898?text=Hola%20Asis%2C%20te%20escribo%20desde%20Marbella%20para%20pedirte%20presupuesto)
@@ -143,7 +140,7 @@ Si el soporte se mueve o no se prepara bien, sí. Por eso lo importante no es el
 
 ### Tengo el chalet vacío casi todo el año, ¿puedes entrar sin que yo esté?
 
-Sí, y aquí es lo normal. Recojo las llaves de quien tú digas, de la empresa que te lleva la casa o del conserje de la urbanización, y te mando fotos del avance cada día. Lo hablamos en español, inglés o árabe. El presupuesto va cerrado por escrito antes de empezar, así no hay sorpresas al volver.
+Sí, y aquí es lo normal. Recojo las llaves de quien tú digas, de la empresa que te lleva la casa o del conserje de la urbanización, y te mando fotos del avance cada día. Lo hablamos por WhatsApp. El presupuesto va cerrado por escrito antes de empezar, así no hay sorpresas al volver.
 
 ### ¿Trabajas también en apartamentos normales o solo acabados caros?
 

@@ -1,6 +1,6 @@
 # Pintar piso de alquiler vacacional en la Costa del Sol
 
-> Pinto pisos de alquiler vacacional en Nerja, Marbella, Fuengirola y Torremolinos entre reserva y reserva. Precio cerrado, factura y hablo inglés.
+> Pinto pisos de alquiler vacacional en Nerja, Marbella, Fuengirola y Torremolinos entre reserva y reserva. Precio cerrado, factura.
 
 URL canónica: https://pintareformas.es/pintar-piso-alquiler-vacacional-costa.html
 
@@ -10,13 +10,13 @@ Alquiler vacacional · Costa de Granada y Málaga
 # Pintar un piso de
 alquiler vacacional
 
-Soy Asis. Llevo desde 2012 pintando en la costa y buena parte de lo que hago son apartamentos turísticos: entrar cuando se va un huésped, dejarlo fino y salir antes de que entre el siguiente. Precio cerrado por escrito, factura, y hablo español, inglés y árabe con el propietario esté donde esté.
+Soy Asis. Llevo desde 2012 pintando en la costa y buena parte de lo que hago son apartamentos turísticos: entrar cuando se va un huésped, dejarlo fino y salir antes de que entre el siguiente. Precio cerrado por escrito, factura, y hablo yo con el propietario esté donde esté.
 
 [Presupuesto para tu apartamento](https://wa.me/34633915898?text=Hola%20Asis%2C%20tengo%20un%20piso%20de%20alquiler%20vacacional%20y%20quiero%20presupuesto) [📞 633 915 898](tel:+34633915898)
 
 En resumen
 
-Pinto apartamentos de alquiler vacacional en Nerja, Marbella, Fuengirola y Torremolinos entre reserva y reserva. Pintura lavable premium de 7 a 9 €/m², techos desde 4 €/m² y lacado de puertas desde 90 € por puerta. Soy Asis (PintaReformas), desde 2012, hablo inglés y entro con llave si no estás.
+Pinto apartamentos de alquiler vacacional en Nerja, Marbella, Fuengirola y Torremolinos entre reserva y reserva. Pintura lavable premium de 7 a 9 €/m², techos desde 4 €/m² y lacado de puertas desde 90 € por puerta. Soy Asis (PintaReformas), desde 2012, y entro con llave si no estás.
 
 [633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
 
@@ -162,7 +162,7 @@ Para gestoras y propietarios
 Trabajo bastante con propietarios que tienen dos o tres apartamentos y con gestoras que llevan carteras más grandes. Lo que necesitan siempre es lo mismo: que alguien coja el teléfono, dé un precio y cumpla la fecha. Así lo llevo:
 - **Presupuesto cerrado por escrito** antes de empezar, con el desglose por estancia. Lo que te digo es lo que se cobra.
 - **Factura con IVA** a nombre del propietario o de la empresa. Si son varios trabajos del mismo mes, los agrupo en una factura.
-- **Tres idiomas: español, inglés y árabe.** Media costa tiene propietarios que viven fuera. Tratan conmigo directamente, sin intermediario que traduzca ni encarezca.
+- **Trato directo conmigo.** Media costa tiene propietarios que viven fuera. Tratan conmigo directamente, sin intermediario que traduzca ni encarezca.
 - **Fotos del antes y del después** el mismo día. Si estás en Londres o en Ámsterdam, ves el trabajo terminado sin coger un avión.
 - **Precio mejor por volumen.** Si me das tres pisos seguidos en la misma semana y en la misma zona, me ahorro desplazamientos y eso te lo repercuto.
 - **Precio cerrado** por escrito en el trabajo que hago.
@@ -196,10 +196,6 @@ Con lavable premium a 7 – 9 €/m², un apartamento de 60 m² suele salir entr
 ### ¿Haces factura para gestoras y propietarios extranjeros?
 
 Siempre. Factura con IVA a nombre del propietario o de la empresa gestora, con el desglose del trabajo. Muchos propietarios se la desgravan como gasto del alquiler, así que la necesitan sí o sí. Si gestionas varias viviendas, puedo agrupar los trabajos del mes en una sola factura.
-
-### ¿Hablas inglés con los propietarios?
-
-Hablo español, inglés y árabe. En la costa la mitad de los propietarios viven fuera y agradecen tratar directamente conmigo por WhatsApp, mandarme una foto de una pared marcada y recibir el presupuesto en su idioma. Eso ahorra muchas idas y venidas.
 
 ### ¿Merece la pena pintar el piso entero cada temporada?
 

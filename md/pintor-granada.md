@@ -98,7 +98,7 @@ Pintores en Granada hay muchos, y buenos. Lo que yo pongo encima de la mesa no e
 - **Precio cerrado por escrito.** Lo que pone en el presupuesto es lo que pagas. Y si algo no queda como hablamos, me llamas y lo miro.
 - **Materiales de primera calidad incluidos.** Usamos pinturas de marcas reconocidas (Bruguer, Valentine, Jotun) según el tipo de trabajo y el acabado requerido.
 - **Limpieza y orden en la obra.** Protegemos muebles, suelos y puertas. Dejamos la vivienda lista para habitar al terminar.
-- **Atención en español, árabe e inglés.** Granada es una ciudad internacional y sabemos comunicarnos con todos nuestros clientes.
+- **Trato directo conmigo.** Te atiendo yo mismo y te explico el presupuesto línea a línea, sin intermediarios.
 - **Experiencia local desde 2012.** Conocemos las particularidades de las viviendas en Granada: humedades típicas, tipos de fachadas, patologías habituales del parque inmobiliario local.
 
 ## Cómo trabajo, del presupuesto a la entrega

@@ -9,7 +9,7 @@ Buscas un pintor económico en Málaga y quieres ver los números antes de llama
 
 En resumen
 
-Pintar en Málaga y la Costa del Sol desde 4 €/m², con imprimación y dos manos incluidas. Soy Asis (PintaReformas), pinto yo mismo desde 2012, sin intermediarios, y hablo inglés. Te doy el precio cerrado por escrito antes de empezar.
+Pintar en Málaga y la Costa del Sol desde 4 €/m², con imprimación y dos manos incluidas. Soy Asis (PintaReformas), pinto yo mismo desde 2012, sin intermediarios. Te doy el precio cerrado por escrito antes de empezar.
 
 [633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
 
@@ -88,9 +88,9 @@ Compro la pintura y las imprimaciones directamente a distribuidores, y ese ahorr
 
 La sal y la humedad del mar tratan la pintura distinto que en el interior. Sabemos qué materiales aguantan en fachada en primera línea de playa y cuáles se estropean al año.
 
-### Atención en español, inglés y árabe
+### Trato directo conmigo
 
-En la Costa del Sol hay mucho cliente extranjero. Poder explicar el presupuesto en su idioma evita malentendidos y ahorra tiempo a los dos.
+Hablo yo contigo, sin intermediarios. Te explico el presupuesto línea a línea: evita malentendidos y ahorra tiempo a los dos.
 
 ### Clientes que vuelven
 
@@ -154,7 +154,7 @@ Trabajamos en Málaga capital y en Marbella, Torremolinos, Benalmádena, Fuengir
 
 ¿Cómo solicito un presupuesto y qué información necesitáis?
 
-Para enviarte un presupuesto ajustado necesitamos: metros cuadrados aproximados de la vivienda, número de estancias a pintar, estado general de las paredes (si hay humedad, grietas o manchas visibles), tipo de acabado que buscas y la localidad exacta en la Costa del Sol. Con esa información, en menos de 24 horas recibes un presupuesto detallado por partidas. Puedes enviarnos la información por WhatsApp al 633 915 898 o mediante el formulario de contacto de la web. También atendemos en inglés si lo prefieres.
+Para enviarte un presupuesto ajustado necesitamos: metros cuadrados aproximados de la vivienda, número de estancias a pintar, estado general de las paredes (si hay humedad, grietas o manchas visibles), tipo de acabado que buscas y la localidad exacta en la Costa del Sol. Con esa información, en menos de 24 horas recibes un presupuesto detallado por partidas. Puedes enviarnos la información por WhatsApp al 633 915 898 o mediante el formulario de contacto de la web.
 
 ### Artículos relacionados que pueden ayudarte
 

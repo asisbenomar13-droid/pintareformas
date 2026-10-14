@@ -27,14 +27,6 @@ Una reforma de cocina sale desde 3.000€ si mantenemos la distribución, y sube
 
 Un piso de 70-90m² tarda entre 2 y 4 días. Una habitación, 1 día. Una cocina o baño con tratamiento de humedad, 1-2 días. Siempre te digo el plazo exacto por escrito antes de empezar.
 
-¿Hay pintores que hablen inglés en Granada?
-
-Sí, yo mismo te atiendo en inglés. Sin intermediarios ni traductores por medio: hablamos, te explico el trabajo y te paso el presupuesto. Es algo que me piden mucho los clientes extranjeros de Marbella y la Costa del Sol.
-
-¿Hay pintores que hablen árabe en Granada?
-
-Sí. Me llamo Asis, soy el que va a tu casa y hablo árabe, español e inglés. Mucha gente me llama justo por eso: por poder explicar lo que quiere en su idioma y entender bien lo que va a pagar.
-
 ¿Trabajáis en Marbella, Nerja y la Costa de Málaga?
 
 Sí. Trabajo en toda la Costa de Málaga: Marbella, Nerja, Benalmádena, Torremolinos, Fuengirola, Motril y Almuñécar. El desplazamiento es gratuito hasta 50 km desde Granada.

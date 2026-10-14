@@ -1,4 +1,4 @@
-# Pintor y placas de yeso en Nerja | hablo 3 idiomas
+# Pintor y placas de yeso en Nerja | precio cerrado por escrito
 
 > Soy Asis, pintor y montador de placas de yeso en Nerja desde 2012. Pinto tu piso entre reservas, precio cerrado por escrito. Llámame al 633 915 898.
 
@@ -7,17 +7,16 @@ URL canónica: https://pintareformas.es/localidades/nerja.html
 ---
 [Inicio](https://pintareformas.es/) › [Localidades](https://pintareformas.es/localidades/) › Nerja
 
-# Pintor en Nerja desde 2012 — Hablo español, inglés y árabe
+# Pintor en Nerja desde 2012 — precio cerrado por escrito
 
 Soy Asis. Llevo desde 2012 pintando casas y haciendo reformas en Nerja y la Costa Tropical Oriental. Trabajo limpio, te doy precio cerrado **por escrito** antes de empezar, y uso pinturas que aguantan de verdad el salitre y el sol de aquí — no cualquier cosa que se caiga en un año.
 
 Dormitorio en Nerja — pintura con tratamiento especial para clima costero
 
-**🌍 Te atiendo en tu idioma:** Español · English · العربية
 En Nerja desde 2012. La costa tiene sus manías — la humedad, la sal, el sol directo. He aprendido qué materiales aguantan aquí y cuáles no. Si algo no queda bien cuando termino, vuelvo y lo arreglo. Eso lo dejo por escrito.
 
 ## Por qué la gente de Nerja me llama
-- ✅ **Te hablo en tu idioma:** en Nerja hay mucho residente inglés y mucho turista que no se entiende bien con los gremios de aquí. Conmigo lo hablamos en español, inglés o árabe — lo que te venga mejor.
+- ✅ **Trato directo conmigo:** en Nerja hay mucho residente extranjero y mucho turista que no se entiende bien con los gremios de aquí. Conmigo lo hablamos claro, por WhatsApp o por teléfono.
 - ✅ **El precio que te digo es el que te cobro:** nada de "esto era más" ni "eso otro no estaba incluido". Si aparece algo, te llamo antes de tocarlo. Sin sorpresas al final.
 - ✅ **Aquí la pintura barata no aguanta:** el salitre del mar, el sol de la Costa Tropical y la humedad se la comen en poco tiempo. Sé qué pinturas funcionan de verdad en primera línea de playa y cuáles no llegan al segundo año. No te vendo lo más caro, te vendo lo que dura.
 - ✅ **Dejo la casa como me la encuentro:** protejo muebles y suelos, recojo todos los días. Lo digo especialmente para los apartamentos turísticos — sé que no quieres encontrarte polvo ni desorden entre temporadas.
@@ -129,8 +128,6 @@ No hago fontanería ni electricidad de obra nueva, no toco estructura y no me me
 
 **Email:** [info@pintareformas.es](mailto:info@pintareformas.es)
 
-**Idiomas:** Español · English · العربية
-
 **Horario:** Lun-Vie 8:00-19:00 · Sáb 9:00-14:00
 
 [📞 Pedir presupuesto gratis hoy](https://pintareformas.es/#contacto) [💬 Escribir por WhatsApp](https://wa.me/34633915898?text=Hola%20Asis%2C%20te%20escribo%20desde%20Nerja%20para%20pedirte%20presupuesto)
@@ -147,7 +144,7 @@ En primera línea no vale cualquier plástica barata: el aire salino la levanta 
 
 ### Tengo el piso en Nerja y yo vivo fuera de España, ¿cómo lo hacemos?
 
-Pasa mucho en Nerja. Lo hablamos por WhatsApp en español o en inglés, me dejas llaves con quien tú digas y te voy mandando fotos cada día de cómo va. El presupuesto va por escrito antes de empezar, así sabes exactamente qué se hace y qué cuesta sin estar tú delante.
+Pasa mucho en Nerja. Lo hablamos por WhatsApp, me dejas llaves con quien tú digas y te voy mandando fotos cada día de cómo va. El presupuesto va por escrito antes de empezar, así sabes exactamente qué se hace y qué cuesta sin estar tú delante.
 
 ### ¿Cuánto cuesta pintar un piso de 70 m² en Nerja?
 

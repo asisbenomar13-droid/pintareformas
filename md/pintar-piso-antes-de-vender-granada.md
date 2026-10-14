@@ -158,7 +158,7 @@ Cuando alguien me llama porque va a vender, sé que tiene prisa y que cada día 
 - **Fecha de entrada y de salida.** Te digo qué día empiezo y qué día acabo, para que puedas cuadrar las fotos y las visitas con la inmobiliaria.
 - **Precio cerrado por escrito y factura.** Y si antes de vender sale un desconchón, me llamas y lo repaso.
 
-Y una última cosa que te digo de verdad: si vengo a tu piso y veo que con repasar el pasillo y una habitación te vale, te lo voy a decir aunque cobre menos. Prefiero eso a colarte metros que no necesitas. Trabajo en [Granada capital](https://pintareformas.es/pintores-granada-capital.html), Armilla, La Zubia, Maracena y toda la costa de Granada y Málaga, y te atiendo en español, árabe o inglés.
+Y una última cosa que te digo de verdad: si vengo a tu piso y veo que con repasar el pasillo y una habitación te vale, te lo voy a decir aunque cobre menos. Prefiero eso a colarte metros que no necesitas. Trabajo en [Granada capital](https://pintareformas.es/pintores-granada-capital.html), Armilla, La Zubia, Maracena y toda la costa de Granada y Málaga, y te atiendo yo.
 
 Preguntas frecuentes
 

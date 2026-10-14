@@ -19,7 +19,7 @@ Hoy tenemos un equipo pequeño que trabaja con la misma filosofía que el primer
 
 "Lo que más me piden los clientes es puntualidad, limpieza y que el precio sea el que dijimos. Las tres cosas las cumplimos — sin excusas."
 
-Atendemos en **español, árabe e inglés** — algo que en la Costa viene muy bien cuando el cliente es extranjero o prefiere comunicarse en árabe.
+Hablamos en **español**, claro y por escrito: lo que se dice en la visita es lo que queda en el presupuesto.
 
 ### 2012
 
@@ -93,7 +93,7 @@ Llevo desde 2012 en este oficio. Empecé en Granada y fui ampliando poco a poco 
 
 Si me llamas, te cojo el teléfono yo. Si me escribes por WhatsApp, te contesto yo. Eso no va a cambiar.
 
-Español Árabe English
+Español
 
 [LinkedIn](https://www.linkedin.com/in/asis-benomar-924293249) [WhatsApp](https://wa.me/34633915898)
 

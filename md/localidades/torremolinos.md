@@ -7,17 +7,16 @@ URL canónica: https://pintareformas.es/localidades/torremolinos.html
 ---
 [Inicio](https://pintareformas.es/) › [Localidades](https://pintareformas.es/localidades/) › Torremolinos
 
-# Pintor en Torremolinos desde 2012 — Hablo español, inglés y árabe
+# Pintor en Torremolinos desde 2012 — precio cerrado por escrito
 
 Soy Asis. Llevo desde 2012 pintando y reformando casas en Torremolinos y la Costa del Sol. Trabajo limpio, precio cerrado **por escrito** antes de empezar y me entiendo con cualquier cliente — en el idioma que necesites.
 
 Reforma de cocina en Torremolinos — placas de yeso y pintura profesional
 
-**🌍 Te atiendo en tu idioma:** Español · English · العربية
 En Torremolinos desde 2012. Aquí hay mucho apartamento turístico y mucho propietario que vive fuera — sé cómo trabajar con cada situación. Precio cerrado por escrito antes de empezar y factura.
 
 ## Por qué la gente de Torremolinos me llama
-- ✅ **Te hablo en tu idioma:** Torremolinos tiene muchos propietarios extranjeros, sobre todo ingleses y escandinavos. Conmigo no hay barrera — español, inglés o árabe, lo que necesites.
+- ✅ **Trato directo conmigo:** Torremolinos tiene muchos propietarios extranjeros, sobre todo ingleses y escandinavos. Conmigo no hay barrera.
 - ✅ **Precio cerrado, sin sustos:** lo que te digo al principio es lo que pagas al final. Todo por escrito. Si aparece algo que no estaba previsto, te aviso antes de tocarlo.
 - ✅ **Materiales para la costa:** el ambiente marino de Torremolinos destroza la pintura barata en poco tiempo. Sé qué funciona aquí y qué no, y te lo explico antes de que decidas.
 - ✅ **Rápido y limpio:** protejo lo que hay en la casa y recojo cada día. Especialmente importante en pisos de alquiler donde los días parados cuestan dinero.
@@ -130,8 +129,6 @@ No hago fontanería ni electricidad de obra nueva, no toco estructura y no traba
 **WhatsApp / llamada:** [633 915 898](tel:+34633915898) — te respondo yo mismo
 
 **Email:** [info@pintareformas.es](mailto:info@pintareformas.es)
-
-**Idiomas:** Español · English · العربية
 
 **Horario:** Lun-Vie 8:00-19:00 · Sáb 9:00-14:00
 

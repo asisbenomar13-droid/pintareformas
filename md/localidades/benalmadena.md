@@ -7,17 +7,16 @@ URL canónica: https://pintareformas.es/localidades/benalmadena.html
 ---
 [Inicio](https://pintareformas.es/) › [Localidades](https://pintareformas.es/localidades/) › Benalmádena
 
-# Pintor en Benalmádena desde 2012 — Hablo español, inglés y árabe
+# Pintor en Benalmádena desde 2012 — precio cerrado por escrito
 
-Soy Asis. Llevo desde 2012 pintando casas y haciendo reformas en Benalmádena y toda la Costa del Sol. Trabajo limpio, te doy precio cerrado **por escrito** antes de empezar, y me entiendo con cualquier cliente — español, inglés o árabe.
+Soy Asis. Llevo desde 2012 pintando casas y haciendo reformas en Benalmádena y toda la Costa del Sol. Trabajo limpio, te doy precio cerrado **por escrito** antes de empezar, y me entiendo con cualquier cliente.
 
 Pintura interior en Benalmádena — acabado resistente al ambiente costero
 
-**🌍 Te atiendo en tu idioma:** Español · English · العربية
 En Benalmádena desde 2012. Aquí hay mucho piso turístico y mucho residente extranjero — sé cómo trabajar con cada uno. Precio cerrado por escrito antes de empezar y factura.
 
 ## Por qué la gente de Benalmádena me llama
-- ✅ **Te hablo en tu idioma:** en Benalmádena hay mucho propietario extranjero que se pierde con los gremios locales. Conmigo no hay ese problema — español, inglés o árabe, lo que necesites.
+- ✅ **Trato directo conmigo:** en Benalmádena hay mucho propietario extranjero que se pierde con los gremios locales. Conmigo no hay ese problema.
 - ✅ **El precio que te digo es el que te cobro:** nada de "esto no estaba incluido" al terminar. Todo por escrito antes de empezar. Si aparece algo imprevisto, te llamo antes de tocarlo.
 - ✅ **La costa castiga la pintura:** la humedad del mar, el salitre y el sol de Benalmádena hacen que la pintura barata dure poco. Sé qué productos funcionan aquí de verdad y cuáles son un gasto tirado.
 - ✅ **Trabajo limpio:** protejo muebles y suelos, recojo todos los días. Sobre todo en apartamentos de alquiler turístico — entiendo que no puedes tener el piso parado más de lo necesario. Lo explico con detalle en [pintar un piso de alquiler vacacional en la costa](https://pintareformas.es/pintar-piso-alquiler-vacacional-costa.html).
@@ -118,8 +117,6 @@ Cálculo orientativo con mi tarifa, no una obra concreta que haya hecho. Un piso
 **WhatsApp / llamada:** [633 915 898](tel:+34633915898) — te respondo yo mismo
 
 **Email:** [info@pintareformas.es](mailto:info@pintareformas.es)
-
-**Idiomas:** Español · English · العربية
 
 **Horario:** Lun-Vie 8:00-19:00 · Sáb 9:00-14:00
 

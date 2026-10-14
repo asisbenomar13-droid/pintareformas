@@ -1,6 +1,6 @@
 # Pintor en Fuengirola: tu apartamento listo entre reservas
 
-> Pinto apartamentos de alquiler en Fuengirola desde 2012. Me ajusto a tus reservas y el precio va cerrado por escrito. English spoken: 633 915 898.
+> Pinto apartamentos de alquiler en Fuengirola desde 2012. Me ajusto a tus reservas y el precio va cerrado por escrito. Llama al 633 915 898.
 
 URL canónica: https://pintareformas.es/localidades/fuengirola.html
 
@@ -9,9 +9,9 @@ URL canónica: https://pintareformas.es/localidades/fuengirola.html
 
 Pintando en la costa desde entonces
 
-ES·EN·AR
+Gratis
 
-Español, inglés y árabe
+Presupuesto sin compromiso
 
 Cerrado
 
@@ -31,14 +31,9 @@ En Fuengirola casi todo lo que pinto es apartamento en bloque, y muchos están a
 
 Y luego está lo de siempre en la costa: sol fuerte y aire con sal. En un piso de alquiler el desgaste va más rápido todavía porque entra y sale gente todo el año — roces en los pasillos, marcas de maletas en los rodapiés, esquinas comidas. Ahí no compensa la pintura más barata: se ensucia antes y no se puede lavar. Prefiero ponerte una lavable buena y que aguantes dos temporadas sin retocar.
 
-🇬🇧
-
-**English spoken — We work with foreign property owners.**
-Whether you manage a holiday apartment or own a second home in Fuengirola, we handle everything: budget, works, and final delivery, fully communicated in English. No language barriers.
-
 Trabajo limpio y recojo cada día, porque sé que el piso lo tienes que enseñar o entregar. Y si veo que en los días que me das no cabe hacerlo bien, te lo digo antes de empezar, no a mitad.
 
-**Si no vives en España:** mucha gente aquí tiene el piso y lo lleva desde fuera. Lo hablamos en inglés o en español, te mando el presupuesto por escrito por email y fotos del avance cada día. Recojo las llaves de quien tú me digas y te devuelvo el piso listo para entrar.
+**Si no vives en España:** mucha gente aquí tiene el piso y lo lleva desde fuera. Lo hablamos por WhatsApp o por teléfono, te mando el presupuesto por escrito por email y fotos del avance cada día. Recojo las llaves de quien tú me digas y te devuelvo el piso listo para entrar.
 
 ## Lo que más me piden en Fuengirola
 
@@ -123,7 +118,7 @@ Benalmádena Costa
 
 ### 1. Me escribes
 
-WhatsApp, llamada o email, con fotos si las tienes. Te contesto yo. Si eres extranjero, en inglés sin problema.
+WhatsApp, llamada o email, con fotos si las tienes. Te contesto yo.
 
 2
 
@@ -203,7 +198,7 @@ Es lo que más hago aquí. Me dices los días que lo tienes libre y encajo la ob
 
 ### Vivo fuera de España, ¿cómo controlo la obra a distancia?
 
-Lo hablamos en inglés o en español, como prefieras, y por WhatsApp o email. Te paso el presupuesto por escrito antes de empezar y luego fotos del avance cada día. Las llaves las recojo de quien tú me digas: el administrador de la finca, la empresa que te gestiona el alquiler o un vecino. Al terminar te mando fotos de todo el piso acabado.
+Lo hablamos por WhatsApp o por email. Te paso el presupuesto por escrito antes de empezar y luego fotos del avance cada día. Las llaves las recojo de quien tú me digas: el administrador de la finca, la empresa que te gestiona el alquiler o un vecino. Al terminar te mando fotos de todo el piso acabado.
 
 ### ¿Cuánto cuesta pintar un apartamento de dos dormitorios en Fuengirola?
 
@@ -219,13 +214,13 @@ Según para qué. Para sacar un dormitorio más de un salón grande, sí: tabiqu
 
 ## ¿Tienes un inmueble en Fuengirola que necesita reforma?
 
-Pídenos presupuesto gratis hoy. Respondemos en menos de 24 horas y nos adaptamos a tu calendario. English spoken.
+Pídenos presupuesto gratis hoy. Respondemos en menos de 24 horas y nos adaptamos a tu calendario.
 
 [💬 WhatsApp directo](https://wa.me/34633915898) [Formulario de contacto](https://pintareformas.es/#contacto)
 
 ## Escríbeme y te paso presupuesto
 
-Estamos disponibles de lunes a sábado de 8:00 a 20:00h. **English spoken — We attend foreign property owners in English.**
+Estamos disponibles de lunes a sábado de 8:00 a 20:00h.
 
 📞
 
