@@ -14,7 +14,8 @@ En cumplimiento de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad d
 - **NIF/NIE:** X9333399E
 - **Actividad:** Pintura, tabiquería de placas de yeso laminado y reformas
 - **Domicilio:** Granada, España
-- **Teléfono:** [+34 633 915 898](tel:+34633915898)
+- **Teléfono móvil:** [+34 633 915 898](tel:+34633915898)
+- **Teléfono fijo:** [+34 858 837 106](tel:+34858837106)
 - **Email:** [info@pintareformas.es](mailto:info@pintareformas.es)
 - **Sitio web:** https://pintareformas.es
 

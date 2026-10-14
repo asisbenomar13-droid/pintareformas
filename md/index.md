@@ -510,6 +510,7 @@ Te contesto yo, el mismo día
 #### Teléfono
 
 [**633 915 898**](tel:+34633915898)
+[858 837 106 (fijo)](tel:+34858837106)
 
 #### WhatsApp
 

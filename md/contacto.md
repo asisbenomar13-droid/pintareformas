@@ -9,7 +9,8 @@ Soy Asis. Contesto yo, no un centro de llamadas. Lo más rápido es el WhatsApp:
 
 ## Cómo localizarme
 - **WhatsApp:** [633 915 898](https://wa.me/34633915898) — la vía más rápida. Puedes mandarme fotos de la pared o de la habitación y te oriento antes de ir.
-- **Teléfono:** [+34 633 915 898](tel:+34633915898)
+- **Teléfono móvil:** [+34 633 915 898](tel:+34633915898)
+- **Teléfono fijo:** [+34 858 837 106](tel:+34858837106)
 - **Email:** [info@pintareformas.es](mailto:info@pintareformas.es)
 - **Horario:** de lunes a viernes de 8:00 a 19:00, y los sábados de 9:00 a 14:00.
 - **Idiomas:** español, inglés y árabe. Hablo yo contigo directamente, sin traductor por medio.
