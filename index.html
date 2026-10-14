@@ -243,6 +243,24 @@ section{padding:80px 0}
 .testi-av{width:44px;height:44px;background:var(--navy);color:#fff;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:1.1rem}
 .testi-name{color:var(--navy);font-weight:600;font-size:.95rem}
 .testi-loc{color:var(--gray-600);font-size:.82rem}
+
+.testi-wrap{position:relative}
+.testi-grid.testi-track{display:flex;gap:24px;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;scrollbar-width:none;-webkit-overflow-scrolling:touch;padding:10px 4px 18px}
+.testi-track::-webkit-scrollbar{display:none}
+.testi-track .testi{flex:0 0 calc((100% - 48px)/3);scroll-snap-align:start;display:flex;flex-direction:column;justify-content:space-between;padding:34px 30px}
+.testi-track .testi:hover{transform:none}
+.testi-track .testi-text{font-size:1.04rem;flex:1 1 auto}
+.testi-track .testi-text.clamp{display:-webkit-box;-webkit-line-clamp:6;-webkit-box-orient:vertical;overflow:hidden;margin-bottom:6px}
+.testi-more{align-self:flex-start;background:none;border:0;color:#9A5200;font:600 .9rem "Segoe UI",Helvetica,Arial,sans-serif;text-decoration:underline;cursor:pointer;padding:2px 0 14px}
+.testi-nav{position:absolute;top:calc(50% - 30px);width:46px;height:46px;border-radius:50%;border:0;background:#0D1B2A;color:#fff;font-size:26px;line-height:46px;cursor:pointer;z-index:2;box-shadow:0 4px 14px rgba(0,0,0,.25);padding:0}
+.testi-nav:hover,.testi-nav:focus-visible{background:#FF9800;color:#0D1B2A}
+.testi-prev{left:-14px}.testi-next{right:-14px}
+.testi-dots{display:flex;justify-content:center;gap:9px;margin-top:6px}
+.testi-dots button{width:11px;height:11px;border-radius:50%;border:0;background:#c3cad2;padding:0;cursor:pointer}
+.testi-dots button[aria-current=true]{background:#FF9800;width:26px;border-radius:6px}
+@media(max-width:900px){.testi-track .testi{flex-basis:calc((100% - 24px)/2)}}
+@media(max-width:600px){.testi-track .testi{flex-basis:88%;padding:28px 22px}.testi-nav{display:none}}
+@media(prefers-reduced-motion:reduce){.testi-grid.testi-track{scroll-behavior:auto}}
 .blog-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:28px}
 .blog-card{background:#fff;border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow-sm);transition:var(--transition);cursor:pointer}
 .blog-card:hover{transform:translateY(-8px);box-shadow:var(--shadow-lg)}
@@ -734,7 +752,7 @@ footer{background:var(--navy);color:#fff;padding:58px 0 22px;border-top:4px soli
       <h2>Las Reseñas que Tengo en Google</h2>
       <p>Todas las que ves aquí están publicadas en mi ficha de Google y puedes comprobarlas tú mismo, una por una. Prefiero enseñarte unas pocas de verdad que llenar la página de estrellas inventadas.</p>
     </div>
-    <div class="testi-grid">
+    <div class="testi-wrap"><div class="testi-grid testi-track" id="testiTrack" tabindex="0" role="region" aria-label="Reseñas de clientes en Google">
       <div class="testi"><div class="testi-stars">★★★★★</div><p class="testi-text">"Quiero destacar a Asis no solo lo gran profesional que es, sino también la maravillosa persona que hay detrás de su trabajo. Ha empapelado mi casa con muchísimo gusto, cuidado y dedicación, cuidando cada detalle y consiguiendo un resultado precioso. Es una persona responsable, perfeccionista, cercana y de esas que ponen cariño en todo lo que hacen. Da gusto encontrar a alguien que trabaja tan bien y en quien, además, puedes confiar plenamente. Mi confianza y recomendación absoluta."</p><div class="testi-author"><div class="testi-av">S</div><div><div class="testi-name">Silvia</div><div class="testi-loc">Reseña publicada en Google · papel pintado</div></div></div></div>
       <div class="testi"><div class="testi-stars">★★★★★</div><p class="testi-text">"Buenas disponibilidad, puntualidad y precio competitivo."</p><div class="testi-author"><div class="testi-av">J</div><div><div class="testi-name">José Bernabé Carmona</div><div class="testi-loc">Reseña publicada en Google</div></div></div></div>
       <div class="testi"><div class="testi-stars">★★★★★</div><p class="testi-text">"Tengo la suerte de haber conocido a Asís, trabajador excelente sabiendo lo que hace, con esmero, con delicadeza. De forma minuciosa, educado, respetuoso, atento, después de varios trabajos que nos hizo a mí y a mi familia, lo tenemos en un pedestal, como un amigo, para nosotros. El mejor. Gracias x tu profesionalidad"</p><div class="testi-author"><div class="testi-av">J</div><div><div class="testi-name">Jesús Mingorance</div><div class="testi-loc">Reseña publicada en Google</div></div></div></div>
@@ -745,6 +763,7 @@ footer{background:var(--navy);color:#fff;padding:58px 0 22px;border-top:4px soli
       <div class="testi"><div class="testi-stars">★★★★★</div><p class="testi-text">"Quiero agradecerles por la excelente reforma del baño. El trabajo quedó perfecto, con mucha profesionalidad, atención a los detalles y acabados de gran calidad. Cumplieron con los plazos y siempre fueron muy amables y responsables. Estoy muy satisfecho con el resultado final y los recomiendo totalmente."</p><div class="testi-author"><div class="testi-av">A</div><div><div class="testi-name">Ahmed Ayad</div><div class="testi-loc">Reseña publicada en Google</div></div></div></div>
       <div class="testi"><div class="testi-stars">★★★★★</div><p class="testi-text">"Actually this worker got me a nice job, clear and beautiful — I mean professional. He can be relied on."</p><div class="testi-author"><div class="testi-av">A</div><div><div class="testi-name">Abdoo Dodo</div><div class="testi-loc">Reseña publicada en Google</div></div></div></div>
     </div>
+    <div class="testi-dots" id="testiDots"></div></div>
     <p style="text-align:center;margin-top:32px"><a href="https://www.google.com/maps/place/?q=place_id:ChIJN8tdPUUzeYkRGlbonySEhQo" target="_blank" rel="noopener" class="btn btn-primary"><svg width="1em" height="1em" fill="currentColor" aria-hidden="true" style="vertical-align:-0.15em"><use href="#icon-check-circle"/></svg> Ver mi ficha en Google</a> <a href="https://g.page/r/CRpW6J8khIUKEBM/review" target="_blank" rel="noopener" class="btn btn-outline-dark">Déjame una reseña</a></p>
   </div>
 </section>
@@ -1234,6 +1253,22 @@ function vis(){var r=b.getBoundingClientRect();return r.bottom>0&&r.top<(window.
 function go(){var n=(i+1)%s.length,nx=s[n];if(nx.tagName==='IMG'&&!nx.complete){return}s[i].classList.remove('on');nx.classList.add('on');i=n}
 function start(){load();if(red)return;setInterval(function(){if(!document.hidden&&vis())go()},4500)}
 if(document.readyState==='complete')setTimeout(start,1200);else addEventListener('load',function(){setTimeout(start,1200)});
+})();
+</script>
+<script>
+(function(){var t=document.getElementById('testiTrack');if(!t)return;var w=t.parentNode,cards=[].slice.call(t.querySelectorAll('.testi')),dots=document.getElementById('testiDots'),red=window.matchMedia&&matchMedia('(prefers-reduced-motion: reduce)').matches,paused=false,idx=0;
+cards.forEach(function(c){var p=c.querySelector('.testi-text');if(p&&p.textContent.length>190){p.classList.add('clamp');var b=document.createElement('button');b.type='button';b.className='testi-more';b.textContent='Leer más';b.setAttribute('aria-expanded','false');b.onclick=function(){var o=p.classList.toggle('clamp');b.textContent=o?'Leer más':'Leer menos';b.setAttribute('aria-expanded',o?'false':'true');paused=!o};p.parentNode.insertBefore(b,p.nextSibling)}});
+function per(){var x=cards[0].offsetWidth+24;return x}
+function n(){return cards.length}
+function go(i){idx=(i+n())%n();t.scrollTo({left:cards[idx].offsetLeft-t.offsetLeft,behavior:red?'auto':'smooth'});mark()}
+function mark(){[].forEach.call(dots.children,function(d,k){d.setAttribute('aria-current',k===idx?'true':'false')})}
+cards.forEach(function(c,k){var d=document.createElement('button');d.type='button';d.setAttribute('aria-label','Ir a la reseña '+(k+1));d.onclick=function(){go(k)};dots.appendChild(d)});
+['prev','next'].forEach(function(k){var b=document.createElement('button');b.type='button';b.className='testi-nav testi-'+k;b.setAttribute('aria-label',k==='prev'?'Reseña anterior':'Reseña siguiente');b.innerHTML=k==='prev'?'&#8249;':'&#8250;';b.onclick=function(){go(idx+(k==='prev'?-1:1))};w.appendChild(b)});
+var st;t.addEventListener('scroll',function(){clearTimeout(st);st=setTimeout(function(){var best=0,bd=1e9;cards.forEach(function(c,k){var d=Math.abs(c.offsetLeft-t.offsetLeft-t.scrollLeft);if(d<bd){bd=d;best=k}});idx=best;mark()},90)},{passive:true});
+w.addEventListener('mouseenter',function(){paused=true});w.addEventListener('mouseleave',function(){paused=false});w.addEventListener('focusin',function(){paused=true});w.addEventListener('focusout',function(){paused=false});w.addEventListener('touchstart',function(){paused=true},{passive:true});w.addEventListener('touchend',function(){setTimeout(function(){paused=false},6000)},{passive:true});
+t.addEventListener('keydown',function(e){if(e.key==='ArrowRight'){e.preventDefault();go(idx+1)}else if(e.key==='ArrowLeft'){e.preventDefault();go(idx-1)}});
+mark();
+if(!red){setInterval(function(){if(paused)return;var r=w.getBoundingClientRect();if(r.bottom<0||r.top>innerHeight)return;var last=t.scrollLeft+t.clientWidth>=t.scrollWidth-4;go(last?0:idx+1)},4800)}
 })();
 </script>
 </body>
