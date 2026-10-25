@@ -329,6 +329,16 @@ Nail Tamestas
 
 Reseña publicada en Google
 
+★★★★★
+
+Valoración de 5 estrellas en Google, sin comentario.
+
+C
+
+Carolina Rosales
+
+Valoración publicada en Google
+
 [Ver mi ficha en Google](https://www.google.com/maps/place/?q=place_id:ChIJN8tdPUUzeYkRGlbonySEhQo) [Déjame una reseña](https://g.page/r/CRpW6J8khIUKEBM/review)
 
 Blog
