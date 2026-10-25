@@ -309,6 +309,26 @@ Ahmed Ayad
 
 Reseña publicada en Google
 
+★★★★★
+
+"Excelente experiencia. Realizaron la pintura de mi vivienda con gran profesionalidad y atención al detalle. Cumplieron con los plazos acordados, trabajaron de forma limpia y ordenada, y el acabado final superó mis expectativas. El equipo fue amable y siempre dispuesto a resolver cualquier duda. Sin duda, volvería a contratar sus servicios y los recomiendo totalmente."
+
+A
+
+Achocha Arifi
+
+Reseña publicada en Google
+
+★★★★★
+
+"Muy contento con el trabajo. Pintaron mi piso de 100 m² y el resultado ha sido excelente. Fueron puntuales, cuidadosos y dejaron todo limpio al terminar. Las paredes han quedado perfectas y el trato fue muy profesional y cercano. Sin duda, los recomendaría."
+
+N
+
+Nail Tamestas
+
+Reseña publicada en Google
+
 [Ver mi ficha en Google](https://www.google.com/maps/place/?q=place_id:ChIJN8tdPUUzeYkRGlbonySEhQo) [Déjame una reseña](https://g.page/r/CRpW6J8khIUKEBM/review)
 
 Blog
