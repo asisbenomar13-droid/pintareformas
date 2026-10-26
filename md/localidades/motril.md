@@ -1,6 +1,6 @@
-# Pintor en Motril: pinto tu casa sin sustos en el precio
+# Pintor en Motril desde 4 €/m² · precio cerrado
 
-> Soy Asis, pintor y montador de placas de yeso en Motril desde 2012. Precio cerrado por escrito, obra limpia y factura. Tel 633 915 898.
+> Pintor y placas de yeso en Motril: pintura desde 4 €/m², tabiques desde 25 €/m², baño desde 2.000 €. Precio cerrado por escrito. 633 915 898.
 
 URL canónica: https://pintareformas.es/localidades/motril.html
 

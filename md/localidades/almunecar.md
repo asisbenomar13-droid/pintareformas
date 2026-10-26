@@ -1,6 +1,6 @@
-# Pintor y placas de yeso en Almuñécar | precio cerrado
+# Pintor en Almuñécar desde 4 €/m² · precio cerrado
 
-> Pinto y monto placas de yeso en Almuñécar desde 2012. Pinturas que aguantan el salitre, precio cerrado por escrito. Presupuesto gratis: 633 915 898.
+> Pinto y monto placas de yeso en Almuñécar: pintura desde 4 €/m², fachada desde 6 €/m² con pintura que aguanta el salitre. Presupuesto gratis.
 
 URL canónica: https://pintareformas.es/localidades/almunecar.html
 

@@ -1,6 +1,6 @@
-# Pintor y placas de yeso en Armilla — subo el mismo día
+# Pintor en Armilla: piso de 90 m² por 1.100–1.500 €
 
-> Pintor y montador de placas de yeso en Armilla. Estoy a 10 minutos: subo el mismo día a verlo y no cobro desplazamiento. Pintura desde 4 €/m².
+> Pintor y placas de yeso en Armilla. Piso de 90 m² pintado entre 1.100 y 1.500 €, tabiques desde 25 €/m². Subo el mismo día, sin desplazamiento.
 
 URL canónica: https://pintareformas.es/localidades/armilla.html
 

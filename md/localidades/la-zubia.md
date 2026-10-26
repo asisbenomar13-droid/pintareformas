@@ -1,6 +1,6 @@
-# Pintor en La Zubia — fachadas de chalet y decorativos
+# Pintor en La Zubia: fachadas desde 6 €/m² y estuco
 
-> Pintor en La Zubia para casas y chalets: fachadas desde 6 €/m², estuco, microcemento y tabiques. Subo a verlo el mismo día y no cobro el desplazamiento.
+> Pintor en La Zubia para casas y chalets: fachadas desde 6 €/m², estuco desde 18 €/m² y tabiques desde 25 €/m². Subo a verlo el mismo día.
 
 URL canónica: https://pintareformas.es/localidades/la-zubia.html
 

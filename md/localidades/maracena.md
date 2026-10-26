@@ -1,6 +1,6 @@
-# Pintor y placas de yeso en Maracena — precio por escrito
+# Pintor en Maracena desde 4 €/m² · precio por escrito
 
-> Pinto pisos y monto placas de yeso en Maracena. El mismo que levanta el tabique lo pinta: una obra, un precio cerrado y sin coordinar gremios.
+> Pinto pisos desde 4 €/m² y monto tabiques desde 25 €/m² en Maracena. El mismo que levanta el tabique lo pinta: una obra, un precio cerrado.
 
 URL canónica: https://pintareformas.es/localidades/maracena.html
 

@@ -1,6 +1,6 @@
-# Pintar local u oficina en Granada: desde 600 € sin cerrar
+# Pintar local u oficina en Granada: 600–1.200 € sin cerrar
 
-> Un local de 80–100 m² sale entre 600 y 1.200 € con pintura lavable. Pinto por las tardes y fines de semana para que no cierres. Presupuesto gratis.
+> Local de 80–100 m² pintado entre 600 y 1.200 € con pintura lavable. Trabajo por las tardes y fines de semana para que no cierres. Presupuesto gratis.
 
 URL canónica: https://pintareformas.es/pintura-locales-oficinas-granada.html
 
