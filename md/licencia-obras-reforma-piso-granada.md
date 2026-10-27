@@ -1,4 +1,4 @@
-# Licencia para reformar un piso en Granada: qué necesitas y qué no
+# Licencia para reformar un piso en Granada: qué necesitas
 
 > Qué trámite necesita reformar tu piso en Granada: obra menor, declaración responsable u obra mayor, cuánto cuesta y cuánto tarda. Te lo cuento claro.
 
