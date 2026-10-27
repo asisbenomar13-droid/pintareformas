@@ -1,4 +1,4 @@
-> Soy Asis, pintor en Granada desde 2012. Pintura interior y exterior, tabiques y falsos techos, con precio cerrado por escrito. Llámame y lo vemos en tu casa.
+> Soy Asis, pintor en Granada desde 2012. Pintura interior y exterior, tabiques y falsos techos, con precio cerrado por escrito. Llámame y lo vemos.
 
 URL canónica: https://pintareformas.es/pintor-granada.html
 

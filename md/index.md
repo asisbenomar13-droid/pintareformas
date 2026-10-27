@@ -1,4 +1,4 @@
-> Pinto y reformo en Granada y la Costa de Málaga desde 2012. Tabiques y falsos techos de placas de yeso. Te digo el precio y ese es el que cobro: 633 915 898.
+> Pinto y reformo en Granada y la Costa de Málaga desde 2012. Tabiques y falsos techos. Te digo el precio y ese es el que cobro: 633 915 898.
 
 URL canónica: https://pintareformas.es/
 

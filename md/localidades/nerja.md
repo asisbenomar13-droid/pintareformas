@@ -1,4 +1,4 @@
-# Pintor y placas de yeso en Nerja | precio cerrado por escrito
+# Pintor y placas de yeso en Nerja | precio por escrito
 
 > Soy Asis, pintor y montador de placas de yeso en Nerja desde 2012. Pinto tu piso entre reservas, precio cerrado por escrito. Llámame al 633 915 898.
 
