@@ -125,6 +125,12 @@ Baño completo con precio cerrado y plazo por escrito antes de levantar el prime
 
 Desde 2.000 €
 
+### [Cambiar bañera por ducha](https://pintareformas.es/cambiar-banera-plato-ducha-granada.html)
+
+Plato, grifería, mampara y escombros incluidos, en 2 o 3 días y sin tocar el resto del baño.
+
+700 – 1.200 €
+
 ### [Reformas integrales en Granada](https://pintareformas.es/reformas-integrales-granada.html)
 
 Tu piso entero con una sola persona al frente, plazos por escrito y precio cerrado.
