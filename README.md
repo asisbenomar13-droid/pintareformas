@@ -6,4 +6,4 @@ Web de PintaReformas: pintura, placas de yeso, falsos techos y reformas en Grana
 - Web estática (HTML/CSS/JS) + `enviar.php` para el formulario de contacto.
 - Los textos en `md/` son la versión Markdown de cada página (para agentes/IA, ver `llms.txt`).
 
-Antes se llamaba PintaPladur; la marca y el dominio cambiaron en agosto de 2026.
+La marca y el dominio cambiaron en agosto de 2026.
