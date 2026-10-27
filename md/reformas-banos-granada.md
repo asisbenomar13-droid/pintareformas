@@ -83,7 +83,7 @@ No todo el mundo necesita tirarlo todo. Estos son los trabajos sueltos de baño 
 | **Pintar el baño con pintura antihumedad** | 150 – 300 € | 1 día |
 | **Microcemento en la zona de ducha** | 95 – 125 €/m² | 3 – 4 días |
 
-El cambio de bañera por plato de ducha es el trabajo de baño que más me piden, sobre todo en casas con gente mayor. En dos o tres días está hecho, sin tocar el resto del baño y sin quedarte sin él más de un día. Van dentro el plato, la grifería, la mampara, el alicatado de esa zona y los escombros.
+El cambio de bañera por plato de ducha es el trabajo de baño que más me piden, sobre todo en casas con gente mayor. En dos o tres días está hecho, sin tocar el resto del baño y sin quedarte sin él más de un día. Van dentro el plato, la grifería, la mampara, el alicatado de esa zona y los escombros. Tienes [el detalle del cambio de bañera por ducha](https://pintareformas.es/cambiar-banera-plato-ducha-granada.html) en su propia página.
 
 Si lo que te pasa es que sale moho en el techo cada invierno, antes de reformar nada léete lo que cuento sobre [pintura antihumedad para baños](https://pintareformas.es/pintura-humedad-banos.html). Muchas veces el problema es que no hay extractor, y eso se arregla por 150 € y no por 2.000.
 
