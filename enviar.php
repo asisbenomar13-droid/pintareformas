@@ -62,16 +62,75 @@ $cuerpo = "Nueva solicitud de presupuesto desde pintareformas.es\n\n"
     . "\nProyecto:\n$mensaje\n"
     . "\nFecha: " . date('d/m/Y H:i');
 
-// El remite tiene que ser del propio dominio: el SPF de pintareformas.es
-// autoriza al servidor de Hostinger. Con el remite viejo, spam seguro.
-$headers = "From: PintaReformas Web <info@pintareformas.es>\r\n";
-$headers .= "Cc: info@pintareformas.es\r\n";
-if ($email) {
-    $headers .= "Reply-To: $nombre <$email>\r\n";
-}
-$headers .= "Content-Type: text/plain; charset=utf-8\r\n";
+// Envío por SMTP autenticado con el buzón info@pintareformas.es: así el correo sale
+// firmado con DKIM y no cae en spam (mail() de PHP sale sin firma).
+// Credenciales en un archivo fuera de public_html; si falla el SMTP, se usa mail().
+$asunto  = "Presupuesto web: $servicio — $nombre";
+$destino = 'asisbenomar13@gmail.com';
 
-$ok = mail('asisbenomar13@gmail.com', "Presupuesto web: $servicio — $nombre", $cuerpo, $headers);
+function smtp_enviar($cfg, $destinos, $asunto, $cuerpo, $replyTo) {
+    $fp = @stream_socket_client('ssl://' . $cfg['host'] . ':' . $cfg['port'], $en, $es, 15);
+    if (!$fp) return false;
+    stream_set_timeout($fp, 15);
+    $leer = function () use ($fp) {
+        $r = '';
+        while (($l = fgets($fp, 515)) !== false) {
+            $r .= $l;
+            if (strlen($l) < 4 || $l[3] === ' ') break;
+        }
+        return $r;
+    };
+    $cmd = function ($c, $ok) use ($fp, $leer) {
+        fwrite($fp, $c . "\r\n");
+        $r = $leer();
+        return strpos($r, (string)$ok) === 0;
+    };
+    $leer();
+    $res = $cmd('EHLO pintareformas.es', 250)
+        && $cmd('AUTH LOGIN', 334)
+        && $cmd(base64_encode($cfg['user']), 334)
+        && $cmd(base64_encode($cfg['pass']), 235)
+        && $cmd('MAIL FROM:<' . $cfg['user'] . '>', 250);
+    foreach ($destinos as $d) {
+        $res = $res && $cmd('RCPT TO:<' . $d . '>', 250);
+    }
+    $res = $res && $cmd('DATA', 354);
+    if ($res) {
+        $h  = 'From: PintaReformas Web <' . $cfg['user'] . ">\r\n";
+        $h .= 'To: ' . $destinos[0] . "\r\n";
+        if (count($destinos) > 1) $h .= 'Cc: ' . implode(', ', array_slice($destinos, 1)) . "\r\n";
+        if ($replyTo) $h .= 'Reply-To: ' . $replyTo . "\r\n";
+        $h .= 'Subject: =?UTF-8?B?' . base64_encode($asunto) . "?=\r\n";
+        $h .= "X-Enviado-Por: smtp\r\n";
+        $h .= 'Date: ' . date('r') . "\r\n";
+        $h .= 'Message-ID: <' . bin2hex(random_bytes(8)) . '@pintareformas.es>' . "\r\n";
+        $h .= "MIME-Version: 1.0\r\nContent-Type: text/plain; charset=utf-8\r\nContent-Transfer-Encoding: base64\r\n";
+        $msg = $h . "\r\n" . chunk_split(base64_encode($cuerpo));
+        fwrite($fp, $msg . "\r\n.\r\n");
+        $res = strpos($leer(), '250') === 0;
+    }
+    @fwrite($fp, "QUIT\r\n");
+    fclose($fp);
+    return $res;
+}
+
+$ok = false;
+$cfgFile = __DIR__ . '/../smtp-pintareformas.php';
+if (is_file($cfgFile)) {
+    $cfg = include $cfgFile;
+    $replyTo = $email ? "$nombre <$email>" : '';
+    $ok = smtp_enviar($cfg, [$destino, 'info@pintareformas.es'], $asunto, $cuerpo, $replyTo);
+}
+if (!$ok) {
+    $headers = "From: PintaReformas Web <info@pintareformas.es>\r\n";
+    $headers .= "Cc: info@pintareformas.es\r\n";
+    if ($email) {
+        $headers .= "Reply-To: $nombre <$email>\r\n";
+    }
+    $headers .= "X-Enviado-Por: mail\r\n";
+    $headers .= "Content-Type: text/plain; charset=utf-8\r\n";
+    $ok = mail($destino, $asunto, $cuerpo, $headers);
+}
 
 // Copia de seguridad de cada lead en un log fuera de public_html
 @file_put_contents(
