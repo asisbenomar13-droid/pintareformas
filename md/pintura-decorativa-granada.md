@@ -100,6 +100,12 @@ Desde 12€/m²
 
 Lo coloco yo, sin burbujas ni juntas visibles. También retiro el antiguo y dejo la pared lista. Un buen papel en la pared correcta cambia toda la percepción de una habitación.
 
+## Carta de colores del efecto damasco
+
+Trabajo con el Damasco de Osaka. La base es plata y se colorea con sus esencias. Colores de la carta: Neutro (plata), Esencia 504, 529, 1, 14, 571, 530, 583, 527, 539, 533, 5, 584, 8, 581, 532, 582 y 521. También hay un oro que viene ya preparado.
+
+En pantalla los colores son orientativos: el damasco tiene brillo y cambia mucho con la luz. Antes de empezar te traigo la muestra de verdad para que la veas en tu pared. La carta original está en la web de Osaka: https://osaka.es/index.php/coleccion/metalizados/damasco/
+
 Precios
 
 ## Tarifas orientativas 2026

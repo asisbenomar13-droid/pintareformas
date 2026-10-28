@@ -355,7 +355,7 @@ g.addEventListener("touchend",function(){setTimeout(resume,4000)},{passive:true}
         <div class="card-icon"><svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M8 9.5a5 5 0 0 1 4-3.2"/><path d="M15.5 14.5a4 4 0 0 1-3 1.7"/></svg></div>
         <h3>Efecto Damasco</h3>
         <div class="price">Desde 9€/m²</div>
-        <p>Pintura decorativa de acabado nacarado, con un brillo perlado que cambia según la luz. Queda muy bien en dormitorios y salones. Mira las fotos de arriba y dime qué te gusta.</p>
+        <p>Pintura decorativa de acabado nacarado, con un brillo perlado que cambia según la luz. Queda muy bien en dormitorios y salones. Mira las fotos de arriba y la <a href="#colores-damasco" style="color:var(--orange-dark);text-decoration:underline">carta de colores</a>, y dime qué te gusta.</p>
       </div>
       <div class="card">
         <div class="card-icon"><svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="3" width="16" height="18" rx="1.5"/><path d="M12 7c-2 1-2 3 0 4 2-1 2-3 0-4zM12 13c-2 1-2 3 0 4 2-1 2-3 0-4z"/></svg></div>
@@ -366,6 +366,47 @@ g.addEventListener("touchend",function(){setTimeout(resume,4000)},{passive:true}
     </div>
   </div>
 </section>
+
+<!-- CARTA DE COLORES DAMASCO -->
+<section id="colores-damasco">
+  <div class="container">
+    <div class="sec-header">
+      <span class="sec-tag">Colores</span>
+      <h2>Carta de colores del efecto damasco</h2>
+      <p>Trabajo con el Damasco de Osaka. La base es plata y se colorea con sus esencias, así que hay donde elegir. Estos son los colores de su carta.</p>
+    </div>
+    <ul class="carta">
+      <li><span class="muestra" style="--c1:#f7f1e8;--c2:#f3ece1;--c3:#eee6da"></span>Neutro (plata)</li>
+      <li><span class="muestra" style="--c1:#e7d6c7;--c2:#e1cfbc;--c3:#dcc9b4"></span>Esencia 504</li>
+      <li><span class="muestra" style="--c1:#e4cbac;--c2:#dec3a1;--c3:#d8bb94"></span>Esencia 529</li>
+      <li><span class="muestra" style="--c1:#e5c5a3;--c2:#e0bf9c;--c3:#d7b58e"></span>Esencia 1</li>
+      <li><span class="muestra" style="--c1:#e5b595;--c2:#e2b08e;--c3:#e0aa86"></span>Esencia 14</li>
+      <li><span class="muestra" style="--c1:#d2b8a8;--c2:#cbb09e;--c3:#c5a894"></span>Esencia 571</li>
+      <li><span class="muestra" style="--c1:#ebcea1;--c2:#e8c894;--c3:#e5c287"></span>Esencia 530</li>
+      <li><span class="muestra" style="--c1:#e3b19c;--c2:#dea88f;--c3:#d99e81"></span>Esencia 583</li>
+      <li><span class="muestra" style="--c1:#deb9a1;--c2:#d7af94;--c3:#d1a689"></span>Esencia 527</li>
+      <li><span class="muestra" style="--c1:#ccad90;--c2:#c4a486;--c3:#bb9978"></span>Esencia 539</li>
+      <li><span class="muestra" style="--c1:#c8b4aa;--c2:#c0aa9e;--c3:#b59e8e"></span>Esencia 533</li>
+      <li><span class="muestra" style="--c1:#c3b4ac;--c2:#bdaea4;--c3:#b6a59b"></span>Esencia 5</li>
+      <li><span class="muestra" style="--c1:#b48393;--c2:#ab7584;--c3:#a26876"></span>Esencia 584</li>
+      <li><span class="muestra" style="--c1:#e28396;--c2:#dd788b;--c3:#d86d7f"></span>Esencia 8</li>
+      <li><span class="muestra" style="--c1:#9b9dbe;--c2:#9092b4;--c3:#8185a8"></span>Esencia 581</li>
+      <li><span class="muestra" style="--c1:#42a5d0;--c2:#1699c7;--c3:#0090c0"></span>Esencia 532</li>
+      <li><span class="muestra" style="--c1:#94ba88;--c2:#82af78;--c3:#6ca265"></span>Esencia 582</li>
+      <li><span class="muestra" style="--c1:#aeb6c0;--c2:#97a0aa;--c3:#7f8891"></span>Esencia 521</li>
+    </ul>
+    <p class="carta-nota">En pantalla los colores son orientativos: el damasco tiene brillo y cambia mucho con la luz. Antes de empezar te traigo la muestra de verdad para que la veas en tu pared. También hay un oro que viene ya preparado. Si quieres ver la carta original, está en la <a href="https://osaka.es/index.php/coleccion/metalizados/damasco/" target="_blank" rel="noopener nofollow">web de Osaka</a>.</p>
+    <p style="text-align:center;margin-top:22px"><a href="https://wa.me/34633915898?text=Hola%20PintaReformas%2C%20me%20interesa%20el%20efecto%20damasco%20en%20este%20color%3A%20" class="btn btn-primary">Dime qué color te gusta</a></p>
+  </div>
+</section>
+<style>
+.carta{list-style:none;display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));gap:18px;max-width:960px;margin:0 auto}
+.carta li{font-size:.9rem;font-weight:600;color:var(--navy);text-align:center}
+.muestra{display:block;aspect-ratio:3/2;border-radius:10px;margin-bottom:8px;box-shadow:var(--shadow-md);background:linear-gradient(115deg,transparent 30%,rgba(255,255,255,.35) 45%,transparent 60%),linear-gradient(135deg,var(--c1),var(--c2) 50%,var(--c3))}
+.carta-nota{max-width:760px;margin:28px auto 0;text-align:center;font-size:.92rem;color:var(--gray-600);line-height:1.6}
+.carta-nota a{color:var(--orange-dark);text-decoration:underline}
+@media(max-width:640px){.carta{grid-template-columns:repeat(3,1fr);gap:12px}.carta li{font-size:.8rem}}
+</style>
 
 <!-- PRICE TABLE -->
 <section>
