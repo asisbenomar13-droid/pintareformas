@@ -19,7 +19,7 @@ Por escrito Precio cerrado
 
 En resumen
 
-Pintura y placas de yeso en Granada: pintura interior desde 4 €/m², fachadas desde 6 €/m², tabiques y falsos techos desde 25 €/m² y techos con LED desde 50 €/m². Soy Asis (PintaReformas), desde 2012. Presupuesto gratis y precio cerrado por escrito, con factura.
+Pintura y placas de yeso en Granada: pintura interior desde 4 €/m², fachadas desde 6 €/m², tabiques desde 25 €/m² y falsos techos desde 30 €/m² y techos con LED desde 50 €/m². Soy Asis (PintaReformas), desde 2012. Presupuesto gratis y precio cerrado por escrito, con factura.
 
 [633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
 

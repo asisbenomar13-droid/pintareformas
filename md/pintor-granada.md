@@ -9,7 +9,7 @@ Soy Asis y llevo desde 2012 pintando casas en Granada y su cinturón. Esta es mi
 
 En resumen
 
-Soy Asis (PintaReformas), pintor en Granada desde 2012. La pintura interior va desde 4 €/m², la de fachadas desde 6 €/m², la decorativa desde 9 €/m², los tabiques de placas de yeso desde 25 €/m² y los falsos techos con LED desde 50 €/m². Trabajo en Granada capital, su cinturón y la costa. Voy a ver la obra gratis y te dejo el precio cerrado por escrito, con factura.
+Soy Asis (PintaReformas), pintor en Granada desde 2012. La pintura interior va desde 4 €/m², la de fachadas desde 6 €/m², la decorativa desde 10 €/m², los tabiques de placas de yeso desde 25 €/m² y los falsos techos con LED desde 50 €/m². Trabajo en Granada capital, su cinturón y la costa. Voy a ver la obra gratis y te dejo el precio cerrado por escrito, con factura.
 
 [633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
 

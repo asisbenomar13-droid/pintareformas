@@ -16,7 +16,7 @@ Llevo desde 2012 aplicando estucos, efectos y acabados decorativos en Granada. S
 
 En resumen
 
-Pintura decorativa en Granada: efecto damasco desde 9 €/m², efectos decorativos desde 10 €/m², papel pintado desde 12 €/m², estuco veneciano desde 18 €/m² y microcemento desde 85 €/m². Soy Asis (PintaReformas), desde 2012: te enseño una muestra antes de empezar y te dejo el precio cerrado por escrito.
+Pintura decorativa en Granada: efecto damasco desde 10 €/m², efectos decorativos desde 10 €/m², papel pintado desde 12 €/m², estuco veneciano desde 18 €/m² y microcemento desde 85 €/m². Soy Asis (PintaReformas), desde 2012: te enseño una muestra antes de empezar y te dejo el precio cerrado por escrito.
 
 [633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
 
@@ -90,7 +90,7 @@ Rayas, geométricos, envejecidos... lo que imagines, lo hablamos. Con la pintura
 
 ### Efecto Damasco
 
-Desde 9€/m²
+Desde 10€/m²
 
 Pintura decorativa de acabado nacarado, con un brillo perlado que cambia según la luz. Queda muy bien en dormitorios y salones. Mira las fotos de arriba y dime qué te gusta.
 

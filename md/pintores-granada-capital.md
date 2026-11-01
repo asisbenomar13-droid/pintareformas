@@ -16,7 +16,7 @@ Soy Asis. Llevo desde 2012 pintando pisos, casas y locales por toda Granada capi
 
 En resumen
 
-Pinto pisos, casas y locales en todos los barrios de Granada capital: Zaidín, Albaicín, Realejo, Centro, la Chana y más. Pintura interior desde 4 €/m², quitar gotelé desde 12 €/m² y placas de yeso desde 25 €/m². Soy Asis (PintaReformas), desde 2012; voy a verlo gratis y te dejo el precio cerrado por escrito.
+Pinto pisos, casas y locales en todos los barrios de Granada capital: Zaidín, Albaicín, Realejo, Centro, la Chana y más. Pintura interior desde 4 €/m², quitar gotelé desde 10 €/m² y placas de yeso desde 25 €/m². Soy Asis (PintaReformas), desde 2012; voy a verlo gratis y te dejo el precio cerrado por escrito.
 
 [633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
 
@@ -88,7 +88,7 @@ Desde 4 €/m²
 
 Paredes lisas perfectas
 
-Desde 12 €/m²
+Desde 10 €/m²
 
 ### Placas de yeso
 

@@ -41,7 +41,7 @@ Voy a ver la obra y doy el presupuesto por escrito, normalmente el mismo día. L
 - Pintura interior: desde 4 €/m² de pared (básica) y de 7 a 9 €/m² (premium). Un piso de 60 m² sale entre 720 y 840 €; uno de 80 m², entre 960 y 1.120 €.
 - Pintura de fachadas: desde 6 €/m² (plástica), 10 €/m² (siloxano), 12 €/m² (monocapa).
 - Quitar gotelé y alisar: de 7 a 9 €/m²; con pintura incluida, de 10 a 14 €/m².
-- Pintura decorativa: efecto damasco desde 9 €/m², efectos desde 10 €/m², estuco veneciano desde 18 €/m².
+- Pintura decorativa: efecto damasco desde 10 €/m², efectos desde 10 €/m², estuco veneciano desde 18 €/m².
 - Papel pintado colocado: desde 12 €/m².
 - Microcemento: de 85 a 150 €/m² según dónde vaya; baño completo desde 1.400 €.
 - Tabique de placas de yeso: desde 25 €/m² (simple) y 35 €/m² (doble con aislamiento).
@@ -71,7 +71,7 @@ La visita y el presupuesto son gratis. El precio final se da cerrado y por escri
 ## Servicios
 
 - [Pintor en Granada](https://pintareformas.es/pintor-granada.html): pintura interior, tabiques y falsos techos, desde 4 €/m².
-- [Pintura y placas de yeso en Granada](https://pintareformas.es/pintura-y-placas-yeso-granada.html): tabiquería seca, trasdosados y falsos techos desde 25 €/m².
+- [Pintura y placas de yeso en Granada](https://pintareformas.es/pintura-y-placas-yeso-granada.html): tabiquería seca, trasdosados desde 25 €/m² y falsos techos desde 30 €/m².
 - [Falsos techos con LED](https://pintareformas.es/falsos-techos-led-granada.html): techo continuo con luz integrada, desde 50 €/m².
 - [Tabiques de placas de yeso](https://pintareformas.es/tabiques-placas-yeso-granada.html): tabique simple desde 25 €/m² y doble con aislamiento desde 35 €/m².
 - [Reforma de cocina en Granada](https://pintareformas.es/reformas-cocinas-granada.html): obra desde 3.000 €, cocina completa de 6.000 a 12.000 €, plazos.
@@ -138,5 +138,5 @@ Todas las páginas están también en Markdown: el mismo texto, sin menús ni c�
 - Base: Granada, España
 - Precio cerrado por escrito antes de empezar y factura en todos los trabajos. Si algo no queda como se habló, Asis vuelve a verlo
 - Idioma: español
-- Precio de entrada: pintura interior desde 4 €/m²; tabiques y falsos techos desde 25 €/m²; reformas desde 2.000 €
+- Precio de entrada: pintura interior desde 4 €/m²; tabiques desde 25 €/m² y falsos techos desde 30 €/m²; reformas desde 2.000 €
 - Presupuesto: por escrito, cerrado y gratuito, normalmente el mismo día de la visita
