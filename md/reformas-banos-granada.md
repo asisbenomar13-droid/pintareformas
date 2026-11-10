@@ -91,6 +91,8 @@ Si lo que te pasa es que sale moho en el techo cada invierno, antes de reformar 
 
 Aquí es donde la gente se lleva los sustos con otros. Te lo pongo en dos listas y así no hay dudas.
 
+Una cosa antes: la pintura, el falso techo de placas y los remates los hago yo. La fontanería, la electricidad y el alicatado los coordino con gremios de confianza que traigo cuando la obra lo pide. Hablas siempre conmigo y el precio cerrado lo pongo yo por escrito, con todo dentro.
+
 ### Sí está dentro
 - **Tirar todo lo viejo y llevarme el escombro.** Sacos, bajada y punto limpio incluidos. De un baño salen entre 800 kg y una tonelada.
 - **Proteger el resto de la casa.** Plástico en el pasillo, en el suelo y en las puertas. El polvo del picado se mete en todas partes si no se tapa.
