@@ -21,7 +21,7 @@ Una reforma integral en Granada cuesta entre 400 y 550 €/m² en calidad básic
 
 ## Qué es exactamente una reforma integral (y qué no lo es)
 
-Reforma integral quiere decir que el piso se queda en los ladrillos. Se tira todo: alicatados, suelos, sanitarios, cocina, puertas, techos, la instalación eléctrica entera y la fontanería entera. Y se vuelve a montar desde cero. Cuando terminamos, de la vivienda vieja sólo quedan las paredes maestras, las ventanas si las mantienes y poco más.
+Reforma integral quiere decir que el piso se queda en los ladrillos. Se tira todo: alicatados, suelos, sanitarios, cocina, puertas, techos, la instalación eléctrica entera y la fontanería entera. Y se vuelve a montar desde cero. Cuando termino, de la vivienda vieja sólo quedan las paredes maestras, las ventanas si las mantienes y poco más.
 
 Eso es distinto de una reforma parcial, que es cambiar el baño y la cocina y pintar. Mucha gente me pide "una integral" y cuando hablamos resulta que quiere una parcial. Y menos mal, porque la parcial cuesta la mitad y a veces resuelve lo mismo.
 
@@ -105,7 +105,7 @@ Para que puedas revisar cualquier presupuesto línea a línea, estos son mis pre
 | Trabajo | Precio por m² |
 |---|---|
 | Pintura interior básica | **desde 4 €/m²** |
-| Pintura interior premium | **7 – 9 €/m²** |
+| Pintura interior de más calidad | **7 – 9 €/m²** |
 | Pintura exterior y fachada | **desde 6 €/m²** |
 | Revestimientos | **desde 8 €/m²** |
 | Pintura decorativa | **desde 10 €/m²** |
@@ -173,7 +173,7 @@ La gente se impacienta a mitad de obra porque hay semanas en las que parece que 
 
 **El retraso que nadie te cuenta:** las obras no se paran por el albañil, se paran esperando material. Un porcelánico que hay que traer de fábrica son 4 o 5 semanas. Unos muebles de cocina a medida, entre 6 y 8. Si eliges las cosas la primera semana de obra en vez de la sexta, te ahorras un mes entero. Es el consejo más barato que te puedo dar.
 
-¿Tienes ya fecha de entrada y quieres saber si llegamos? Escríbeme y lo miramos.
+¿Tienes ya fecha de entrada y quieres saber si llego? Escríbeme y lo miramos.
 
 [Consultar plazos por WhatsApp](https://wa.me/34633915898?text=Hola%20Asis%2C%20quiero%20saber%20plazos%20para%20una%20reforma%20integral) [Llamar al 633 915 898](tel:+34633915898)
 
@@ -266,7 +266,7 @@ Te doy una horquilla fiable, no un precio cerrado. Mándame por WhatsApp los met
 
 El presupuesto detallado por partidas es gratis y te lo doy por escrito. Llevo desde 2012 en obra en Granada y en la costa de Málaga, con el precio cerrado por escrito antes de empezar.
 
-[WhatsApp — te contesto hoy](https://wa.me/34633915898?text=Hola%20Asis%2C%20quiero%20presupuesto%20para%20una%20reforma%20integral) [Llamar al 633 915 898](tel:+34633915898)
+[WhatsApp, te contesto hoy](https://wa.me/34633915898?text=Hola%20Asis%2C%20quiero%20presupuesto%20para%20una%20reforma%20integral) [Llamar al 633 915 898](tel:+34633915898)
 
 O rellena el [formulario de presupuesto](https://pintareformas.es/#contacto) y te escribo yo. También por correo: [info@pintareformas.es](mailto:info@pintareformas.es)
 
@@ -276,6 +276,6 @@ Artículo publicado en mayo de 2026 y actualizado en agosto de 2026 · PintaRefo
 
 ¿Y cuánto me costaría a mí?
 
-Calcula el precio de pintar o reformar tu casa en 2 minutos — sin compromiso y sin que nadie te llame.
+Calcula el precio de pintar o reformar tu casa en 2 minutos, sin compromiso y sin que nadie te llame.
 
 [Calcular precio gratis →](https://pintareformas.es/calculadora.html)

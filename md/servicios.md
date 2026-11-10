@@ -221,10 +221,10 @@ Respuesta en minutos
 
 ### [Quién soy](https://pintareformas.es/sobre-nosotros.html)
 
-Quién va a entrar en tu casa, cómo trabajo y por qué no subcontrato nada.
+Quién va a entrar en tu casa, cómo trabajo y por qué el que te da el precio es el que pinta.
 
 Desde 2012
 
-**¿Sigues sin verlo claro?** Cuéntame lo que necesitas y te digo si es cosa mía o no. Si no lo es, te lo digo también — prefiero eso a hacerte perder el tiempo.
+**¿Sigues sin verlo claro?** Cuéntame lo que necesitas y te digo si es cosa mía o no. Si no lo es, te lo digo también, prefiero eso a hacerte perder el tiempo.
 
 [Escríbeme por WhatsApp](https://wa.me/34633915898?text=Hola%2C%20quer%C3%ADa%20preguntarte%20por%20un%20trabajo) [Llamar al 633 915 898](tel:+34633915898)

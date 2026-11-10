@@ -55,20 +55,20 @@ Marbella tiene una particularidad: muchas viviendas son apartamentos de segunda 
 
 Eso no significa que sea más caro obligatoriamente, significa que hay que hacerlo bien desde el principio. Yo trabajo con pinturas de primera, protejo todo el mobiliario que haya, y no salgo de la obra hasta que el resultado esté limpio.
 
-Otra cosa que me pasa mucho en Marbella: propietarios que vienen solo en verano y quieren que el piso esté listo para cuando lleguen. En ese caso, podemos cuadrar fechas con tiempo y yo me encargo de todo sin que tengas que estar presente. Te mando fotos del avance y al terminar quedamos para que lo veas. Si es un apartamento que alquilas, tengo escrito [cómo pintarlo sin perder semanas de reservas](https://pintareformas.es/pintar-piso-alquiler-vacacional-costa.html).
+Otra cosa que me pasa mucho en Marbella: propietarios que vienen solo en verano y quieren que el piso esté listo para cuando lleguen. En ese caso, puedo cuadrar fechas con tiempo y yo me encargo de todo sin que tengas que estar presente. Te mando fotos del avance y al terminar quedamos para que lo veas. Si es un apartamento que alquilas, tengo escrito [cómo pintarlo sin perder semanas de reservas](https://pintareformas.es/pintar-piso-alquiler-vacacional-costa.html).
 
 Me muevo por toda la zona: Marbella ciudad, Nueva Andalucía, Puerto Banús, San Pedro de Alcántara, Elviria, Cabopino. Si tienes una villa en las colinas o un ático en primera línea, también llego.
 
 Y una cosa que digo siempre: si tu apartamento solo tiene marcas de golpes y roces en las zonas de paso, no hace falta repintarlo entero. Se repasan esas paredes y te ahorras la mitad del presupuesto. Prefiero cobrarte menos ahora y que me llames el año que viene.
 
-— Asis, pintor en Marbella y la Costa del Sol desde 2012
+: Asis, pintor en Marbella y la Costa del Sol desde 2012
 
 ## Cuándo sube el precio y cuándo se puede ajustar
 
 Te lo digo directamente porque me parece más útil que darte una lista de servicios sin contexto:
-- **Sube el precio:** cuando la pared tiene goteras antiguas que hay que sanear, cuando pides colores muy saturados que necesitan más manos, cuando hay techos muy altos o zonas de difícil acceso, o cuando el piso está amueblado y hay que desmontar y proteger mucho.
-- **Se puede ajustar:** si el trabajo es grande (un edificio entero, varias viviendas seguidas en la misma zona), si las paredes están en buen estado y solo hace falta renovar el color, o si podemos flexibilizar los plazos para cuadrar con mis otros trabajos en Marbella.
-- **Nunca rebajo la calidad:** lo que sí puedo hacer es elegir contigo el tipo de pintura que mejor encaja con tu presupuesto, desde plástica estándar hasta acabados mate premium que duran muchos más años sin mancharse.
+- **Sube el precio:** cuando la pared tiene goteras antiguas que hay que arreglar, cuando pides colores muy saturados que necesitan más manos, cuando hay techos muy altos o zonas de difícil acceso, o cuando el piso está amueblado y hay que desmontar y proteger mucho.
+- **Se puede ajustar:** si el trabajo es grande (un edificio entero, varias viviendas seguidas en la misma zona), si las paredes están en buen estado y solo hace falta renovar el color, o si puedo flexibilizar los plazos para cuadrar con mis otros trabajos en Marbella.
+- **Nunca rebajo la calidad:** lo que sí puedo hacer es elegir contigo el tipo de pintura que mejor encaja con tu presupuesto, desde plástica estándar hasta acabados mate de más calidad que duran muchos más años sin mancharse.
 
 Si tienes un presupuesto ajustado, dímelo sin problema. Prefiero encontrar una solución que perder el trabajo porque no hablamos claro desde el principio.
 
@@ -76,11 +76,11 @@ Si tienes un presupuesto ajustado, dímelo sin problema. Prefiero encontrar una 
 
 ### ¿Trabajáis solo en Marbella o también en otros municipios de la Costa del Sol?
 
-Trabajo en toda la Costa del Sol: Fuengirola, Benalmádena, Torremolinos, Estepona, Nerja... Si tienes dudas sobre si llego a tu zona, llámame y lo confirmamos. Normalmente no hay problema siempre que el trabajo lo justifique.
+Trabajo en toda la Costa del Sol: Fuengirola, Benalmádena, Torremolinos, Estepona, Nerja... Si tienes dudas sobre si llego a tu zona, llámame y lo confirmo. Normalmente no hay problema siempre que el trabajo lo justifique.
 
 ### ¿Puedo pediros presupuesto si no estoy en Marbella en este momento?
 
-Sí, sin problema. Muchos de mis clientes son propietarios que viven fuera. Con fotos del estado actual de las paredes puedo darte un presupuesto orientativo muy ajustado a la realidad. Luego confirmamos cuando me sea posible pasar a verlo en persona o directamente cuando vengas tú.
+Sí, sin problema. Muchos de mis clientes son propietarios que viven fuera. Con fotos del estado actual de las paredes puedo darte un presupuesto orientativo muy ajustado a la realidad. Luego confirmo cuando me sea posible pasar a verlo en persona o directamente cuando vengas tú.
 
 ### ¿Cuánto tarda en secarse la pintura para poder entrar a vivir?
 
@@ -88,4 +88,4 @@ La pintura plástica estándar al tacto seca en 2-4 horas, pero para que esté c
 
 ### ¿Qué diferencia hay entre pintura plástica y pintura para exteriores?
 
-La pintura de exterior está formulada para aguantar la lluvia, el sol y los cambios de temperatura sin descascararse. En la Costa del Sol el sol da fuerte todo el año y eso desgasta mucho. Si pintamos una fachada o una terraza, usamos siempre producto específico para exterior aunque el precio sea algo mayor, porque de lo contrario en dos años vuelve a estar mal.
+La pintura de exterior está formulada para aguantar la lluvia, el sol y los cambios de temperatura sin descascararse. En la Costa del Sol el sol da fuerte todo el año y eso desgasta mucho. Si pinto una fachada o una terraza, uso siempre producto específico para exterior aunque el precio sea algo mayor, porque de lo contrario en dos años vuelve a estar mal.

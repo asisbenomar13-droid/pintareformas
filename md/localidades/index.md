@@ -1,4 +1,4 @@
-# Zonas donde trabajo — Granada, Motril, Nerja y Marbella
+# Zonas donde trabajo: Granada, Motril, Nerja y Marbella
 
 > Las zonas donde trabajo: Granada capital y su cinturón, la costa de Granada y la costa de Málaga. Doce pueblos, y el desplazamiento no te lo cobro.
 
@@ -7,11 +7,11 @@ URL canónica: https://pintareformas.es/localidades/
 ---
 [Inicio](https://pintareformas.es/) › Zonas donde trabajo
 
-# Zonas donde trabajo — de Granada a la Costa del Sol
+# Zonas donde trabajo: de Granada a la Costa del Sol
 
 Soy Asis. Vivo en Granada y desde 2012 pinto y monto placas de yeso aquí y en la costa. Bajo a Motril, a Almuñécar, a Nerja y sigo hasta Marbella. En esta página tienes las doce zonas donde trabajo, agrupadas, y qué me suelen pedir en cada una. Pincha en la tuya y te cuento el detalle.
 
-Salón terminado en Granada — el mismo trabajo que hago en la costa
+Salón terminado en Granada, el mismo trabajo que hago en la costa
 
 Presupuesto gratis, precio cerrado por escrito antes de empezar y factura. Si la obra dura tres días o más, el desplazamiento no te lo cobro, estés donde estés de esta lista.
 
@@ -19,7 +19,7 @@ Presupuesto gratis, precio cerrado por escrito antes de empezar y factura. Si la
 
 ## Granada capital y el cinturón
 
-Es mi casa y donde tengo la mayoría de los trabajos. En la capital me muevo entre pisos de toda la vida, con gotelé de hace treinta años y varias manos de pintura encima; ahí el trabajo bueno está en la preparación, no en dar color. En el cinturón —Armilla, La Zubia, Maracena— la vivienda es mucho más nueva: pisos de obra reciente y adosados donde lo que más me piden es tabique y falso techo para partir un salón, cerrar un vestidor o esconder los conductos del aire.
+Es mi casa y donde tengo la mayoría de los trabajos. En la capital me muevo entre pisos de toda la vida, con gotelé de hace treinta años y varias manos de pintura encima; ahí el trabajo bueno está en la preparación, no en dar color. En el cinturón, Armilla, La Zubia, Maracena, la vivienda es mucho más nueva: pisos de obra reciente y adosados donde lo que más me piden es tabique y falso techo para partir un salón, cerrar un vestidor o esconder los conductos del aire.
 
 Aquí subo a verlo el mismo día o al siguiente, según cómo tenga la semana. Estoy a diez o quince minutos de casi todo.
 
@@ -33,7 +33,7 @@ Aquí subo a verlo el mismo día o al siguiente, según cómo tenga la semana. E
 
 [Dúrcal](https://pintareformas.es/durcal.html)Valle de Lecrín: baños, placas de yeso y pintura sin cobrar el desplazamiento
 
-## Costa de Granada — la Costa Tropical
+## Costa de Granada: la Costa Tropical
 
 Bajo por la autovía y en tres cuartos de hora estoy en Motril. Aquí cambia todo: pisos y apartamentos, muchos de segunda residencia que se abren dos meses al año, y bastante alquiler vacacional que se repinta entre temporadas. El enemigo es el mar. Salitre en las fachadas y terrazas, y humedad de condensación en las viviendas que pasan medio año cerradas sin ventilar: vuelves en junio y tienes manchas negras en las esquinas de los dormitorios.
 
@@ -43,11 +43,11 @@ Por eso en la costa no uso los mismos productos que en un interior de Granada, y
 
 [Almuñécar](https://pintareformas.es/almunecar.html)Apartamentos de alquiler y pinturas que aguantan el salitre
 
-**Salobreña**También trabajo aquí — llámame y lo vemos
+**Salobreña**También trabajo aquí, llámame y lo vemos
 
 Falso techo terminado en Motril
 
-## Costa de Málaga — Costa del Sol
+## Costa de Málaga: Costa del Sol
 
 De Nerja a Fuengirola. Casi todo lo que hago aquí son pisos y apartamentos, y muchos de alquiler vacacional: el dueño tiene un hueco entre reservas y necesita que entre, pinte y salga sin que pierda noches. Me organizo con tus fechas y te voy mandando fotos cada día, que la mayoría de propietarios no viven aquí.
 
@@ -71,7 +71,7 @@ Dormitorio con placas de yeso laminado en la costa de Málaga
 
 Es la pregunta que me hacen siempre: *"si tú vives en Granada, ¿no me sale más caro?"*. No. Cuando tengo obra en la costa me quedo allí varios días seguidos, no hago ida y vuelta cada mañana. **Si el trabajo dura tres días o más, no te cobro nada por el desplazamiento.** Ese es el precio que ves en el presupuesto y no hay una línea escondida debajo.
 
-Para trabajos muy pequeños —repasar una mano, pintar una habitación suelta a dos horas de aquí— te lo digo antes de ir y decidimos entre los dos si compensa. Prefiero decírtelo por teléfono que ponértelo en la factura al final.
+Para trabajos muy pequeños, repasar una mano, pintar una habitación suelta a dos horas de aquí, te lo digo antes de ir y decidimos entre los dos si compensa. Prefiero decírtelo por teléfono que ponértelo en la factura al final.
 
 Y si tienes dos o tres apartamentos que repintar, dímelo de una vez. Los organizo seguidos y sale mejor para los dos.
 
@@ -87,49 +87,49 @@ En la costa esto no es un adorno. Buena parte de los propietarios de Nerja, Fuen
 
 Cambia el sitio pero los trabajos se repiten. Estos cuatro son los que más salen, y de cada uno tengo escrito el detalle con precios:
 
-### 🎨 [Quitar gotelé y alisar paredes](https://pintareformas.es/quitar-gotele-alisar-paredes-granada.html)
+### [Quitar gotelé y alisar paredes](https://pintareformas.es/quitar-gotele-alisar-paredes-granada.html)
 
 El trabajo estrella en pisos antiguos, sobre todo en Granada capital. No es dar una mano por encima: hay que plastecer, lijar e imprimar. Ahí se ve quién tenía prisa.
 
-### 💡 [Falsos techos con LED](https://pintareformas.es/falsos-techos-led-granada.html)
+### [Falsos techos con LED](https://pintareformas.es/falsos-techos-led-granada.html)
 
 Falso techo liso desde 30 €/m², con LED instalado desde 50 €/m². Cambia un salón entero sin tocar una pared. En el cinturón de Granada y en la costa lo pido casi cada semana.
 
-### 🏢 [Pintura de fachadas y exteriores](https://pintareformas.es/pintura-exterior-fachadas-granada.html)
+### [Pintura de fachadas y exteriores](https://pintareformas.es/pintura-exterior-fachadas-granada.html)
 
 Desde 6 €/m². En la costa es donde más se nota la diferencia entre un producto bueno y uno barato: el salitre y el sol se comen la pintura mala en dos años.
 
-### 💶 [Precio de pintar un piso](https://pintareformas.es/precio-pintar-piso-granada.html)
+### [Precio de pintar un piso](https://pintareformas.es/precio-pintar-piso-granada.html)
 
-Pintura interior desde 4 €/m², premium 7–9 €/m². Ahí tienes las tablas por tamaño de vivienda para hacerte el número antes de llamarme.
+Pintura interior desde 4 €/m², la de más calidad 7–9 €/m². Ahí tienes las tablas por tamaño de vivienda para hacerte el número antes de llamarme.
 
-Si buscas otra cosa —tabiques desde 25 €/m², papel pintado a 12 €/m², estuco veneciano a 18 €/m², microcemento desde 85 €/m², reforma de baño desde 2.000 € o de cocina desde 3.000 €— entra en la página de tu zona o pregúntamelo directamente.
+Si buscas otra cosa, tabiques desde 25 €/m², papel pintado a 12 €/m², estuco veneciano a 18 €/m², microcemento desde 85 €/m², reforma de baño desde 2.000 € o de cocina desde 3.000 €, entra en la página de tu zona o pregúntamelo directamente.
 
 ## Cómo trabajo, vivas donde vivas
 
-### 📱 1. Me escribes
+### 1. Me escribes
 
 WhatsApp, llamada o email. Te contesto yo, no nadie en mi nombre. Si estoy en obra, te llamo en cuanto paro.
 
-### 🚗 2. Voy a verlo
+### 2. Voy a verlo
 
-Quedamos, lo miro, lo medimos y lo hablamos. Gratis y sin que te comprometas a nada. Si estás en la costa, te doy día y me organizo la bajada.
+Quedamos, lo miro, lo mido y lo hablamos. Gratis y sin que te comprometas a nada. Si estás en la costa, te doy día y me organizo la bajada.
 
-### 📄 3. Te paso el presupuesto por escrito
+### 3. Te paso el presupuesto por escrito
 
 Materiales, mano de obra y los días que voy a tardar. Sin letra pequeña. Si te encaja, seguimos; si no, sin malos rollos.
 
-### 🔨 4. Empezamos cuando tú digas
+### 4. Empiezo cuando tú digas
 
-Si aparece algo no previsto —una humedad, una tubería rara— te llamo antes de tocarlo. Nunca lo hago primero y te lo cuento después.
+Si aparece algo no previsto, una humedad, una tubería rara, te llamo antes de tocarlo. Nunca lo hago primero y te lo cuento después.
 
-### ✅ 5. Damos la vuelta juntos al acabar
+### 5. Damos la vuelta juntos al acabar
 
 Si hay algo que no te convence, lo arreglo antes de cobrar el final. Siempre.
 
-## 📱 Dime dónde está tu casa y te digo cuándo puedo ir
+## Dime dónde está tu casa y te digo cuándo puedo ir
 
-**WhatsApp / llamada:** [633 915 898](tel:+34633915898) — te respondo yo mismo
+**WhatsApp / llamada:** [633 915 898](tel:+34633915898): te respondo yo mismo
 
 **Email:** [info@pintareformas.es](mailto:info@pintareformas.es)
 
@@ -143,7 +143,7 @@ Si hay algo que no te convence, lo arreglo antes de cobrar el final. Siempre.
 
 Si la obra dura tres días o más, no. Me quedo allí esos días y el viaje va incluido en el precio que te doy por escrito. Para trabajos muy cortos te lo digo antes de ir y vemos si compensa, para no hacernos perder el tiempo ninguno de los dos.
 
-### Vivo fuera de España y el piso está en la costa, ¿cómo lo hacemos?
+### Vivo fuera de España y el piso está en la costa, ¿cómo lo hago?
 
 Es lo normal aquí. Lo hablamos por WhatsApp, me dejas llaves con quien tú digas y te mando fotos cada día de cómo va. El presupuesto va por escrito antes de empezar, así sabes qué se hace y qué cuesta sin estar tú delante.
 
@@ -161,7 +161,7 @@ Puede que sí. Estas doce zonas son donde más obra tengo, pero me muevo por la 
 
 ## Lo que dicen de mí en Google
 
-Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. — **Asis**
+Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. , **Asis**
 
 ★★★★★
 

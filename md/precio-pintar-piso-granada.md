@@ -9,11 +9,11 @@ Soy Asis. Pinto pisos en Granada desde 2012. En esta página te pongo lo que cob
 
 En resumen
 
-Pintar un piso en Granada cuesta desde 4 €/m² de pared en calidad básica y de 7 a 9 €/m² en premium. Un piso de 60 m² sale entre 720 y 840 € en básica, uno de 80 m² entre 960 y 1.120 €, y se pinta en 2 o 3 días. Soy Asis (PintaReformas): voy a medirlo gratis y te dejo el precio cerrado por escrito.
+Pintar un piso en Granada cuesta desde 4 €/m² de pared en calidad básica y de 7 a 9 €/m² en la de más calidad. Un piso de 60 m² sale entre 720 y 840 € en básica, uno de 80 m² entre 960 y 1.120 €, y se pinta en 2 o 3 días. Soy Asis (PintaReformas): voy a medirlo gratis y te dejo el precio cerrado por escrito.
 
 [633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
 
-**Lo importante, en dos líneas:** pintura interior básica desde **4 €/m²** y premium de **7 a 9 €/m²**, con material y mano de obra dentro. Un piso de 90 m² vacío sale entre **1.080 y 1.260 €** en básica, y me lleva 3 días.
+**Lo importante, en dos líneas:** pintura interior básica desde **4 €/m²** y la de más calidad de **7 a 9 €/m²**, con material y mano de obra dentro. Un piso de 90 m² vacío sale entre **1.080 y 1.260 €** en básica, y me lleva 3 días.
 
 ¿Quieres el número de tu piso ya? Mándame los metros por WhatsApp y te contesto hoy.
 
@@ -31,7 +31,7 @@ Si el piso está muy compartimentado (muchos pasillos, muchas habitaciones peque
 
 Estos son mis precios de 2026 para pintura interior de paredes y techos, en todo el piso. Incluye tapar, masilla, imprimación y dos manos. Piso vacío o con los muebles al centro.
 
-| Piso construido | Metros a pintar (3 – 3,5×) | Básica (desde 4 €/m²) | Premium (7 – 9 €/m²) | Días (vacío) |
+| Piso construido | Metros a pintar (3 – 3,5×) | Básica (desde 4 €/m²) | De más calidad (7 – 9 €/m²) | Días (vacío) |
 |---|---|---|---|---|
 | **60 m²** 2 habitaciones | 180 – 210 m² | **720 – 840 €** | 1.260 – 1.890 € | 2 días |
 | **70 m²** 2-3 habitaciones | 210 – 245 m² | **840 – 980 €** | 1.470 – 2.205 € | 2-3 días |
@@ -40,15 +40,15 @@ Estos son mis precios de 2026 para pintura interior de paredes y techos, en todo
 | **100 m²** 4 habitaciones | 300 – 350 m² | **1.200 – 1.400 €** | 2.100 – 3.150 € | 3-4 días |
 | **120 m²** piso grande o chalet | 360 – 420 m² | **1.440 – 1.680 €** | 2.520 – 3.780 € | 4-5 días |
 
-Los números salen de multiplicar los metros a pintar por 4 €/m² (básica) o por 7 a 9 €/m² (premium). Puedes comprobarlo tú: 90 m² × 3 = 270 m²; 270 × 4 = 1.080 € en básica, y 270 × 7 = 1.890 € en premium. Así de simple. Si te dan un precio y no te explican de dónde sale, desconfía.
+Los números salen de multiplicar los metros a pintar por 4 €/m² (básica) o por 7 a 9 €/m² (la de más calidad). Puedes comprobarlo tú: 90 m² × 3 = 270 m²; 270 × 4 = 1.080 € en básica, y 270 × 7 = 1.890 € en la de más calidad. Así de simple. Si te dan un precio y no te explican de dónde sale, desconfía.
 
-La diferencia entre básica y premium no es el color, es la pintura. La premium cubre mejor, aguanta más lavados y no se marca cuando rozas la pared con una silla. En un pasillo con niños merece la pena. En un trastero, no.
+La diferencia entre básica y la de más calidad no es el color, es la pintura. La de más calidad cubre mejor, aguanta más lavados y no se marca cuando rozas la pared con una silla. En un pasillo con niños merece la pena. En un trastero, no.
 
 ### Y si sólo quieres pintar una parte
 
 Mucha gente no pinta el piso entero. Estos son los trabajos sueltos que más me piden:
-- **Sólo el salón** (unos 60-70 m² de pared y techo): 240 – 280 € en básica, 420 – 630 € en premium
-- **Una habitación** (unos 40 m²): 160 € en básica, 280 – 360 € en premium
+- **Sólo el salón** (unos 60-70 m² de pared y techo): 240 – 280 € en básica, 420 – 630 € en la de más calidad
+- **Una habitación** (unos 40 m²): 160 € en básica, 280 – 360 € en la de más calidad
 - **Sólo los techos de todo el piso:** más o menos un tercio del precio de la tabla
 - **Pasillo y recibidor:** 150 – 280 €, según lo largo que sea
 
@@ -61,7 +61,7 @@ Si en vez de pintura normal quieres algo distinto, estos son mis precios por met
 | Acabado | Precio por m² | Dónde tiene sentido |
 |---|---|---|
 | Pintura interior básica | **desde 4 €/m²** | Todo el piso, habitaciones, techos |
-| Pintura interior premium | **7 – 9 €/m²** | Salón, pasillo, cocina, casas con niños |
+| Pintura interior de más calidad | **7 – 9 €/m²** | Salón, pasillo, cocina, casas con niños |
 | Pintura decorativa | **desde 10 €/m²** | Una pared del salón, cabecero, recibidor |
 | Papel pintado (colocado) | **desde 12 €/m²** | Dormitorios, paredes con dibujo |
 | Acabados falsos e imitaciones | **desde 15 €/m²** | Imitación piedra, madera, óxido |
@@ -106,7 +106,7 @@ Pintar encima del gotelé cuesta lo mismo que una pared lisa, eso no sube. Lo qu
 
 ### Humedades
 
-Si hay manchas, moho o la pintura se abomba, no se puede pintar y ya está. Vuelve en tres meses. Hay que secar, sanear, tratar y a veces buscar la fuga. Eso son entre 200 y 600 € más según lo tocado que esté, y a veces hay que picar. Lo miro yo antes de darte precio.
+Si hay manchas, moho o la pintura se abomba, no se puede pintar y ya está. Vuelve en tres meses. Hay que secar, arreglar, tratar y a veces buscar la fuga. Eso son entre 200 y 600 € más según lo tocado que esté, y a veces hay que picar. Lo miro yo antes de darte precio.
 
 ### De color oscuro a claro
 
@@ -122,7 +122,7 @@ Con muebles dentro voy habitación por habitación: mover, tapar, pintar, destap
 
 ### Paredes muy castigadas
 
-Cinco o seis capas de pintura vieja que se levantan, yeso suelto, grietas anchas de asentamiento. Eso hay que sanear antes o se ve todo a los seis meses. Según el estado, entre un 20 y un 40 % más. Es lo que hay, y prefiero decírtelo antes que después.
+Cinco o seis capas de pintura vieja que se levantan, yeso suelto, grietas anchas de asentamiento. Eso hay que arreglar antes o se ve todo a los seis meses. Según el estado, entre un 20 y un 40 % más. Es lo que hay, y prefiero decírtelo antes que después.
 
 ## Piso vacío o piso habitado: qué cambia
 
@@ -142,7 +142,7 @@ Sobre si puedes seguir viviendo dentro: sí, se puede. Trabajo por habitaciones 
 ### Cuatro formas de que te salga más barato
 - **Vacía tú lo que puedas.** Cuadros, cortinas, lámparas, lo de encima de los muebles. Cada hora que no pierdo moviendo cosas es una hora que no te cobro.
 - **Pinta todo de una vez.** Montar, tapar y desmontar se paga una sola vez. Pintar el piso entero sale bastante más barato por metro que ir habitación a habitación.
-- **Premium donde se usa, básica donde no.** Salón, pasillo y cocina en premium; habitaciones y trastero en básica. Se nota en el resultado y no en la factura.
+- **La buena donde se nota, la básica donde no.** Salón, pasillo y cocina con la de más calidad; habitaciones y trastero en básica. Se nota en el resultado y no en la factura.
 - **No esperes a que la pared esté hecha polvo.** Pintar cada 8 o 10 años es barato. Dejar que se caiga el yeso significa pagar el saneado antes de pintar.
 
 ## Cómo pedirme presupuesto sin que vaya a tu casa
@@ -168,11 +168,11 @@ A veces la gente me escribe por la pintura y acabamos hablando de otra cosa. Si 
 
 ¿Cuánto cuesta pintar un piso de 90 m² en Granada?
 
-En un piso de 90 m² hay unos 270 a 315 m² de pared y techo que pintar. Con pintura interior básica desde 4 €/m² sale entre 1.080 y 1.260 €. Con pintura premium, de 7 a 9 €/m², entre 1.890 y 2.835 €. Ese precio incluye tapar, masilla, imprimación, dos manos y limpieza al terminar.
+En un piso de 90 m² hay unos 270 a 315 m² de pared y techo que pintar. Con pintura interior básica desde 4 €/m² sale entre 1.080 y 1.260 €. Con pintura de más calidad, de 7 a 9 €/m², entre 1.890 y 2.835 €. Ese precio incluye tapar, masilla, imprimación, dos manos y limpieza al terminar.
 
 ¿Cuánto cuesta el metro cuadrado de pintura interior en Granada?
 
-Pintura interior básica desde 4 €/m² y premium de 7 a 9 €/m², con mano de obra y material incluidos. Ese metro es de superficie pintada, no de piso. Pintura decorativa desde 10 €/m², estuco veneciano desde 18 €/m² y microcemento desde 85 €/m².
+Pintura interior básica desde 4 €/m² y la de más calidad de 7 a 9 €/m², con mano de obra y material incluidos. Ese metro es de superficie pintada, no de piso. Pintura decorativa desde 10 €/m², estuco veneciano desde 18 €/m² y microcemento desde 85 €/m².
 
 ¿Qué incluye el precio y qué no incluye?
 
@@ -198,7 +198,7 @@ Sí. Mándame por WhatsApp los metros del piso, cuántas habitaciones tiene, si 
 
 Sin visita obligatoria y sin que nadie te dé la lata luego. Me mandas los datos del piso, te contesto con el número cerrado y tú decides. Llevo pintando en Granada desde 2012.
 
-[WhatsApp — te contesto hoy](https://wa.me/34633915898?text=Hola%20Asis%2C%20quiero%20precio%20para%20pintar%20mi%20piso%20en%20Granada) [Llamar al 633 915 898](tel:+34633915898)
+[WhatsApp, te contesto hoy](https://wa.me/34633915898?text=Hola%20Asis%2C%20quiero%20precio%20para%20pintar%20mi%20piso%20en%20Granada) [Llamar al 633 915 898](tel:+34633915898)
 
 O rellena el [formulario de presupuesto](https://pintareformas.es/#contacto) y te escribo yo. También por correo: [info@pintareformas.es](mailto:info@pintareformas.es)
 
@@ -208,6 +208,6 @@ Artículo publicado en mayo de 2026 · PintaReformas · Granada
 
 ¿Y cuánto me costaría a mí?
 
-Calcula el precio de pintar o reformar tu casa en 2 minutos — sin compromiso y sin que nadie te llame.
+Calcula el precio de pintar o reformar tu casa en 2 minutos, sin compromiso y sin que nadie te llame.
 
 [Calcular precio gratis →](https://pintareformas.es/calculadora.html)

@@ -5,11 +5,11 @@
 URL canónica: https://pintareformas.es/placas-yeso-cocinas.html
 
 ---
-[Inicio](https://pintareformas.es/) › Blog › Placas de yeso en cocinas
+[Inicio](https://pintareformas.es/) › [Servicios](https://pintareformas.es/servicios.html) › Placas de yeso en cocinas
 
-# Placas de yeso en cocinas: guía de presupuestos, materiales y ventajas 2026
+# Placas de yeso en la cocina: tapar tubos, nivelar paredes y bajar el techo
 
-📅 Publicado: Mayo 2026 | ⏱️ Lectura: 12 minutos | 👤 Por: pintareformas.es
+Por: Asis La Gnatha · Actualizado en noviembre de 2026
 
 En resumen
 
@@ -17,177 +17,107 @@ Con placas de yeso en la cocina se tapan tubos y bajantes, se hacen hornacinas y
 
 [633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
 
-**📌 En corto:** Un tabique de placas de yeso en la cocina te sale desde 25 €/m² y un falso techo desde 30 €/m². Es lo más rápido y limpio para reformar, y aísla del ruido y del frío mejor que la obra de toda la vida.
+En una cocina la placa de yeso casi nunca se ve. Queda detrás de los muebles, encima de la campana o tapando un tubo que antes estaba a la vista. Aun así es lo que hace que la cocina quede recta y limpia cuando entran los muebles. Te cuento para qué la uso, cuánto cuesta y qué hay que decidir antes de cerrar nada.
 
-## ¿Por qué poner placas de yeso en la cocina?
+## Para qué uso la placa en una cocina
 
-La cocina es donde más tiempo se pasa en casa: se cocina, se come, se junta la familia. Por eso, cuando se hace bien, una reforma de cocina se nota cada día.
+### Tapar tubos y bajantes
 
-La placa de yeso laminado se ha vuelto lo más habitual en las **reformas de cocinas** porque es rápida, limpia y da mucho juego, cosas que con la obra de toda la vida no consigues igual.
+Es lo que más me piden. La bajante de la esquina, el tubo del gas o las tuberías que cruzan la pared se cierran con un cajón de placa a medida. Si dentro queda una llave de paso o un codo, dejo una trampilla de registro para poder llegar sin romper. Un cajón sin registro es un problema el día que hay una fuga.
 
-### Ventajas principales de las placas de yeso en cocinas:
-- **⚡ Velocidad:** Una cocina completa en 5-7 días vs. 15-20 con albañilería
-- **🧹 Limpieza:** Mínimo polvo y escombros (reforma "limpia")
-- **🔧 Flexibilidad:** Fácil de adaptar y modificar después
-- **💰 Económico:** 30-40% más barato que obra tradicional
-- **🔊 Aislamiento:** Mejor acústica (ideal si cocina está abierta al salón)
-- **🌡️ Térmico:** Mejor aislamiento de temperaturas
-- **🎨 Acabados premium:** Superficies perfectas sin necesidad de masillas
+### Bajar el techo para la campana y los focos
 
-## Presupuesto Real: Tabla de Costos 2026
+El tubo de la campana tiene que llegar hasta la salida de humos, y lo normal es que cruce media cocina. Con un falso techo queda escondido, y de paso se empotran los focos encima de la encimera, que es donde hace falta la luz. Si lo quieres con tira LED, lo explico entero en [falsos techos con LED](https://pintareformas.es/falsos-techos-led-granada.html).
 
-Basándonos en proyectos completados en Granada y Costa de Málaga, aquí están los presupuestos reales para diferentes tipos de trabajos en cocinas:
+### Nivelar la pared antes de los muebles
 
-| Tipo de Trabajo | Área (m²) | Precio/m² | Presupuesto Total | Tiempo |
-|---|---|---|---|---|
-| Tabiques simples | 10-20 | 25-35€ | 250-700€ | 2-3 días |
-| Falso techo simple | 10-15 | 30-45€ | 300-675€ | 1-2 días |
-| Falso techo con LED | 10-15 | 50-70€ | 500-1,050€ | 2-3 días |
-| Revestimiento paredes | 15-25 | 35-50€ | 525-1,250€ | 2-3 días |
-| Reforma cocina completa* | 12-20 | 250-400€ | 3,000-8,000€ | 5-7 días |
+En pisos antiguos las paredes de la cocina rara vez están a plomo. Los muebles y la encimera son rectos, y si la pared no lo es queda un hueco detrás que no hay copete que lo tape. Forrando la pared con placa (un trasdosado) queda recta. Se pierden entre 3 y 6 cm de fondo, según cómo esté la pared.
 
-**Reforma completa incluye: nuevos tabiques, falso techo con iluminación, revestimientos, pintura y mano de obra.*
+### Hornacinas
 
-## Tipos de placa recomendados para cocinas
+Un hueco en la pared para las especias, el microondas o una balda con luz. Se hace dentro del mismo trasdosado y no hay que picar.
 
-No todas las placas son iguales. En cocinas, donde hay humedad y calor, es importante elegir bien el material:
+### Cerrar la cocina o separarla del salón
 
-### 1. Placa estándar (GN)
+Un tabique entero, uno a media altura para la barra o un murete que tape la zona de fuegos. Se levanta en un par de días y sin escombro. Lo que no toco son los muros de carga: si para abrir la cocina hay que tirar un muro, antes lo tiene que mirar un técnico.
 
-El más económico (20-25€/placa). Ideal para espacios secos. **No recomendado directamente cerca de la fuente de calor o vapor del horno.**
+## Cuánto cuesta
 
-### 2. Placa hidrófuga (GH) - LA QUE RECOMIENDO ⭐⭐⭐
+Son los mismos precios que cobro en el resto de la casa. En la cocina la placa va hidrófuga y no te cobro un extra por eso.
 
-Especialmente formulado para ambientes húmedos. Cuesta 35-45€/placa pero es **imprescindible en cocinas modernas**. Resiste hasta 85% de humedad sin problemas. La mayoría de cocinas necesitan este tipo.
+| Trabajo | Precio | Días | Qué entra |
+|---|---|---|---|
+| Tabique simple, trasdosado o cajeado de tubos | desde 25 €/m² | 2-3 días | Perfiles, placa, juntas y lijado, listo para pintar o alicatar |
+| Tabique doble con aislamiento | desde 35 €/m² | 2-3 días | Doble placa y lana dentro, para separar la cocina de un dormitorio |
+| Falso techo | desde 30 €/m² | 1-2 días | Estructura, placa, juntas y un registro |
+| Falso techo con LED | desde 50 €/m² | 2-3 días | Lo anterior con la tira o los focos puestos y funcionando |
 
-### 3. Placa ignífuga (GI)
+Para que te hagas una idea: el techo de una cocina de 10 m² sale desde 300 € (10 × 30). Un cajón pequeño para una bajante no lo mido por metros, porque lleva el mismo viaje y casi el mismo trabajo que uno grande. Mándame una foto y te doy el precio cerrado.
 
-Resistente al fuego. Recomendado si la cocina está muy cerca del dormitorio principal. Costo: 40-50€/placa.
+Si lo que quieres es la cocina entera, con alicatado, fontanería y electricidad, eso es otra obra y la tienes en [reforma de cocina en Granada](https://pintareformas.es/reformas-cocinas-granada.html), desde 3.000 €.
 
-### 4. Placa acústica (especial)
+## Qué placa pongo
 
-Si tu cocina está integrada en el salón y hay mucho ruido, este tipo reduce el ruido entre espacios. Más caro pero muy efectivo.
+En la cocina pongo la verde, la hidrófuga. Está tratada para no chupar humedad y aguanta el vapor de las ollas sin abombarse. La placa normal, la blanca, se queda para el salón y los dormitorios.
 
-**💡 Consejo profesional:** Para 95% de cocinas en Granada/Málaga, uso la **placa hidrófuga (GH)**. Es el mejor equilibrio entre precio y durabilidad.
+Detrás de los fuegos y del fregadero la placa no se queda vista: encima va azulejo, cristal o el mismo material de la encimera. En el resto de la pared basta con una buena pintura lavable, y si la cocina tiene poca ventilación, una antimoho. Lo explico en [pintura para baños y cocinas](https://pintareformas.es/pintura-humedad-banos.html).
 
-## Paso a paso: cómo monto las placas en la cocina
+## Lo que hay que decidir antes de cerrar
 
-### Día 1: Preparación y Estructura
-- Desalojo de muebles y protección de electrodomésticos
-- Colocación de perfiles metálicos (UW y CW)
-- Instalación de aislamiento térmico si es necesario
-- Pasaje de tuberías eléctricas para LED o enchufes
+Abrir una placa ya cerrada y pintada cuesta dinero y deja parche. Por eso, antes de atornillar la última, te pregunto cuatro cosas:
+- **Dónde van los muebles altos.** Un mueble lleno de platos pesa. Si sé dónde va, dejo un refuerzo dentro del tabique. Si se decide después, se cuelga con tacos para placa, que aguantan menos.
+- **Dónde van los enchufes y los puntos de luz.** Los cables se pasan con la pared abierta. Con la pared cerrada es hacer la obra dos veces.
+- **Por dónde sale la campana.** Según el recorrido del tubo, el techo baja más o menos.
+- **Dónde quedan las llaves de paso.** Ahí va un registro, y busco que caiga dentro de un mueble o en un rincón donde no se vea.
 
-### Días 2-3: Colocación de Placas
-- Fijación de las placas con tornillos
-- Tratamiento de juntas (masilla)
-- Instalación de iluminación LED (si aplica)
+**Si viene el montador de cocinas:** pídele el plano de los muebles antes de que yo empiece. Con las medidas dejo el refuerzo donde toca y la pared recta donde apoya la encimera.
 
-### Días 4-5: Acabados
-- Imprimación de todas las superficies
-- Pintura profesional 2 capas (elegir color/acabado)
-- Lijado final de imperfecciones
-- Limpieza y retirada de escombros
+## Dos cocinas con el techo de placa
 
-### Días 6-7: Detalles Finales
-- Instalación de molduras o perfiles de acabado
-- Caulking en esquinas (si es necesario)
-- Recolocación de muebles y electrodomésticos
-- Inspección final de calidad
+Cocina en Marbella. Al fondo del techo se ve la trampilla de registro, y los cables ya están pasados para las lámparas.
 
-## Comparación: placas de yeso vs. albañilería tradicional
+Otra en Marbella, antes de colgar las luces. Los muebles llegan hasta el techo y la línea queda recta.
 
-| Aspecto | Placas de yeso | Albañilería |
-|---|---|---|
-| **Tiempo total** | 5-7 días | 15-20 días |
-| **Costo/m²** | 25-45€ | 50-80€ |
-| **Limpieza** | Mínima | Mucho polvo |
-| **Modificaciones posteriores** | Muy fácil | Muy difícil |
-| **Aislamiento térmico** | Excelente | Limitado |
-| **Durabilidad** | 30+ años | 30+ años |
-| **Flexibilidad diseño** | Muy alta | Limitada |
+## Preguntas que me hacen
 
-## Errores Comunes a Evitar
-- **❌ Usar placa estándar (GN)** directamente sobre fuentes de vapor sin protección
-- **❌ No pintar con pintura de cocina** resistente a humedad
-- **❌ Instalar falsos techos muy bajos** (necesitas mínimo 2.20m de altura final)
-- **❌ No planificar iluminación LED** antes de cerrar el falso techo
-- **❌ Escatimar en mano de obra** - acabados de calidad requieren profesionales experimentados
+### ¿Se puede alicatar encima de la placa?
 
-## Mantenimiento y cuidados
+Sí, sobre placa hidrófuga se alicata sin problema. Solo hay que decirlo antes, porque si va a llevar azulejo pesado pongo los perfiles más juntos.
 
-La placa de yeso es muy duradera, pero pide sus cuidados:
-- 🔒 **Precio cerrado:** por escrito antes de empezar, tabiquería, falso techo y pintura
-- 🧹 **Limpieza:** Con paño húmedo suavemente (no rascar)
-- 💧 **Humedad:** Mantener ventilación adecuada para evitar condensación
-- 🎨 **Repintado:** Cada 3-5 años si es necesario (cocinas con vapor requieren más frecuencia)
+### ¿Aguanta los muebles altos?
 
-## Preguntas frecuentes sobre placas de yeso en cocinas
+Con refuerzo dentro, sí. Por eso pregunto antes dónde van. Sin refuerzo se cuelgan con tacos especiales para placa, pero para un mueble cargado prefiero dejarlo previsto.
 
-### ¿Se pueden poner placas alrededor del horno?
+### ¿Cuánto techo pierdo?
 
-Sí, pero tiene que ser placa ignífuga (GI) a una distancia mínima de 5-10cm del horno. Nunca placa estándar.
+Lo que ocupe el tubo de la campana más la estructura, entre 15 y 20 cm. Si el techo es solo para empotrar focos, con unos 10 cm vale. En un piso de techo bajo se puede bajar solo la franja por donde pasa el tubo y dejar el resto a su altura.
 
-### ¿Hay que proteger la placa con azulejos?
+### ¿Y si un día hay una fuga detrás?
 
-No siempre. Placa hidrófuga + pintura de cocina es suficiente para la mayoría de áreas. Solo necesitas azulejos o cristal en salpicaderos directos (área detrás de fogones).
+Para eso está el registro. Se abre la trampilla, se arregla y se cierra. Si la fuga está lejos del registro, se corta un trozo de placa y se repone: es una mañana de trabajo, mucho menos que picar un tabique de ladrillo.
 
-### ¿Puedo pintar directamente sin papel pintado?
+### ¿Se llena la casa de polvo?
 
-Sí. De hecho, es lo recomendado en cocinas. Pintura de cocina antihumedad es más duradero que papel pintado.
+Escombro no hay. Polvo sí, el del lijado de las juntas, que es fino. Tapo los muebles, cierro la puerta de la cocina con plástico y al terminar lo recojo todo.
 
-### ¿Cuánto pesa la placa? ¿Aguanta estantes pesados?
+## Pídeme precio para tu cocina
 
-Es ligero pero puede aguantar estantes con tacos especiales. Para cargas pesadas (>20kg), consulta con profesional para refuerzo interno.
+Mándame por WhatsApp una foto de la cocina y dime qué quieres tapar o cambiar. Te contesto yo, normalmente el mismo día. La visita y el presupuesto son gratis, y el precio te lo doy cerrado por escrito.
 
-## Casos Reales: Reformas que Hemos Hecho
+[Escribirme por WhatsApp](https://wa.me/34633915898?text=Hola%2C%20quiero%20presupuesto%20de%20placas%20de%20yeso%20para%20mi%20cocina)
 
-### Caso 1: Cocina Abierta al Salón (Granada) - 18m²
+Teléfono: [633 915 898](tel:+34633915898)
+Correo: **info@pintareformas.es**
+Lunes a viernes de 8:00 a 19:00 y sábados de 9:00 a 14:00
 
-**Presupuesto:** 4,200€ | **Tiempo:** 6 días
-
-El cliente quería separar la cocina del salón con un tabique de placas de yeso y un falso techo con LED. Usamos placa hidrófuga y pintura blanca mate. Resultado: cocina moderna, luminosa, con mejor control de olores.
-
-### Caso 2: Cocina Pequeña con Humedad (Málaga) - 8m²
-
-**Presupuesto:** 2,100€ | **Tiempo:** 4 días
-
-Cocina con problemas de humedad en paredes. Montamos placa hidrófuga sobre aislante térmico y pintura antimoho. Problema resuelto completamente.
-
-**🎯 Son dos obras reales que hemos hecho en Granada y Málaga, con sus precios y sus plazos. ¿Quieres saber lo que costaría la tuya?**
-
-## Conclusión: ¿son las placas de yeso lo mejor para tu cocina?
-
-Si buscas:
-- ✅ Reforma rápida (5-7 días)
-- ✅ Presupuesto controlado (250-450€/m²)
-- ✅ Mínimo polvo y molestias
-- ✅ Flexibilidad para cambios posteriores
-- ✅ Acabados profesionales y modernos
-
-**Entonces sí, las placas de yeso son lo tuyo.**
-
-En [pintareformas.es](https://pintareformas.es/) llevo desde 2012 especializado en [montaje de placas de yeso en Granada y Málaga](https://pintareformas.es/pintura-y-placas-yeso-granada.html). Hemos completado más de 500 proyectos, incluyendo cocinas de todos los tamaños y estilos.
-
-## ¿Listo para Reformar tu Cocina?
-
-Solicita tu presupuesto personalizado HOY. Te contesto yo, el mismo día, y el presupuesto va sin compromiso.
-
-[📞 Solicitar Presupuesto Gratis](https://pintareformas.es/#contacto)
-
-**📱 O contáctanos directamente:**
-Teléfono: **633 915 898**
-Email: **info@pintareformas.es**
-WhatsApp: Disponible 24/7
-
-**Artículos relacionados:**
-• [Pintura a Prueba de Humedad: Baños y Cocinas](https://pintareformas.es/pintura-humedad-banos.html)
-• [Falsos Techos con LED: Tendencias 2026](https://pintareformas.es/falsos-techos-led-granada.html)
+**También te puede servir:**
+• [Reforma de cocina en Granada: precio y plazos](https://pintareformas.es/reformas-cocinas-granada.html)
 • [Tabiques de placas de yeso: precio por m²](https://pintareformas.es/tabiques-placas-yeso-granada.html)
-• [Costo Reforma Integral: Presupuesto Realista Pintura + Placas de Yeso](https://pintareformas.es/costo-reforma-integral.html)
+• [Falsos techos con LED](https://pintareformas.es/falsos-techos-led-granada.html)
+• [Pintura para baños y cocinas con humedad](https://pintareformas.es/pintura-humedad-banos.html)
 
 ¿Y cuánto me costaría a mí?
 
-Calcula el precio de pintar o reformar tu casa en 2 minutos — sin compromiso y sin que nadie te llame.
+Calcula el precio de pintar o reformar tu casa en 2 minutos, sin compromiso y sin que nadie te llame.
 
 [Calcular precio gratis →](https://pintareformas.es/calculadora.html)

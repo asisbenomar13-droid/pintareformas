@@ -7,7 +7,7 @@ URL canónica: https://pintareformas.es/pintura-locales-oficinas-granada.html
 ---
 Locales · Oficinas · Comunidades
 
-# Pintura de Locales y Oficinas
+# Pintura de locales y oficinas
 sin cerrar tu negocio
 
 Soy Asis. Sé lo que es vivir de un negocio, porque yo también tengo el mío. Por eso cuando pinto un local o una oficina en Granada trabajo por las tardes, de madrugada o el fin de semana: tú abres por la mañana como si nada, pero con el local nuevo.
@@ -22,7 +22,7 @@ Pinto locales y oficinas en Granada por las tardes y los fines de semana, para q
 
 Pintar un local no es como pintar una casa. Aquí cada día cerrado es dinero que pierdes, así que el trabajo hay que organizarlo al revés: primero tu horario, después el mío. Uso pinturas sin olor y de secado rápido, protejo el género y el mobiliario, y dejo el local ventilado y limpio antes de que llegue tu primer cliente. Llevo desde 2012 haciéndolo en tiendas, bares, peluquerías, clínicas y oficinas de Granada.
 
-Y si lo que necesitas es más que pintura — dividir una oficina en despachos, montar un falso techo con LED, arreglar una pared castigada — también lo hago con placas de yeso laminado: rápido, sin escombros y con aislamiento acústico para que en una sala de reuniones no se oiga la de al lado.
+Y si lo que necesitas es más que pintura, dividir una oficina en despachos, montar un falso techo con LED, arreglar una pared castigada, también lo hago con placas de yeso laminado: rápido, sin escombros y con aislamiento acústico para que en una sala de reuniones no se oiga la de al lado.
 
 Para quién trabajo
 
@@ -56,27 +56,15 @@ Cómo trabajo
 
 ## Cómo trabajo en tu negocio
 
-✔
-
 **Horario a tu medida:** tardes, madrugadas o fines de semana. Tu negocio no cierra.
-
-✔
 
 **Pinturas sin olor** y de secado rápido, pensadas para espacios que abren al público al día siguiente.
 
-✔
-
 **Precio cerrado y factura** con IVA desglosado. Presupuesto por partidas si lo necesitas para tu empresa o comunidad.
-
-✔
 
 **Protección total** del género, mobiliario y equipos antes de empezar. Limpieza completa al terminar.
 
-✔
-
 **Tabiquería si hace falta:** tabiques acústicos de placa de yeso, falsos techos con LED y reparaciones, sin escombros.
-
-✔
 
 **Precio cerrado por escrito** por escrito en el presupuesto. Si algo falla, vuelvo y lo arreglo.
 
@@ -98,7 +86,7 @@ Sí. Divido oficinas con tabiques de placa de yeso laminado con aislamiento acú
 
 ### ¿Trabajáis para comunidades de vecinos y administradores de fincas?
 
-Sí: portales, escaleras y zonas comunes. A los administradores les preparo presupuesto detallado por partidas, con factura y fechas cerradas — lo que necesitan para llevarlo a la junta. Tienes los precios en [pintar portal y escalera de comunidad](https://pintareformas.es/pintar-portal-escalera-comunidad-granada.html).
+Sí: portales, escaleras y zonas comunes. A los administradores les preparo presupuesto detallado por partidas, con factura y fechas cerradas, lo que necesitan para llevarlo a la junta. Tienes los precios en [pintar portal y escalera de comunidad](https://pintareformas.es/pintar-portal-escalera-comunidad-granada.html).
 
 ## ¿Renovamos tu local sin que cierres?
 
@@ -110,6 +98,6 @@ Escríbeme por WhatsApp o llámame, cuéntame qué negocio tienes y me paso a ve
 
 ¿Y cuánto me costaría a mí?
 
-Calcula el precio orientativo en 2 minutos — sin compromiso y sin que nadie te llame.
+Calcula el precio orientativo en 2 minutos, sin compromiso y sin que nadie te llame.
 
 [Calcular precio gratis →](https://pintareformas.es/calculadora.html)

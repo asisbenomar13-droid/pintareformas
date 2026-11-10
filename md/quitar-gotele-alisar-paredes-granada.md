@@ -5,9 +5,9 @@
 URL canónica: https://pintareformas.es/quitar-gotele-alisar-paredes-granada.html
 
 ---
-![Pared lisa recién pintada tras quitar el gotelé en una vivienda de Granada — trabajo de PintaReformas](img/pintura-interior-profesional-granada.jpg)
+![Pared lisa recién pintada tras quitar el gotelé en una vivienda de Granada: trabajo de PintaReformas](img/pintura-interior-profesional-granada.jpg)
 
-# Quitar Gotelé y Alisar Paredes en Granada
+# Quitar gotelé y alisar paredes en Granada
 
 Soy Asis y llevo desde 2012 dejando paredes lisas en Granada. El gotelé era lo normal en los pisos de los años 80 y 90, pero hoy queda anticuado y se ensucia con facilidad. Aquí te cuento, sin rodeos, cuánto cuesta quitarlo, cómo lo hago y qué resultado te queda.
 
@@ -17,15 +17,15 @@ Quitar el gotelé y alisar la pared en Granada cuesta de 7 a 9 €/m², o de 10 
 
 [633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
 
-**PintaReformas — Pintores en Granada desde 2012.** Te quito el gotelé, te dejo la pared lisa y te la pinto. Precio cerrado por m², trabajo limpio y factura. Presupuesto gratis en 24 horas.
+**PintaReformas: Pintores en Granada desde 2012.** Te quito el gotelé, te dejo la pared lisa y te la pinto. Precio cerrado por m², trabajo limpio y factura. Presupuesto gratis en 24 horas.
 
-## ¿Por Qué Quitar el Gotelé y Alisar la Pared?
+## ¿Por qué quitar el gotelé y alisar la pared?
 
 El gotelé es ese relieve rugoso que tienen las paredes de muchos pisos de Granada. En su día se puso porque tapaba imperfecciones y salía barato, pero tiene tres problemas: acumula polvo y telarañas en cada pico, es muy difícil de limpiar y, sobre todo, hace que la casa se vea antigua. Cuando alisas una pared, la casa cambia por completo: se ve más amplia, más luminosa y más moderna, y eso se nota también si algún día quieres vender o alquilar.
 
-Alisar es masillar la pared entera, dejarla plana con varias manos de pasta, lijarla fina y luego pintarla. No es magia, es trabajo y paciencia — pero el resultado es una pared como las de obra nueva.
+Alisar es masillar la pared entera, dejarla plana con varias manos de pasta, lijarla fina y luego pintarla. No es magia, es trabajo y paciencia, pero el resultado es una pared como las de obra nueva.
 
-## Precio de Quitar Gotelé y Alisar Paredes en Granada (por m²)
+## Precio de quitar gotelé y alisar paredes en Granada (por m²)
 
 Estos son los precios reales que aplico en Granada en 2026. Se calculan sobre los metros de pared y techo que hay que tratar, no sobre los metros del piso (una pared mide más superficie de lo que parece):
 
@@ -35,9 +35,9 @@ Estos son los precios reales que aplico en Granada en 2026. Se calculan sobre lo
 | Quitar gotelé + alisar + pintar | **10 – 14 €/m²** | Todo: masilla, lijado, imprimación y 2 manos de pintura |
 | Gotelé grueso o pared dañada | **13 – 16 €/m²** | Lo anterior + saneamiento previo de grietas o desconchones |
 
-** Si solo quieres una habitación, el precio por m² suele ser un poco más alto que si alisamos el piso entero, porque la preparación y el desplazamiento se reparten entre menos metros.*
+** Si solo quieres una habitación, el precio por m² suele ser un poco más alto que si aliso el piso entero, porque la preparación y el desplazamiento se reparten entre menos metros.*
 
-## Para que te Hagas Idea: Ejemplos Reales
+## Para que te hagas idea: ejemplos reales
 
 Como lo del precio por m² suena abstracto, te pongo casos concretos de Granada con el trabajo completo (quitar gotelé, alisar y pintar):
 
@@ -51,7 +51,7 @@ Como lo del precio por m² suena abstracto, te pongo casos concretos de Granada 
 
 ** Son precios orientativos. Lo tuyo puede salir un poco más o un poco menos según el estado de las paredes. Por eso voy a verlo antes de darte número cerrado.*
 
-## Cómo lo Hago, Paso a Paso
+## Cómo lo hago, paso a paso
 - **Protejo la casa.** Cubro suelos, muebles y enchufes. El lijado genera polvo y prefiero que no entre en todo.
 - **Doy la primera mano de masilla.** Relleno el gotelé y las imperfecciones grandes. La dejo secar bien.
 - **Segunda mano y, si hace falta, tercera.** Hasta que la pared queda plana de verdad, sin sombras ni ondas.
@@ -60,20 +60,20 @@ Como lo del precio por m² suena abstracto, te pongo casos concretos de Granada 
 - **Dos manos de pintura.** Y la tercera sin cobrarte si el color lo pide.
 - **Limpio y reviso contigo.** Retiro plásticos, dejo todo recogido y miramos juntos que esté como esperabas.
 
-## Cuándo Sube el Precio (y Cuándo se Puede Ajustar)
+## Cuándo sube el precio (y cuándo se puede ajustar)
 
 ### Te lo digo claro para que no haya sorpresas
 - **Sube** si el gotelé es muy grueso (los de pico alto llevan más masilla y más manos).
-- **Sube** si hay humedad, grietas grandes o desconchones que hay que sanear antes.
+- **Sube** si hay humedad, grietas grandes o desconchones que hay que arreglar antes.
 - **Sube** si los techos son muy altos (pisos del Centro, Albaicín) y hay que trabajar con andamio.
-- **Se ajusta** si alisamos el piso entero de una vez en lugar de una sola habitación.
+- **Se ajusta** si aliso el piso entero de una vez en lugar de una sola habitación.
 - **Se ajusta** si el piso está vacío: voy más rápido y eso lo notas en el precio.
 
-## Preguntas Frecuentes sobre Quitar Gotelé en Granada
+## Preguntas frecuentes sobre quitar gotelé en Granada
 
 ¿Cuánto cuesta quitar el gotelé y alisar paredes en Granada?
 
-Alisar la pared y dejarla lista para pintar cuesta entre 7 y 9 €/m². Con el trabajo completo (quitar gotelé, imprimación y pintura) va de 10 a 14 €/m². En gotelé muy grueso o con desconchones que hay que sanear, puede llegar a 13-16 €/m². Se calcula sobre los metros de pared y techo, no sobre los del piso.
+Alisar la pared y dejarla lista para pintar cuesta entre 7 y 9 €/m². Con el trabajo completo (quitar gotelé, imprimación y pintura) va de 10 a 14 €/m². En gotelé muy grueso o con desconchones que hay que arreglar, puede llegar a 13-16 €/m². Se calcula sobre los metros de pared y techo, no sobre los del piso.
 
 ¿Es mejor quitar el gotelé o pintar encima?
 
@@ -95,11 +95,11 @@ Me llamas y voy a verla. Un alisado bien hecho, con imprimación y sin prisas, n
 
 [Precio de pintar un piso en Granada](https://pintareformas.es/precio-pintar-piso-granada.html) [Pintor económico en Granada](https://pintareformas.es/pintor-economico-granada.html) [Pintura y placas de yeso en Granada](https://pintareformas.es/pintura-y-placas-yeso-granada.html) [Calcula tu precio gratis](https://pintareformas.es/calculadora.html)
 
-## ¿Te Quito el Gotelé? Presupuesto Gratis en 24 h
+## ¿Te quito el gotelé? Presupuesto gratis en 24 h
 
 Cuéntame qué habitaciones quieres alisar y cómo están las paredes, y te doy precio cerrado sin compromiso. Te atiendo yo mismo.
 
-[WhatsApp — Respuesta inmediata](https://wa.me/34633915898?text=Hola%20Asis%2C%20quiero%20presupuesto%20para%20quitar%20el%20gotel%C3%A9%20y%20alisar%20paredes%20en%20Granada) [Formulario de contacto](https://pintareformas.es/#contacto)
+[WhatsApp: Respuesta inmediata](https://wa.me/34633915898?text=Hola%20Asis%2C%20quiero%20presupuesto%20para%20quitar%20el%20gotel%C3%A9%20y%20alisar%20paredes%20en%20Granada) [Formulario de contacto](https://pintareformas.es/#contacto)
 
 Tel: **633 915 898** | info@pintareformas.es | Lun-Vie 8:00-19:00 · Sáb 9:00-14:00
 

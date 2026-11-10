@@ -29,7 +29,7 @@ Precio cerrado
 
 En Fuengirola casi todo lo que pinto es apartamento en bloque, y muchos están alquilados por semanas. Eso cambia la forma de trabajar: aquí el problema no suele ser el precio, es el tiempo. Cada día que el piso está de obra es un día que no lo alquilas. Por eso lo primero que te pregunto no es de qué color lo quieres, sino qué días lo tienes libre.
 
-Y luego está lo de siempre en la costa: sol fuerte y aire con sal. En un piso de alquiler el desgaste va más rápido todavía porque entra y sale gente todo el año — roces en los pasillos, marcas de maletas en los rodapiés, esquinas comidas. Ahí no compensa la pintura más barata: se ensucia antes y no se puede lavar. Prefiero ponerte una lavable buena y que aguantes dos temporadas sin retocar.
+Y luego está lo de siempre en la costa: sol fuerte y aire con sal. En un piso de alquiler el desgaste va más rápido todavía porque entra y sale gente todo el año, roces en los pasillos, marcas de maletas en los rodapiés, esquinas comidas. Ahí no compensa la pintura más barata: se ensucia antes y no se puede lavar. Prefiero ponerte una lavable buena y que aguantes dos temporadas sin retocar.
 
 Trabajo limpio y recojo cada día, porque sé que el piso lo tienes que enseñar o entregar. Y si veo que en los días que me das no cabe hacerlo bien, te lo digo antes de empezar, no a mitad.
 
@@ -152,7 +152,7 @@ Después de tantos años bajando aquí, los trabajos se repiten mucho. Te cuento
 
 **El piso que compras para alquilar.** Aquí sí es de arriba abajo, y casi siempre aparece gotelé debajo de todo. Alisar es lo que más cambia un piso viejo y lo que más se nota en las fotos: plastecer, lijar, imprimar y pintar. Te lo explico entero en [quitar gotelé y alisar paredes](https://pintareformas.es/quitar-gotele-alisar-paredes-granada.html), con lo que cuesta y lo que tarda.
 
-**La humedad del baño y la terraza.** En Fuengirola muchos baños no tienen ventana y tiran solo del extractor. Si el extractor va flojo, el techo se llena de puntos negros cada invierno, y por mucho que pintes encima vuelve. Se trata primero y se pinta después con producto antimoho: lo cuento en [reparación de humedades](https://pintareformas.es/reparacion-humedades-granada.html). Y en terrazas y fachadas expuestas al sol y a la sal trabajo desde 6 €/m² con producto de exterior, no con pintura de interior estirada — más detalle en [pintura de fachadas y exteriores](https://pintareformas.es/pintura-exterior-fachadas-granada.html).
+**La humedad del baño y la terraza.** En Fuengirola muchos baños no tienen ventana y tiran solo del extractor. Si el extractor va flojo, el techo se llena de puntos negros cada invierno, y por mucho que pintes encima vuelve. Se trata primero y se pinta después con producto antimoho: lo cuento en [reparación de humedades](https://pintareformas.es/reparacion-humedades-granada.html). Y en terrazas y fachadas expuestas al sol y a la sal trabajo desde 6 €/m² con producto de exterior, no con pintura de interior estirada, más detalle en [pintura de fachadas y exteriores](https://pintareformas.es/pintura-exterior-fachadas-granada.html).
 
 Si lo tuyo es un piso que se alquila por semanas, te interesa cómo organizo yo estas obras sin que pierdas reservas: lo tengo escrito en [pintar un piso de alquiler vacacional en la costa](https://pintareformas.es/pintar-piso-alquiler-vacacional-costa.html).
 
@@ -174,11 +174,11 @@ No hago fontanería ni electricidad de obra nueva, no toco estructura y no traba
 
 ## Lo que dicen de mí en Google
 
-Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. — **Asis**
+Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. , **Asis**
 
 ★★★★★
 
-"Actually this worker got me a nice job, clear and beautiful — I mean professional. He can be relied on."
+"Actually this worker got me a nice job, clear and beautiful. I mean professional. He can be relied on."
 
 Abdoo Dodo Reseña publicada en Google
 
@@ -206,7 +206,7 @@ La pintura interior parte de 4 €/m² de superficie pintada. Ojo, hablo de supe
 
 ### Mi piso está en un bloque, ¿hay líos con la comunidad?
 
-En Fuengirola casi todo es bloque y estoy acostumbrado. Respeto los horarios de ruido de la comunidad, uso el ascensor con protección si lo pide la finca y no dejo material en zonas comunes. Si el administrador necesita un aviso previo para trabajar dentro, lo gestionamos antes de empezar y no el día de la obra.
+En Fuengirola casi todo es bloque y estoy acostumbrado. Respeto los horarios de ruido de la comunidad, uso el ascensor con protección si lo pide la finca y no dejo material en zonas comunes. Si el administrador necesita un aviso previo para trabajar dentro, lo gestiono antes de empezar y no el día de la obra.
 
 ### ¿Merece la pena poner tabiques nuevos en un piso de alquiler vacacional?
 
@@ -214,13 +214,13 @@ Según para qué. Para sacar un dormitorio más de un salón grande, sí: tabiqu
 
 ## ¿Tienes un inmueble en Fuengirola que necesita reforma?
 
-Pídenos presupuesto gratis hoy. Respondemos en menos de 24 horas y nos adaptamos a tu calendario.
+Pídeme presupuesto gratis hoy. Respondo en menos de 24 horas y me adapto a tu calendario.
 
 [💬 WhatsApp directo](https://wa.me/34633915898) [Formulario de contacto](https://pintareformas.es/#contacto)
 
 ## Escríbeme y te paso presupuesto
 
-Estamos disponibles de lunes a sábado de 8:00 a 20:00h.
+Estoy disponibles de lunes a sábado de 8:00 a 20:00h.
 
 📞
 

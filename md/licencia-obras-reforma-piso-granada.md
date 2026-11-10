@@ -1,4 +1,4 @@
-# Licencia para reformar un piso en Granada: qué necesitas y qué no
+# Licencia para reformar un piso en Granada: qué necesitas
 
 > Qué trámite necesita reformar tu piso en Granada: obra menor, declaración responsable u obra mayor, cuánto cuesta y cuánto tarda. Te lo cuento claro.
 
@@ -91,6 +91,6 @@ Cuéntame qué quieres hacer y te digo qué trámite necesita. La visita y el pr
 
 ¿Y cuánto me costaría a mí?
 
-Calcula el precio orientativo en 2 minutos — sin compromiso y sin que nadie te llame.
+Calcula el precio orientativo en 2 minutos, sin compromiso y sin que nadie te llame.
 
 [Calcular precio gratis →](https://pintareformas.es/calculadora.html)

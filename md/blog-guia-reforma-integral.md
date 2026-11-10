@@ -9,11 +9,11 @@ URL canónica: https://pintareformas.es/blog-guia-reforma-integral.html
 
 # Reforma con pintura y placas de yeso: orden, plazos y precio
 
-📅 Actualizado: octubre 2026 ⏱️ Lectura: 6 minutos 📍 Granada y Costa de Málaga 🏠 [Reforma integral completa](https://pintareformas.es/reformas-integrales-granada.html)
+Actualizado: octubre 2026 ⏱️ Lectura: 6 minutos Granada y Costa de Málaga [Reforma integral completa](https://pintareformas.es/reformas-integrales-granada.html)
 
 Soy Asis y llevo desde 2012 montando tabiques y falsos techos de placa de yeso y pintando después. Esta guía es solo de esa parte: la de placas y pintura. Si lo que buscas es reformar el piso entero, con baño, cocina, suelos y fontanería, mira [cuánto cuesta y cuánto tarda una reforma integral completa](https://pintareformas.es/costo-reforma-integral.html), que son otros plazos y otros números.
 
-### 📑 En esta guía
+### En esta guía
 - Qué incluye esta reforma
 - Por qué conviene que lo haga la misma persona
 - Cuánto cuesta
@@ -109,6 +109,6 @@ Llámame o escríbeme por WhatsApp, dime en qué zona estás y me paso a ver el 
 
 ¿Y cuánto me costaría a mí?
 
-Calcula el precio de pintar o reformar tu casa en 2 minutos — sin compromiso y sin que nadie te llame.
+Calcula el precio de pintar o reformar tu casa en 2 minutos, sin compromiso y sin que nadie te llame.
 
 [Calcular precio gratis →](https://pintareformas.es/calculadora.html)

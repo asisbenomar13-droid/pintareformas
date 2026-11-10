@@ -7,7 +7,7 @@ URL canónica: https://pintareformas.es/reparacion-humedades-granada.html
 ---
 Humedades · Moho · Terrazas
 
-# Reparación de Humedades
+# Reparación de humedades
 en Granada
 
 Soy Asis. Llevo desde 2012 peleándome con humedades en Granada y te voy a decir la verdad del oficio: pintar encima de una mancha de humedad es tirar el dinero. Yo primero busco de dónde viene el agua, lo arreglo, y luego pinto. Por eso mis humedades no vuelven.
@@ -32,21 +32,19 @@ Mira las señales. En la visita gratis te lo confirmo.
 
 El vapor de la casa se condensa en las zonas frías. Es la más común en Granada, sobre todo en pisos con poca ventilación y en invierno.
 
-🔎 Señal: moho negro en esquinas, techos y alrededor de las ventanas.
-
-⬆️
+Señal: moho negro en esquinas, techos y alrededor de las ventanas.
 
 ### Capilaridad
 
 El agua del terreno sube por el muro como si fuera una esponja. Típica de plantas bajas y casas de pueblo antiguas.
 
-🔎 Señal: la mancha sube desde el suelo, la pintura se abomba y suelta salitre.
+Señal: la mancha sube desde el suelo, la pintura se abomba y suelta salitre.
 
 ### Filtración
 
 El agua entra desde fuera: una terraza mal impermeabilizada, una grieta en fachada, una junta que falla.
 
-🔎 Señal: la mancha aparece o crece cuando llueve, a manchones en techo o pared.
+Señal: la mancha aparece o crece cuando llueve, a manchones en techo o pared.
 
 Cómo lo arreglo
 
@@ -80,7 +78,7 @@ Terrazas
 
 ## Impermeabilización de terrazas en Granada
 
-Muchas humedades de techo no son del techo: son de la terraza que hay encima. La solución de verdad es impermeabilizarla — con membrana líquida de poliuretano o tela asfáltica según el caso — y rematar bien los encuentros con muros y desagües, que es donde casi siempre está el fallo. Sale normalmente entre **20 y 40 €/m²** y te olvidas del problema durante años. Después, si quieres, arreglo y pinto el techo dañado de abajo, y queda todo cerrado con un solo presupuesto.
+Muchas humedades de techo no son del techo: son de la terraza que hay encima. La solución de verdad es impermeabilizarla, con membrana líquida de poliuretano o tela asfáltica según el caso, y rematar bien los encuentros con muros y desagües, que es donde casi siempre está el fallo. Sale normalmente entre **20 y 40 €/m²** y te olvidas del problema durante años. Después, si quieres, arreglo y pinto el techo dañado de abajo, y queda todo cerrado con un solo presupuesto.
 
 Preguntas frecuentes
 
@@ -88,11 +86,11 @@ Preguntas frecuentes
 
 ### ¿Por qué vuelve a salir el moho aunque pinte encima?
 
-Porque pintar solo tapa la mancha, no arregla la causa. Si el agua sigue llegando — por condensación, capilaridad o filtración — el moho vuelve en semanas. Primero se corta el agua, luego se pinta.
+Porque pintar solo tapa la mancha, no arregla la causa. Si el agua sigue llegando, por condensación, capilaridad o filtración, el moho vuelve en semanas. Primero se corta el agua, luego se pinta.
 
 ### ¿Cuánto cuesta reparar una humedad en Granada?
 
-Una pared con moho por condensación (sanear + pintar con antimoho) sale desde **150-300 € por estancia**. Capilaridad o filtración cuesta más porque hay que tratar la causa. Voy gratis, te digo qué es y te doy precio cerrado.
+Una pared con moho por condensación (tratar + pintar con antimoho) sale desde **150-300 € por estancia**. Capilaridad o filtración cuesta más porque hay que tratar la causa. Voy gratis, te digo qué es y te doy precio cerrado.
 
 ### ¿Cuánto cuesta impermeabilizar una terraza en Granada?
 
@@ -116,6 +114,6 @@ Mándame una foto por WhatsApp y te digo qué tipo de humedad es. Diagnóstico y
 
 ¿Y cuánto me costaría a mí?
 
-Calcula el precio orientativo en 2 minutos — sin compromiso y sin que nadie te llame.
+Calcula el precio orientativo en 2 minutos, sin compromiso y sin que nadie te llame.
 
 [Calcular precio gratis →](https://pintareformas.es/calculadora.html)

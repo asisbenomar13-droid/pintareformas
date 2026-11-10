@@ -13,6 +13,10 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}/$1 [R=301,L]
 RewriteCond %{HTTP_HOST} ^www\.pintareformas\.es [NC]
 RewriteRule ^(.*)$ https://pintareformas.es/$1 [R=301,L]
 
+# ---- 2b. /index.html y /carpeta/index.html -> la URL limpia (evita contenido duplicado) ----
+RewriteCond %{THE_REQUEST} \s/(.*/)?index\.html[\s?] [NC]
+RewriteRule ^(.*/)?index\.html$ /$1 [R=301,L]
+
 # ---- 2b. URLS VIEJAS DE LA MARCA ANTERIOR (por si llegan enlaces externos) ----
 RewriteRule ^falsos-techos-pladur-led\.html$   /falsos-techos-led-granada.html [R=301,L]
 RewriteRule ^pintura-pladur-granada\.html$     /pintura-y-placas-yeso-granada.html [R=301,L]

@@ -62,7 +62,7 @@ Si tienes alguna duda sobre esta política de privacidad, puedes contactarnos en
 
 ## 9. Cookies
 
-Esta web utiliza **Google Analytics 4**, una herramienta de estadísticas que nos dice, de forma anónima y agregada, cuánta gente visita la web, desde qué ciudades y qué páginas miran. Nos sirve solo para mejorar el sitio — no usamos cookies de publicidad ni vendemos datos a nadie.
+Esta web utiliza **Google Analytics 4**, una herramienta de estadísticas que nos dice, de forma anónima y agregada, cuánta gente visita la web, desde qué ciudades y qué páginas miran. Nos sirve solo para mejorar el sitio, no usamos cookies de publicidad ni vendemos datos a nadie.
 
 Estas cookies **solo se activan si las aceptas** en el aviso que aparece al entrar. Si las rechazas, la web funciona exactamente igual. Puedes cambiar de opinión borrando las cookies de tu navegador, y el aviso volverá a aparecer.
 

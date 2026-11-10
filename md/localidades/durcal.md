@@ -89,7 +89,7 @@ Para no hacerte perder una tarde. No subo a tejados ni hago cubiertas. No imperm
 
 ## Lo que dicen de mí en Google
 
-Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. — **Asis**
+Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. , **Asis**
 
 ★★★★★
 
@@ -119,7 +119,7 @@ Entre **700 y 1.200 €** con el plato, la mampara, la grifería y los remates d
 
 ### ¿Cuánto cuesta quitar el gotelé y dejar la pared lisa?
 
-Solo alisar y dejar la pared lista para pintar va de **7 a 9 €/m²**. El trabajo completo, con el gotelé quitado, imprimación y dos manos de pintura, de **10 a 14 €/m²**. Si el gotelé es muy grueso o la pared tiene desconchones que hay que sanear, puede llegar a 13-16 €/m². Se cuenta sobre los metros de pared y techo, no de suelo.
+Solo alisar y dejar la pared lista para pintar va de **7 a 9 €/m²**. El trabajo completo, con el gotelé quitado, imprimación y dos manos de pintura, de **10 a 14 €/m²**. Si el gotelé es muy grueso o la pared tiene desconchones que hay que arreglar, puede llegar a 13-16 €/m². Se cuenta sobre los metros de pared y techo, no de suelo.
 
 ### Tengo humedad en la planta baja, ¿se arregla pintando?
 
@@ -139,6 +139,6 @@ Escríbeme por WhatsApp y voy a verlo sin compromiso. Presupuesto gratis y por p
 
 ¿Y cuánto me costaría a mí?
 
-Calcula el precio de pintar tu casa en 2 minutos — sin compromiso y sin que nadie te llame.
+Calcula el precio de pintar tu casa en 2 minutos, sin compromiso y sin que nadie te llame.
 
 [Calcular precio gratis →](https://pintareformas.es/calculadora.html)

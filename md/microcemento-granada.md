@@ -12,15 +12,15 @@ Mira, te lo voy a contar sin pelos en la lengua: el microcemento, cuando sale bi
 Aquí en Granada tengo clientes que ven un baño con microcemento en Instagram y vienen diciendo "quiero lo mismo en mi casa". Pues, tranquilo, que primero voy a verte el sitio. Porque hay lugares donde el microcemento es lo mejor que puedes hacer. Y hay otros donde te digo: gastarte ese dinero en otra cosa. En serio.
 
 ### Dónde sí lo recomiendo sin pensármelo
-- **Baños** — aquí te digo que es oro. Sin juntas, se limpia rápido, queda chulo. Reemplaza azulejos enteros.
-- **Suelos de salón o cocina** — cuando quieres que todo sea un conjunto, sin cambios de nivel entre habitaciones.
-- **Encimeras y muebles fijos** — aquí sale un acabado que con melamina no tienes. Moderno de verdad.
-- **Locales comerciales** — tiendas, bares, peluquerías. Quedan de lujo. Y aguanta bien el trote del día a día.
+- **Baños**: aquí te digo que es oro. Sin juntas, se limpia rápido, queda chulo. Reemplaza azulejos enteros.
+- **Suelos de salón o cocina**: cuando quieres que todo sea un conjunto, sin cambios de nivel entre habitaciones.
+- **Encimeras y muebles fijos**: aquí sale un acabado que con melamina no tienes. Moderno de verdad.
+- **Locales comerciales**: tiendas, bares, peluquerías. Quedan de lujo. Y aguanta bien el trote del día a día.
 
 ### Dónde te voy a decir que no, directamente
-- **Pisos en alquiler con tráfico constante** — cualquier golpecillo fuerte deja marca. ¿Un Airbnb con gente entrando y saliendo cada semana? Pues te digo que mejor busques otra cosa.
-- **Casas que tienen humedad sin resolver** — ojo, que primero tienes que arreglar la humedad. Microcemento después. Porque si no, te lo destrozo en poco tiempo.
-- **Suelos de garaje o terrazas grandes al aire libre** — ahí hay materiales más resistentes y más baratos. Tiene poco sentido gastar dinero en microcemento.
+- **Pisos en alquiler con tráfico constante**: cualquier golpecillo fuerte deja marca. ¿Un Airbnb con gente entrando y saliendo cada semana? Pues te digo que mejor busques otra cosa.
+- **Casas que tienen humedad sin resolver**: ojo, que primero tienes que arreglar la humedad. Microcemento después. Porque si no, te lo destrozo en poco tiempo.
+- **Suelos de garaje o terrazas grandes al aire libre**: ahí hay materiales más resistentes y más baratos. Tiene poco sentido gastar dinero en microcemento.
 
 ## ¿Cuánto cuesta el microcemento en Granada?
 
@@ -47,19 +47,19 @@ Si te lo hacen en dos días, te están saltando capas. Y créeme, eso se ve en c
 
 ## El truco: todo está en lo que no se ve
 
-Te voy a decir algo: noventa y nueve de cada cien veces que veo un microcemento jodido, no es por la última capa. Es por lo que hay debajo. Azulejo suelto, pared que transpira humedad, suelo que no está a nivel — el microcemento no te perdona eso.
+Te voy a decir algo: noventa y nueve de cada cien veces que veo un microcemento jodido, no es por la última capa. Es por lo que hay debajo. Azulejo suelto, pared que transpira humedad, suelo que no está a nivel, el microcemento no te perdona eso.
 
-Cuando voy a tu obra, lo primero que hago es mirar debajo. A veces te digo: "esto hay que nivelarlo antes" o "ojo, esta pared tiene humedad, primero la selamos". Sí, es más curro. Pero es la diferencia entre un microcemento que te dura veinte años y uno que en tres te lo tienes que repasar.
+Cuando voy a tu obra, lo primero que hago es mirar debajo. A veces te digo: "esto hay que nivelarlo antes" o "ojo, esta pared tiene humedad, primero la sellamos". Sí, es más curro. Pero es la diferencia entre un microcemento que te dura veinte años y uno que en tres te lo tienes que repasar.
 
-Por eso, si vengo a tu baño y veo humedad en la pared, te voy a decir que primero hay que sellarla — aunque eso signifique que la obra se alarga unos días y a mí me interese menos. Poner microcemento encima de una pared que transpira es tirar el dinero, y el que da la cara al año siguiente soy yo.
+Por eso, si vengo a tu baño y veo humedad en la pared, te voy a decir que primero hay que sellarla, aunque eso signifique que la obra se alarga unos días y a mí me interese menos. Poner microcemento encima de una pared que transpira es tirar el dinero, y el que da la cara al año siguiente soy yo.
 
-— Asis, microcemento en Granada desde 2012
+: Asis, microcemento en Granada desde 2012
 
 ## ¿Puedo poner microcemento encima del azulejo viejo?
 
 Esa es la pregunta que me hacen más. "Oye Asis, ¿lo pongo encima del azulejo sin quitarlo?" Sí, tranquilo, se puede. Y la verdad es que muchas veces es lo mejor porque:
 - Te ahorras toda la faena de romper azulejos (polvo, ruido, días de obra).
-- El suelo prácticamente no sube — son tres milímetros nada más.
+- El suelo prácticamente no sube, son tres milímetros nada más.
 - Acabas en menos tiempo y gastas menos dinero.
 
 Ahora bien, las juntas del azulejo hay que tratarlas con malla y una cosa de adherencia. Si te lo ponen directamente sin eso, al cabo de unos meses empiezas a ver las juntas marcadas. Es el fallo más típico que veo reparar.
@@ -84,14 +84,14 @@ Sí, y queda de lujo. La ducha de obra en microcemento es de lo que más se llev
 
 ¿En qué colores me lo puedes hacer?
 
-En casi cualquiera. Yo trabajo con grises, beige, blanco roto, arena, negro y tierra. Si quieres algo más personalizado me avisas y lo hacemos, pero te digo: hay que ver muestras primero en la pared porque en la carta se ve distinto que en la realidad.
+En casi cualquiera. Yo trabajo con grises, beige, blanco roto, arena, negro y tierra. Si quieres algo más personalizado me avisas y lo hago, pero te digo: hay que ver muestras primero en la pared porque en la carta se ve distinto que en la realidad.
 
 ¿Vienes solo a Granada o también trabajas en la costa?
 
-Voy por toda la zona: Granada capital, Albaicín, Zaidín, Cartuja, y también Motril, Almuñécar. Y bajo a Málaga, Marbella, Nerja, Fuengirola, Benalmádena — cuando me llaman sin problema. Para obras grandes no me asusta desplazarme.
+Voy por toda la zona: Granada capital, Albaicín, Zaidín, Cartuja, y también Motril, Almuñécar. Y bajo a Málaga, Marbella, Nerja, Fuengirola, Benalmádena, cuando me llaman sin problema. Para obras grandes no me asusta desplazarme.
 
 ¿Y cuánto me costaría a mí?
 
-Calcula el precio de pintar o reformar tu casa en 2 minutos — sin compromiso y sin que nadie te llame.
+Calcula el precio de pintar o reformar tu casa en 2 minutos, sin compromiso y sin que nadie te llame.
 
 [Calcular precio gratis →](https://pintareformas.es/calculadora.html)

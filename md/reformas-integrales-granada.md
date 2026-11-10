@@ -46,37 +46,37 @@ Qué incluye
 
 Tirar tabiques, picar alicatado y suelo, sacar escombros, nuevos tabiques y regularizar suelos.
 
-🔎 Aquí se decide el ritmo de toda la obra.
+Aquí se decide el ritmo de toda la obra.
 
 ### Electricidad y fontanería
 
 Instalación nueva completa, cuadro con diferenciales, boletín eléctrico y tuberías nuevas de agua fría y caliente.
 
-🔎 Imprescindible en pisos de los 60, 70 y 80.
+Imprescindible en pisos de los 60, 70 y 80.
 
 ### Baños y cocina
 
 Alicatado, sanitarios, plato de ducha y mampara, y la obra de la cocina lista para los muebles.
 
-🔎 Detalle en [reformas de baño](https://pintareformas.es/reformas-banos-granada.html) y [reformas de cocina](https://pintareformas.es/reformas-cocinas-granada.html).
+Detalle en [reformas de baño](https://pintareformas.es/reformas-banos-granada.html) y [reformas de cocina](https://pintareformas.es/reformas-cocinas-granada.html).
 
 ### Tabiques y falsos techos
 
 Redistribución con [tabiques de placas de yeso](https://pintareformas.es/tabiques-placas-yeso-granada.html) y [falsos techos con LED](https://pintareformas.es/falsos-techos-led-granada.html). Esto lo hago yo.
 
-🔎 Limpio, rápido y sin obra húmeda.
+Limpio, rápido y sin obra húmeda.
 
 ### Pintura y acabados
 
 Imprimación sobre yeso nuevo, dos o tres manos en paredes y techos y esmalte en puertas. También la hago yo.
 
-🔎 Mira [el precio de pintar un piso](https://pintareformas.es/precio-pintar-piso-granada.html).
+Mira [el precio de pintar un piso](https://pintareformas.es/precio-pintar-piso-granada.html).
 
 ### Licencias y limpieza
 
 Te oriento con la licencia o la declaración responsable, y dejo el piso limpio para entrar a vivir.
 
-🔎 Obra mayor: proyecto de técnico.
+Obra mayor: proyecto de técnico.
 
 Cómo trabajo
 
@@ -169,6 +169,6 @@ Mándame los metros, el año del edificio y unas fotos por WhatsApp y te doy una
 
 ¿Y cuánto me costaría a mí?
 
-Calcula el precio orientativo en 2 minutos — sin compromiso y sin que nadie te llame.
+Calcula el precio orientativo en 2 minutos, sin compromiso y sin que nadie te llame.
 
 [Calcular precio gratis →](https://pintareformas.es/calculadora.html)

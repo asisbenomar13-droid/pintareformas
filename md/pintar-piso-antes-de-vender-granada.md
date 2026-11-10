@@ -1,4 +1,4 @@
-# Pintar el Piso Antes de Vender — Precios Granada 2026
+# Pintar el piso antes de vender en Granada: precios 2026
 
 > ¿Compensa pintar el piso antes de venderlo? Precios reales en Granada, qué colores funcionan, qué arreglos no merecen la pena y cuánto se tarda.
 
@@ -7,8 +7,8 @@ URL canónica: https://pintareformas.es/pintar-piso-antes-de-vender-granada.html
 ---
 Vender o alquilar · Granada 2026
 
-# Pintar el Piso Antes de Vender —
-lo que Cuesta y lo que Devuelve
+# Pintar el piso antes de vender:
+lo que cuesta y lo que devuelve
 
 Llevo desde 2012 pintando pisos en Granada y una buena parte son de gente que va a venderlos o alquilarlos. Te cuento qué compensa hacer, qué te puedes ahorrar y cuánto vale cada cosa.
 
@@ -28,7 +28,7 @@ Por eso pintar es de las pocas cosas que de verdad mueven la aguja antes de vend
 
 Ahora bien, tampoco te voy a decir que lo pintes todo siempre. Hay pisos a los que con repasar dos paredes les vale, y hay obras que no vas a recuperar ni de broma. Vamos por partes.
 
-Salón en Granada — blanco roto, el color que menos estorba cuando el comprador imagina sus muebles
+Salón en Granada, blanco roto, el color que menos estorba cuando el comprador imagina sus muebles
 
 Tabla de precios
 
@@ -36,7 +36,7 @@ Tabla de precios
 
 Precios de 2026 con pintura plástica blanca, dos manos y material incluido. Piso vacío. El plazo es de días de trabajo reales, no de calendario.
 
-| Piso | Superficie a pintar | Pintura básica (4 €/m²) | Pintura premium (7 – 9 €/m²) | Plazo |
+| Piso | Superficie a pintar | Pintura básica (4 €/m²) | Pintura de más calidad (7 – 9 €/m²) | Plazo |
 |---|---|---|---|---|
 | **60 m²** 2 habitaciones | 180 – 210 m² | 720 – 840 € | 1.260 – 1.890 € | 2 días |
 | **80 m²** 3 habitaciones | 240 – 280 m² | 960 – 1.120 € | 1.680 – 2.520 € | 3 días |
@@ -52,7 +52,7 @@ Criterio
 
 Esto es lo que he visto en trece años entrando en pisos que estaban a punto de salir al mercado.
 
-### ✅ Esto sí lo haría
+### Esto sí lo haría
 - **Pintar todo el piso de blanco roto.** Es lo que más cambia la foto del anuncio y lo que más barato sale por metro.
 - **Tapar agujeros y grietas finas.** Va incluido en cualquier trabajo de pintura serio y quita la sensación de piso castigado.
 - **Techos.** Si pintas paredes y dejas el techo amarillo, se nota muchísimo. Es poco dinero comparado con el resto.
@@ -60,7 +60,7 @@ Esto es lo que he visto en trece años entrando en pisos que estaban a punto de 
 - **Cambiar bombillas y poner luz cálida.** Una habitación con luz fría parece un almacén. Vale cuatro euros.
 - **Puertas lacadas si están castañas.** [Lacar las puertas en blanco](https://pintareformas.es/lacado-puertas-granada.html) rejuvenece un piso entero y cuesta mucho menos que cambiarlas.
 
-### ❌ Esto te lo puedes ahorrar
+### Esto te lo puedes ahorrar
 - **Cambiar la cocina.** Te vas a 6.000-10.000€ y el comprador la va a poner a su gusto igual. No se recupera.
 - **Reforma completa del baño.** Lo mismo. Si funciona y está limpio, con pintura antihumedad y silicona nueva vas servido.
 - **Suelo nuevo.** Es caro, sucio y retrasa la venta semanas. Salvo que el suelo esté roto, no lo toques.
@@ -80,7 +80,7 @@ El blanco puro cansa la vista y en pisos con poca luz tira a azulado. Por eso us
 
 Si el piso es para alquilar y no para vender, ahí sí te puedes permitir algo más de personalidad en una pared del salón. Si te apetece darle una vuelta, tengo un artículo con los [colores que se llevan en 2026](https://pintareformas.es/colores-tendencia-pintura-2026-granada.html) y dónde quedan bien de verdad.
 
-Dos manos y a por el siguiente — un piso vacío avanza mucho más rápido
+Dos manos y a por el siguiente, un piso vacío avanza mucho más rápido
 
 ## Piso vacío o piso habitado: la diferencia son días y dinero
 
@@ -89,15 +89,15 @@ Esta es la pregunta que más me hacen y la respuesta es clara: **si puedes vacia
 En un piso vacío entro, tapo suelos, lijo, tapo agujeros y voy de habitación en habitación sin parar. Un piso de 90 m² así me lleva unos 3 días. En ese mismo piso con muebles, tengo que juntarlo todo en el centro de cada cuarto, taparlo con plástico, pintar la mitad de la habitación, mover los muebles al lado ya pintado y seguir. Se va un día entero solo en eso, y el presupuesto sube entre un 10% y un 20%.
 
 ### Si vives dentro y no lo puedes vaciar
-- Junta lo que puedas en una habitación y pintamos por fases: primero el resto del piso, esa habitación la última.
+- Junta lo que puedas en una habitación y pinto por fases: primero el resto del piso, esa habitación la última.
 - Descuelga cuadros, cortinas y estanterías tú antes de que llegue. Media hora tuya son horas mías.
-- Guarda lo pequeño en cajas. Lo grande y pesado lo movemos nosotros, eso no te preocupe.
+- Guarda lo pequeño en cajas. Lo grande y pesado lo muevo yo, eso no te preocupe.
 
 Y si el piso está alquilado y quieres pintarlo entre inquilino e inquilino, avísame con margen: esa semana entre contratos es muy justa y hay que cuadrarla bien. En pisos de alquiler tengo un artículo aparte sobre [cómo se organiza el trabajo de pintar un piso completo](https://pintareformas.es/pintura-pisos-granada.html).
 
 **Una advertencia que te ahorra un disgusto:** si hay una mancha de humedad, no la tapes solo con pintura para la venta.
 
-Pintar encima la esconde unas semanas, pero vuelve a salir — normalmente justo cuando el comprador ya ha firmado. Y ahí sí tienes un problema, porque un vicio oculto que sabías y callaste te lo pueden reclamar después.
+Pintar encima la esconde unas semanas, pero vuelve a salir, normalmente justo cuando el comprador ya ha firmado. Y ahí sí tienes un problema, porque un vicio oculto que sabías y callaste te lo pueden reclamar después.
 
 Lo que hago yo es mirar de dónde viene el agua antes de dar precio. A veces es una tubería, a veces condensación por falta de ventilación y a veces la fachada. Si es algo sencillo, se sanea, se sella y se pinta con producto antimoho. Si es gordo, te lo digo y decides tú, pero al menos lo sabes. Tienes más detalle en [reparación de humedades en Granada](https://pintareformas.es/reparacion-humedades-granada.html).
 
@@ -180,7 +180,7 @@ Sí, se puede. Se juntan los muebles en el centro de cada habitación y se tapan
 
 Un piso vacío de 90 m² se pinta en unos 3 días. Con muebles dentro, 4. Si hay que quitar gotelé o alisar paredes, súmale entre 2 y 4 días más. Conviene contarlo antes de fijar la fecha de las primeras visitas con la inmobiliaria.
 
-### ¿Qué arreglos NO merece la pena hacer antes de vender?
+### ¿Qué arreglos no merece la pena hacer antes de vender?
 
 Cambiar la cocina entera, reformar el baño a fondo o poner suelo nuevo casi nunca se recupera en el precio de venta, y además retrasa la operación semanas. Lo que sí compensa es pintura, luz, silicona nueva en baño y cocina, y una limpieza en condiciones.
 
@@ -198,6 +198,6 @@ Dime dónde está y cuántos metros tiene, me paso a verlo y te doy el precio ce
 
 ¿Y cuánto me costaría a mí?
 
-Calcula el precio de pintar tu piso en 2 minutos — sin compromiso y sin que nadie te llame.
+Calcula el precio de pintar tu piso en 2 minutos, sin compromiso y sin que nadie te llame.
 
 [Calcular precio gratis →](https://pintareformas.es/calculadora.html)

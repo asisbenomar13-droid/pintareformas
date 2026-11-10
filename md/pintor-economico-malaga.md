@@ -15,112 +15,61 @@ Pintar en Málaga y la Costa del Sol desde 4 €/m², con imprimación y dos man
 
 Si prefieres ver antes qué hago en Málaga y cómo me organizo para trabajar en la costa, lo tienes en mi página de [pintor en Málaga y Costa del Sol](https://pintareformas.es/pintura-y-placas-yeso-malaga.html).
 
-**Trabajo en Málaga y la Costa del Sol desde 2012.** Precios desde 4 €/m². Sin intermediarios, sin subcontratas y sin sorpresas al final: el precio que te doy por escrito es el que pagas. Te paso presupuesto detallado en 24 horas y no te cuesta nada.
+**Trabajo en Málaga y la Costa del Sol desde 2012.** Precios desde 4 €/m². Tratas conmigo, sin intermediarios, y el precio que te doy por escrito es el que pagas. Te paso presupuesto detallado en 24 horas y no te cuesta nada.
 
-**¿Necesitas presupuesto para tu piso en Málaga o la Costa del Sol?** Te respondemos en menos de 24 horas, sin visita obligatoria.
+**¿Necesitas presupuesto para tu piso en Málaga o la Costa del Sol?** Te respondo en menos de 24 horas, sin visita obligatoria.
 
-[WhatsApp — Respuesta inmediata](https://wa.me/34633915898?text=Hola%2C%20quiero%20presupuesto%20de%20pintor%20econ%C3%B3mico%20en%20M%C3%A1laga) [Formulario de contacto](https://pintareformas.es/#contacto)
+[WhatsApp: Respuesta inmediata](https://wa.me/34633915898?text=Hola%2C%20quiero%20presupuesto%20de%20pintor%20econ%C3%B3mico%20en%20M%C3%A1laga) [Formulario de contacto](https://pintareformas.es/#contacto)
 
-## Por qué un precio bajo no tiene por qué salirte malo
+## Lo que encarece (y lo que no) pintar en la costa
 
-En la costa me preguntan mucho: "si cobras menos que la empresa grande, ¿dónde recortas?". Respuesta honesta: no recorto en imprimación ni en manos de pintura. Recorto en lo que sobra: oficina, comerciales y subcontratas.
+En la costa me preguntan mucho si pintar aquí sale más caro que tierra adentro. El metro de pared de un salón cuesta lo mismo en Torremolinos que en Granada: desde 4 €/m², con su imprimación y sus dos manos. Lo que mueve el precio en la costa son otras cuatro cosas, y conviene que las sepas antes de comparar presupuestos.
 
-En Málaga y la Costa del Sol pesa otro factor: mucho trabajo es de apartamentos que se alquilan por temporadas y de segundas residencias. Ahí compensa pintar rápido y limpio en los huecos entre reservas, y eso se consigue con un equipo pequeño que se coordina bien, no con cuadrillas grandes que cuestan más de mover.
+### Lo que da al mar se paga aparte
 
-El riesgo de verdad está en el presupuesto que no dice nada: sin marca de pintura, sin número de manos y sin qué pasa si aparece humedad al rascar. Con el ambiente de costa, una pintura que no toca en fachada o en un baño se estropea en una temporada. Pídeme el presupuesto por escrito y compáralo partida por partida.
+Terraza, barandilla y la pared de fuera reciben sal y sol todo el año. Ahí va pintura de exterior, desde 6 €/m², y antes hay que limpiar el salitre y sanear lo que esté suelto. Dentro de casa no hace falta nada especial: la pintura del dormitorio es la misma que pondría en cualquier piso.
 
-En PintaReformas ofrecemos precios desde 4€/m² en Málaga y la Costa del Sol sin recortar en imprimación, sin usar pinturas de primer precio y tercera calidad, y sin añadir costes no acordados. En la costa además hay que tener en cuenta la humedad y la sal del ambiente — uso materiales pensados para eso, no la misma pintura que usaría en el interior.
+### El piso que pasa meses cerrado
 
-## Qué preguntar antes de aceptar un precio barato
+Un apartamento cerrado de octubre a mayo suele tener moho en el techo del baño y detrás de los armarios. Si lo veo en las fotos o en la visita, te lo pongo como partida aparte con su precio. Pintar encima sin tratarlo es tirar el dinero, porque vuelve a salir al primer invierno.
 
-Antes de aceptar un presupuesto, el mío incluido, haz estas preguntas a quien te lo dé. Si alguna no tiene respuesta clara, vuelve a preguntarla:
+### Las fechas mandan
 
-### Preguntas clave que debes hacer
-- **¿El presupuesto incluye materiales o solo mano de obra?** Un buen pintor te indica exactamente qué marcas y calidades de pintura va a usar y si están incluidas en el precio.
-- **¿Cuántas manos de pintura dan?** Lo mínimo aceptable es imprimación + 2 manos de acabado. Con una sola mano, el resultado no durará, y en la costa aún menos.
-- **¿Usan pintura pensada para ambiente costero en fachada?** Con la sal y la humedad del mar, una pintura normal de interior en el exterior se estropea antes de lo que esperas.
-- **¿Te dan el precio cerrado y por escrito?** Cualquier empresa seria lo pone en papel antes de empezar. Sin papel, el riesgo es tuyo.
-- **¿Dan factura con IVA?** Sin factura no hay a quién reclamar si algo sale mal. Yo la doy siempre.
-- **¿Pueden mostrar trabajos anteriores en la zona?** Fotos de obras reales en Málaga o en la Costa del Sol son señal de experiencia local, no de teoría.
+Si el piso se alquila, tengo que entrar y salir en el hueco que dejan las reservas. Con el piso vacío voy mucho más rápido y eso te baja el precio. Con gente dentro, o parando cada dos días, sube.
+
+### Vengo desde Granada
+
+Mi base está en Granada. Para que el viaje no pese, hago la obra seguida, sin días sueltos. Si el desplazamiento tiene algún coste lo ves en una línea del presupuesto antes de decir que sí. No aparece después en la factura.
 
 ## Cuánto cuesta el metro: mis precios en Málaga y la Costa del Sol
 
-La costa es un mercado con precios muy dispares. Esta tabla te sitúa: a la izquierda lo que suele cobrar quien va muy justo, en medio lo que cobro yo y a la derecha lo que piden las empresas grandes con oficina. Fíjate en lo que entra en cada tramo, no solo en el número:
+Estos son mis precios por metro cuadrado de pared o techo pintado, con material y mano de obra. Mira lo que entra en cada uno, que es donde se diferencian dos presupuestos que parecen iguales:
 
-| Tipo de servicio | Mercado bajo (Costa del Sol) | PintaReformas | Empresas grandes |
-|---|---|---|---|
-| Pintura interior básica | 2,50 – 3,50 €/m² Sin imprimación | **4 – 6 €/m²** Imprimación incluida | 8 – 12 €/m² Calidad similar |
-| Pintura lavable / premium | 4 – 5 €/m² Materiales dudosos | **7 – 9 €/m²** Marca reconocida incluida | 12 – 18 €/m² Resultado equivalente |
-| Pintura antihumedad | 6 – 8 €/m² Sin diagnóstico previo | **9 – 12 €/m²** Diagnóstico incluido | 15 – 22 €/m² Similar proceso |
-| Estuco veneciano | 12 – 15 €/m² Acabado irregular, sin factura | **18 – 28 €/m²** Artesano especializado | 30 – 45 €/m² Resultado similar |
-| Pintura exterior / fachada con sal marina | 4 – 5 €/m² Sin impermeabilización marina | **6 – 10 €/m²** Protección adaptada a la costa | 14 – 20 €/m² Similar a PintaReformas |
+| Trabajo | Mi precio | Qué entra |
+|---|---|---|
+| Pintura interior básica | **4 – 6 €/m²** | Tapar, masilla en grietas y agujeros, imprimación y dos manos |
+| Pintura lavable de más calidad | **7 – 9 €/m²** | Lo mismo, con pintura que se limpia con un paño. La que pongo en pisos de alquiler |
+| Pintura antihumedad | **9 – 12 €/m²** | Buscar de dónde viene la humedad, tratar el moho y pintar |
+| Estuco veneciano | **18 – 28 €/m²** | Tres capas, pulido y cera |
+| Exterior, terraza o fachada cerca del mar | **6 – 10 €/m²** | Limpieza del salitre, imprimación y dos manos de pintura de exterior |
 
-** Precios actualizados a septiembre de 2026 para Málaga capital y municipios de la Costa del Sol. El precio final depende del estado de las paredes, superficie real y tipo de pintura elegida.*
+** Precios de noviembre de 2026 para Málaga capital y la Costa del Sol. El precio final depende de cómo estén las paredes y de los metros reales, y te lo doy cerrado por escrito.*
 
-## Precios y presupuestos que deberían hacerte desconfiar
+## Cuánto sale un apartamento entero: las cuentas hechas
 
-### Banderas rojas que debes conocer antes de contratar
-- **Presupuesto oral sin nada por escrito:** si no hay contrato o al menos un presupuesto detallado por email, no firmes nada ni pagues ninguna señal.
-- **Precio por piso entero sin ver la vivienda:** es imposible presupuestar un piso sin saber su superficie, estado de las paredes y tipo de acabado. Quien lo hace, probablemente te cobrará extras después.
-- **Piden más del 30% de señal antes de empezar:** una señal razonable es del 20-30%. Quien pide el 50% o el total por adelantado es una señal de alarma.
-- **No dan factura ni aparecen con nombre y NIF:** si luego hay un problema, no tienes a quién reclamar.
-- **No pueden mostrar fotos de trabajos anteriores en la zona:** la experiencia local importa, sobre todo en la costa, donde el clima trata la pintura de forma distinta al interior.
-- **Solo trabajan en efectivo:** no poder pagar con transferencia o tarjeta impide reclamar en caso de disputa.
-- **Precio muy por debajo del mercado sin explicación:** por debajo de 3€/m² en pintura interior es prácticamente imposible cubrir costes de material de calidad mínima aceptable.
+Los metros que se pintan no son los del piso. Entre paredes y techos salen unas 3 o 3,5 veces los metros construidos. Con eso puedes hacer la cuenta tú antes de llamarme:
 
-## Por qué puedo cobrarte menos sin bajar la calidad
+| Vivienda | Metros a pintar | Básica (desde 4 €/m²) | Lavable (7 – 9 €/m²) | Días con el piso vacío |
+|---|---|---|---|---|
+| Estudio o un dormitorio, 40 m² | 120 – 140 m² | 480 – 560 € | 840 – 1.260 € | 2 días |
+| Apartamento de dos dormitorios, 60 m² | 180 – 210 m² | 720 – 840 € | 1.260 – 1.890 € | 2 o 3 días |
+| Piso de tres dormitorios, 80 m² | 240 – 280 m² | 960 – 1.120 € | 1.680 – 2.520 € | 3 días |
 
-Mi precio es bajo por cómo trabajo, no por recortar materiales. Esto es lo que lo explica en la costa:
-
-### Sin intermediarios
-
-Trato directo conmigo, sin comerciales ni empresa intermedia. Lo que pagas va al trabajo y no a una comisión.
-
-### Pinto yo
-
-Pinto yo y no subcontrato cada obra, así el acabado es el mismo en toda la vivienda, sea un piso en Málaga capital o un apartamento en la costa.
-
-### Compra directa de materiales
-
-Compro la pintura y las imprimaciones directamente a distribuidores, y ese ahorro lo paso al precio sin bajar la calidad del bote.
-
-### Conocimiento del clima costero
-
-La sal y la humedad del mar tratan la pintura distinto que en el interior. Sabemos qué materiales aguantan en fachada en primera línea de playa y cuáles se estropean al año.
-
-### Trato directo conmigo
-
-Hablo yo contigo, sin intermediarios. Te explico el presupuesto línea a línea: evita malentendidos y ahorra tiempo a los dos.
-
-### Clientes que vuelven
-
-Gran parte del trabajo me llega por recomendación, así que me interesa que te quedes contento. No gasto en publicidad y eso se nota en tu presupuesto.
-
-## Qué va incluido en el precio que te doy
-
-Esto es lo que va dentro del precio que te doy, sin cosas que aparezcan a mitad de obra:
-
-Visita y presupuesto gratis
-
-Preparación de superficies
-
-Imprimación incluida
-
-Mínimo 2 manos pintura
-
-Materiales de calidad
-
-Protección suelos y muebles
-
-Limpieza final completa
-
-Precio cerrado por escrito
-
-Solo pueden salir aparte los tratamientos de humedad activa y el saneado de revocos muy dañados, algo habitual en viviendas cerca del mar. Te lo presupuesto antes de tocarlo y hace falta tu visto bueno por escrito.
+La cuenta del estudio, para que la compruebes: 40 m² × 3 = 120 m² a pintar, y 120 × 4 = 480 €. La terraza, las puertas y el moho, si lo hay, van aparte. En un piso que vives tú la básica va bien. Si lo alquilas por semanas te compensa la lavable, y te explico por qué en [pintar un piso de alquiler vacacional](https://pintareformas.es/pintar-piso-alquiler-vacacional-costa.html).
 
 ## Dónde se puede ajustar el precio de verdad (y dónde no)
 
-Te explico de dónde sale un precio ajustado y qué es lo que nunca se toca:
+Un precio ajustado sale de cómo se organiza la obra. Del bote no sale:
 
 ### El piso vacío se paga solo
 
@@ -128,43 +77,68 @@ Si la vivienda está vacía o sin inquilinos, trabajo mucho más rápido y te lo
 
 ### Todo de golpe sale mejor que a trozos
 
-Hacer toda la vivienda de una vez sale más barato por metro que ir por habitaciones. Como vengo desde Granada, me organizo para hacerlo seguido en unos días y que el desplazamiento no te encarezca nada.
+Pintar toda la vivienda de una vez sale más barato por metro que ir por habitaciones. Y si tienes dos pisos en el mismo edificio o un vecino que también quiere pintar, en el mismo viaje salís ganando los dos.
 
 ### En la pintura no recorto
 
-En la pintura no recorto. En la costa la humedad y la sal gastan rápido un material flojo, así que uso producto bueno y ajusto en la mano de obra, no en el bote.
+En la costa la humedad y la sal gastan rápido un material flojo. Uso producto bueno y ajusto en cómo me organizo.
 
-**¿Listo para pedir tu presupuesto sin compromiso?** Te enviamos precio detallado en menos de 24 horas.
+## Qué mirar en un presupuesto barato en la costa
 
-[WhatsApp — 633 915 898](https://wa.me/34633915898?text=Hola%2C%20quiero%20presupuesto%20de%20pintura%20en%20M%C3%A1laga)
+Si tienes dos o tres presupuestos encima de la mesa, el mío incluido, busca estas cosas en el papel. Lo que no esté escrito, pregúntalo antes de aceptar:
+- **Qué pintura va en lo que da al mar.** Si en la terraza pone "pintura plástica" sin más, es la de interior. Fuera aguanta un verano.
+- **Si la barandilla se lija y se le quita el óxido.** Pintar encima del óxido es lo más barato de presupuestar y lo primero que salta.
+- **Qué pasa con el moho.** Tiene que poner si se trata o si solo se tapa, y cuánto cuesta.
+- **Imprimación y número de manos.** Imprimación y dos manos es lo mínimo. Con una sola mano el precio baja mucho y la pared se queda a medias.
+- **Las fechas, por escrito.** Día de entrada y día de salida. Si tienes una reserva detrás, un retraso te cuesta más que la diferencia entre dos presupuestos.
+- **El desplazamiento.** Que esté dentro del precio o en una línea aparte, pero que esté.
+- **Factura con nombre y NIF.** Si vives fuera y algo sale mal, es lo único que te sirve para reclamar.
 
-## Preguntas frecuentes sobre precios y calidad en Málaga
+## Qué va incluido en el precio que te doy
 
-¿Cuánto cobra un pintor económico por hora en Málaga?
+La visita y el presupuesto son gratis. En el precio entra tapar suelos y muebles, masilla en grietas y agujeros, imprimación, dos manos de pintura, quitar los plásticos y dejarlo limpio. Te lo doy cerrado por escrito y con factura.
 
-En la zona, los pintores autónomos suelen cobrar entre 15€ y 22€/hora. En PintaReformas no cobramos por horas sino por metro cuadrado, lo que te da mayor previsibilidad del coste total. Presupuestar por hora puede generar sorpresas si la obra se alarga. Pedir precio por m² de superficie pintada es siempre más seguro para el cliente.
+Aparte solo pueden ir la humedad activa y los revocos muy dañados, que cerca del mar aparecen a menudo. Si sale algo así al rascar, paro, te mando la foto y te digo lo que cuesta. No lo toco hasta que me digas que sí.
 
-¿Por qué algunos pintores en Málaga son tan baratos? ¿Hay trampa?
+**¿Quieres saber cuánto sale el tuyo?** Mándame los metros, cuatro fotos y el pueblo, y te contesto en menos de 24 horas.
 
-No siempre hay trampa, pero sí hay que tener cuidado. Precios muy por debajo de mercado (menos de 3€/m²) suelen implicar: materiales de bajísima calidad, solo una mano de pintura sin imprimación, sin precio por escrito, o trabajadores sin seguro. En la costa esto se nota antes: la humedad y la sal se comen una pintura mala en poco tiempo. A largo plazo sale más caro pintar barato y tener que repetirlo.
+[WhatsApp: 633 915 898](https://wa.me/34633915898?text=Hola%2C%20quiero%20presupuesto%20de%20pintura%20en%20M%C3%A1laga)
 
-¿PintaReformas trabaja en toda la Costa del Sol o solo en Málaga capital?
+## Preguntas frecuentes sobre precios en Málaga y la costa
 
-Trabajamos en Málaga capital y en Marbella, Torremolinos, Benalmádena, Fuengirola, Estepona y Mijas, entre otras. Nuestra base está en Granada y subimos a la costa con equipo propio, así que la zona la conocemos bien, no es algo nuevo para nosotros.
+¿Sale más caro pintar en Málaga que en Granada?
 
-¿Cómo solicito un presupuesto y qué información necesitáis?
+El interior, no: desde 4 €/m² en los dos sitios. Cambia lo que da al mar, que lleva pintura de exterior desde 6 €/m², y el desplazamiento, que si tiene coste lo ves en el presupuesto antes de aceptar.
 
-Para enviarte un presupuesto ajustado necesitamos: metros cuadrados aproximados de la vivienda, número de estancias a pintar, estado general de las paredes (si hay humedad, grietas o manchas visibles), tipo de acabado que buscas y la localidad exacta en la Costa del Sol. Con esa información, en menos de 24 horas recibes un presupuesto detallado por partidas. Puedes enviarnos la información por WhatsApp al 633 915 898 o mediante el formulario de contacto de la web.
+Vivo fuera y el piso está cerrado. ¿Puedes pintarlo sin que yo vaya?
+
+Sí, lo hago a menudo. Cuadramos fechas, me dejas la llave o me dices quién la tiene, y te mando fotos del avance y del piso terminado. El presupuesto y la factura te llegan por correo.
+
+¿Cobras por horas o por metros?
+
+Por metros, y con el precio cerrado. Por horas no sabes lo que vas a pagar hasta el final, y si la obra se alarga lo pagas tú. Con el precio por metro, si tardo un día más es cosa mía.
+
+Me han dado un precio por debajo de 3 €/m². ¿Me fío?
+
+Pregunta qué entra. A ese precio no salen las cuentas con imprimación, dos manos y una pintura decente, así que algo de eso falta. En la costa se nota pronto: la humedad levanta en un invierno una pintura mala o mal agarrada.
+
+¿Trabajas en toda la Costa del Sol o solo en Málaga capital?
+
+Trabajo en Málaga capital y en Marbella, Torremolinos, Benalmádena, Fuengirola, Estepona, Mijas y Nerja, entre otras. Bajo a la costa desde 2012, así que la zona la conozco bien.
+
+¿Qué te tengo que mandar para que me des precio?
+
+Los metros del piso, cuántas habitaciones son, fotos de las paredes (sobre todo si hay manchas, grietas o humedad), si quieres pintar también terraza o puertas, y el pueblo. Con eso te mando en menos de 24 horas un presupuesto por partidas. Me lo puedes pasar por WhatsApp al 633 915 898 o por el formulario de la web.
 
 ### Artículos relacionados que pueden ayudarte
 
 [Pintor en Málaga y Costa del Sol: todos mis servicios](https://pintareformas.es/pintura-y-placas-yeso-malaga.html) [Precio de pintor en Marbella](https://pintareformas.es/pintor-marbella-precio.html) [Pintor económico en Granada](https://pintareformas.es/pintor-economico-granada.html) [Coste de una reforma integral](https://pintareformas.es/costo-reforma-integral.html)
 
-## Presupuesto gratuito en 24 horas — sin compromiso
+## Presupuesto gratuito en 24 horas: sin compromiso
 
 Mándame fotos por WhatsApp de lo que quieres pintar en Málaga o en la costa y te respondo con un precio detallado por escrito en 24 horas. Si es un piso de alquiler turístico, mira antes [pintar un piso de alquiler vacacional en la costa](https://pintareformas.es/pintar-piso-alquiler-vacacional-costa.html).
 
-[WhatsApp — Respuesta inmediata](https://wa.me/34633915898?text=Hola%2C%20quiero%20presupuesto%20de%20pintura%20econ%C3%B3mica%20en%20M%C3%A1laga) [Formulario de contacto](https://pintareformas.es/#contacto)
+[WhatsApp: Respuesta inmediata](https://wa.me/34633915898?text=Hola%2C%20quiero%20presupuesto%20de%20pintura%20econ%C3%B3mica%20en%20M%C3%A1laga) [Formulario de contacto](https://pintareformas.es/#contacto)
 
 Tel: **633 915 898** | info@pintareformas.es | Lun-Vie 8:00-19:00 · Sáb 9:00-14:00
 

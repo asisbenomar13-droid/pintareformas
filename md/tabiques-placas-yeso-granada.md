@@ -46,19 +46,19 @@ Qué tabique necesitas
 
 Para separar estancias, cerrar un hueco o hacer un vestidor. Es el más económico y el más rápido.
 
-🔎 Ideal si solo quieres dividir espacio.
+Ideal si solo quieres dividir espacio.
 
 ### Doble con aislamiento
 
 Doble placa y aislamiento dentro. Lo monto cuando se busca bajar el ruido de la escalera o de la habitación de al lado.
 
-🔎 Ideal entre dormitorios o pegado a una escalera.
+Ideal entre dormitorios o pegado a una escalera.
 
 ### Para baño o cocina
 
 En zonas con humedad uso placa pensada para ello, no la normal. Si hay que tocar también el techo o la pared del baño, lo presupuesto junto.
 
-🔎 Ideal en baños, cocinas y lavaderos.
+Ideal en baños, cocinas y lavaderos.
 
 Cómo lo hago
 
@@ -130,6 +130,6 @@ Mándame fotos y las medidas aproximadas por WhatsApp y te doy un precio orienta
 
 ¿Y cuánto me costaría a mí?
 
-Calcula el precio orientativo en 2 minutos — sin compromiso y sin que nadie te llame.
+Calcula el precio orientativo en 2 minutos, sin compromiso y sin que nadie te llame.
 
 [Calcular precio gratis →](https://pintareformas.es/calculadora.html)

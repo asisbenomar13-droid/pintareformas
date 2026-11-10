@@ -187,7 +187,7 @@ Los plazos son en días laborables y contando desde que se pica la primera pared
 | **Día 6** | Falso techo de placas de yeso, focos, rejuntado del azulejo y pintura del techo. |
 | **Día 7** | Sanitarios, mueble, grifería, mampara, silicona, limpieza y entrega. |
 
-**El día que nadie cuenta:** después de alicatar hay que esperar a que fragüe el cemento cola antes de meter los sanitarios. Es un día en el que no verás a nadie trabajando en tu casa y no es que nos hayamos ido: es que si se monta antes, el azulejo se mueve. Cuando alguien te promete un baño entero en tres días, ese día se lo está saltando.
+**El día que nadie cuenta:** después de alicatar hay que esperar a que fragüe el cemento cola antes de meter los sanitarios. Es un día en el que no verás a nadie trabajando en tu casa y no es que me haya ido: es que si se monta antes, el azulejo se mueve. Cuando alguien te promete un baño entero en tres días, ese día se lo está saltando.
 
 Y si es el único baño de la casa, dímelo antes de empezar. Dejo el inodoro puesto y funcionando hasta el último momento y lo vuelvo a poner el primero, así son 3 o 4 días sin él en vez de la semana entera.
 
@@ -222,7 +222,7 @@ Si a mitad de obra aparece algo que no se podía ver, como una tubería podrida 
 
 Presupuesto detallado por partidas, gratis y por escrito. Desde 2012 haciendo baños en Granada y en la costa de Málaga, con precio cerrado por escrito.
 
-[WhatsApp — te contesto hoy](https://wa.me/34633915898?text=Hola%20Asis%2C%20quiero%20presupuesto%20para%20reformar%20mi%20ba%C3%B1o) [Llamar al 633 915 898](tel:+34633915898)
+[WhatsApp, te contesto hoy](https://wa.me/34633915898?text=Hola%20Asis%2C%20quiero%20presupuesto%20para%20reformar%20mi%20ba%C3%B1o) [Llamar al 633 915 898](tel:+34633915898)
 
 O escríbeme a [info@pintareformas.es](mailto:info@pintareformas.es) · Granada capital, Armilla, La Zubia, Maracena, Motril, Almuñécar, Salobreña, Nerja, Marbella, Benalmádena, Torremolinos y Fuengirola.
 
@@ -260,6 +260,6 @@ Artículo publicado en mayo de 2026 y actualizado en agosto de 2026 · PintaRefo
 
 ¿Y cuánto me costaría a mí?
 
-Calcula el precio de pintar o reformar tu casa en 2 minutos — sin compromiso y sin que nadie te llame.
+Calcula el precio de pintar o reformar tu casa en 2 minutos, sin compromiso y sin que nadie te llame.
 
 [Calcular precio gratis →](https://pintareformas.es/calculadora.html)

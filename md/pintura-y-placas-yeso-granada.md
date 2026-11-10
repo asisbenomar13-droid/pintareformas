@@ -25,19 +25,19 @@ Pintura y placas de yeso en Granada: pintura interior desde 4 €/m², fachadas 
 
 ## Pintura, tabiques y falsos techos en Granada
 
-### Pintura Interior
+### Pintura interior
 
 Desde 4€/m²
 
 Paredes y techos con pintura de calidad. Imprimación incluida, dos manos y acabado perfecto.
 
-### Pintura Exterior y Fachadas
+### Pintura exterior y fachadas
 
 Desde 6€/m²
 
 Impermeabilizante, protección UV y acabados que aguantan el clima de Granada.
 
-### Pintura Decorativa
+### Pintura decorativa
 
 Desde 10€/m²
 
@@ -49,13 +49,13 @@ Desde 25€/m²
 
 Tabiques, falsos techos y trasdosados sin obra pesada. Limpio y rápido.
 
-### Falsos Techos LED
+### Falsos techos LED
 
 Desde 50€/m²
 
 El trabajo que más sorprende cuando se ve terminado. Placa de yeso con la luz LED integrada.
 
-### Reformas Integrales
+### Reformas integrales
 
 Presupuesto gratis
 
@@ -63,12 +63,12 @@ Baños, cocinas o la vivienda entera. Un precio cerrado, sin sorpresas al final.
 
 ## Precios de pintura y placas de yeso en Granada 2026
 
-Precios orientativos por metro cuadrado. El precio final lo pactamos juntos antes de empezar — y eso es lo que cobro.
+Precios orientativos por metro cuadrado. El precio final lo pactamos juntos antes de empezar, y eso es lo que cobro.
 
 | Servicio | Precio | Qué incluye |
 |---|---|---|
 | Pintura interior básica | Desde 4€/m² | Imprimación + 2 manos |
-| Pintura interior premium | 7 – 9 €/m² | Pintura alta gama + acabado perfecto |
+| Pintura interior de más calidad | 7 – 9 €/m² | Pintura de más calidad + buen acabado |
 | Pintura antimoho (baños) | Desde 5€/m² | Tratamiento preventivo incluido |
 | Pintura decorativa | Desde 10€/m² | Técnica + materiales especiales |
 | Estuco veneciano | Desde 18€/m² | 3 capas + pulido + cera |
@@ -78,7 +78,7 @@ Precios orientativos por metro cuadrado. El precio final lo pactamos juntos ante
 | Falso techo de placas de yeso | Desde 30€/m² | Instalación + pintura |
 | Falso techo con LED | Desde 50€/m² | Placa + instalación eléctrica LED |
 
-## Dónde Trabajamos en Granada
+## Dónde trabajo en Granada
 
 Granada Capital Albaicín / Sacromonte Armilla Maracena Atarfe Churriana de la Vega Motril Almuñécar Salobreña Loja Guadix Toda la Provincia
 
@@ -106,7 +106,7 @@ Dependiendo de lo que necesites, entra directo en [tabiques de placas de yeso](h
 
 Voy a ver la obra, mido y te paso un presupuesto cerrado por escrito. Si a mitad aparece algo que no se veía, una pared en mal estado o una viga fuera de sitio, te lo enseño y decides tú. Nada aparece en la factura sin que lo hayamos hablado antes.
 
-## Preguntas Frecuentes sobre Pintura en Granada
+## Preguntas frecuentes sobre pintura en Granada
 
 ¿Cuánto tiempo tarda pintar un piso de 80m²?
 
@@ -132,7 +132,7 @@ Primero el techo y las instalaciones, después las juntas y la imprimación, y l
 
 Siempre. Visita a domicilio, medición y presupuesto detallado completamente gratis y sin compromiso.
 
-## ¿Listo para Renovar tu Casa en Granada?
+## ¿Listo para renovar tu casa en Granada?
 
 Llámame hoy o escríbeme por WhatsApp. Voy a ver el trabajo sin cobrarte nada y te doy el precio ese mismo día.
 

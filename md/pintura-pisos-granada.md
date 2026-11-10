@@ -7,8 +7,8 @@ URL canónica: https://pintareformas.es/pintura-pisos-granada.html
 ---
 Pintar Piso · Granada 2026
 
-# Pintar un Piso en Granada —
-Precios Reales y Sin Sorpresas
+# Pintar un piso en Granada:
+precios reales y sin sorpresas
 
 Te explico cuánto cuesta pintar un piso en Granada en 2026, qué incluye y qué no, y por qué el precio varía tanto entre presupuestos.
 
@@ -162,13 +162,13 @@ Voy a ver el piso, mido y te doy el precio ese mismo día. Sin rodeos.
 
 ### Preparación
 
-Protegemos muebles y suelos, preparamos las paredes y lijamos lo necesario.
+Protejo muebles y suelos, preparo las paredes y lijo lo necesario.
 
 3
 
 ### Imprimación
 
-En paredes que lo necesitan aplicamos imprimación para que la pintura agarre bien.
+En paredes que lo necesitan aplico imprimación para que la pintura agarre bien.
 
 4
 
@@ -180,7 +180,7 @@ Dos manos con el tiempo de secado correcto entre ellas. Sin prisas.
 
 ### Limpieza y entrega
 
-Recogemos todo, retiramos los plásticos y te dejamos la casa lista para usarla.
+Recojo todo, retiro los plásticos y te dejo la casa lista para usarla.
 
 Cómo trabajo
 
@@ -188,7 +188,7 @@ Cómo trabajo
 
 Un piso vacío de 90 m² me lleva unos 3 días. Te digo la fecha de entrada, la de salida y el precio cerrado antes de empezar, y esos son los que valen. Tapo suelos y muebles, recojo cada tarde y el último día me llevo hasta el último plástico. Si aparece un desconchón o una junta mal al mes siguiente, vuelvo y lo repaso.
 
-Asis — pintor en Granada desde 2012
+Asis, pintor en Granada desde 2012
 
 Preguntas frecuentes
 
@@ -196,11 +196,11 @@ Preguntas frecuentes
 
 ### ¿Puedo quedarme en casa mientras pintan?
 
-Sí. Usamos pinturas de baja emisión que apenas huelen. Solo hay que ventilar bien las habitaciones mientras trabajamos y dejar que sequen correctamente. La mayoría de los clientes se quedan en casa sin problema.
+Sí. Uso pinturas de baja emisión que apenas huelen. Solo hay que ventilar bien las habitaciones mientras trabajo y dejar que sequen bien. La mayoría de los clientes se quedan en casa sin problema.
 
 ### ¿Mueven los muebles?
 
-Protegemos todo lo que hay en la habitación con plástico y cinta. Si hay muebles muy grandes o muy pesados, conviene apartarlos antes de que llegamos, pero lo que es manejable lo movemos nosotros.
+Protejo todo lo que hay en la habitación con plástico y cinta. Si hay muebles muy grandes o muy pesados, conviene apartarlos antes de que llegue, pero lo que es manejable lo muevo yo.
 
 ### ¿El presupuesto es gratis?
 
@@ -216,6 +216,6 @@ La única manera de saberlo con certeza es que vaya a verlo. Llámame o escríbe
 
 ¿Y cuánto me costaría a mí?
 
-Calcula el precio de pintar o reformar tu casa en 2 minutos — sin compromiso y sin que nadie te llame.
+Calcula el precio de pintar o reformar tu casa en 2 minutos, sin compromiso y sin que nadie te llame.
 
 [Calcular precio gratis →](https://pintareformas.es/calculadora.html)

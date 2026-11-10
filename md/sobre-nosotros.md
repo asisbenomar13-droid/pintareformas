@@ -7,7 +7,7 @@ URL canónica: https://pintareformas.es/sobre-nosotros.html
 
 Desde 2012 pintando casas y montando tabiques y falsos techos de placas de yeso en Granada y en la costa de Málaga. Aquí te cuento quién soy y cómo trabajo, para que sepas a quién estás llamando.
 
-Nuestra historia
+Mi historia
 
 ## Empecé solo en 2012 con una furgoneta y muchas ganas
 
@@ -15,9 +15,9 @@ Me llamo **Asis** y soy el fundador de PintaReformas. Llevo desde 2012 pintando 
 
 Al principio era yo solo. Un cliente, luego otro, y poco a poco fui creciendo por lo mismo de siempre: hacer bien el trabajo, cumplir lo que prometo y no dejar a nadie con una sorpresa al final de la factura.
 
-Hoy tenemos un equipo pequeño que trabaja con la misma filosofía que el primer día. Somos de los que vamos a ver el trabajo antes de dar un precio, usamos buenos materiales y dejamos la casa limpia cuando terminamos.
+Hoy, cuando la obra lo pide, traigo a gente de confianza que trabaja como yo. Soy de los que van a ver el trabajo antes de dar un precio, uso buenos materiales y dejo la casa limpia cuando termino.
 
-"Lo que más me piden los clientes es puntualidad, limpieza y que el precio sea el que dijimos. Las tres cosas las cumplimos — sin excusas."
+"Lo que más me piden los clientes es puntualidad, limpieza y que el precio sea el que dije. Las tres cosas las cumplo, sin excusas."
 
 Hablamos en **español**, claro y por escrito: lo que se dice en la visita es lo que queda en el presupuesto.
 
@@ -31,13 +31,13 @@ Te paso el presupuesto
 
 ### 9
 
-Ciudades donde trabajamos
+Ciudades donde trabajo
 
 ### Por escrito
 
 Precio cerrado
 
-Cómo trabajamos
+Cómo trabajo
 
 ## Lo que nos diferencia de verdad
 
@@ -49,39 +49,39 @@ Voy a ver el trabajo, doy el precio por escrito y ese es el que cobro. Sin "extr
 
 02
 
-### Trabajamos limpio
+### Trabajo limpio
 
-Protegemos muebles, suelos y todo lo que hay en la habitación. Cuando terminamos, recogemos y dejamos todo en orden.
+Protejo muebles, suelos y todo lo que hay en la habitación. Cuando termino, recojo y dejo todo en orden.
 
 03
 
-### Cumplimos los plazos
+### Cumplo los plazos
 
-Empezamos el día acordado y terminamos cuando dijimos. Si hay algún imprevisto, avisamos — no desaparecemos.
+Empiezo el día acordado y termino cuando dije. Si hay algún imprevisto, aviso, no desaparezco.
 
 04
 
-### Precio cerrado por escrito
+### Respondo de mi trabajo
 
-Si algo falla en lo que hicimos, volvemos y lo arreglamos. Sin discusiones y sin cobrarte nada más.
+Si algo falla en lo que hice, vuelvo y lo arreglo. Sin discusiones y sin cobrarte nada más.
 
 05
 
-### Respondemos rápido
+### Respondo rápido
 
-Llama o escribe por WhatsApp. Te contesto el mismo día — normalmente en minutos.
+Llama o escribe por WhatsApp. Te contesto el mismo día, normalmente en minutos.
 
 06
 
 ### Materiales de calidad
 
-Usamos pinturas y materiales buenos porque queremos que dure. No tiene sentido ahorrar en lo que va a fallar en un año.
+Uso pinturas y materiales buenos porque quiero que dure. No tiene sentido ahorrar en lo que va a fallar en un año.
 
 El equipo
 
 ## Quién está detrás de cada trabajo
 
-Somos un equipo pequeño — y eso es a propósito. Así controlamos la calidad de cada proyecto.
+Cuando la obra lo pide traigo a gente de confianza. Somos pocos a propósito: así controlo yo cada obra.
 
 A
 
@@ -95,7 +95,7 @@ Si me llamas, te cojo el teléfono yo. Si me escribes por WhatsApp, te contesto 
 
 Español
 
-[LinkedIn](https://www.linkedin.com/in/asis-benomar-924293249) [WhatsApp](https://wa.me/34633915898)
+[LinkedIn](https://www.linkedin.com/in/asis-benomar-924293249) [Facebook](https://www.facebook.com/profile.php?id=61596230133857) [WhatsApp](https://wa.me/34633915898)
 
 ## ¿Tienes un proyecto en mente?
 

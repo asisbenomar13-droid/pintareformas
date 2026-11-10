@@ -7,8 +7,8 @@ URL canónica: https://pintareformas.es/pintura-decorativa-granada.html
 ---
 Pintura Decorativa · Granada
 
-# Pintura Decorativa en Granada —
-Cuando Quieres Algo Diferente
+# Pintura decorativa en Granada:
+cuando quieres algo diferente
 
 Llevo desde 2012 aplicando estucos, efectos y acabados decorativos en Granada. Si estás cansado de paredes blancas lisas, esto es lo tuyo.
 
@@ -62,7 +62,7 @@ La pintura decorativa va mucho más allá de dar una mano de pintura y que el co
 
 No es magia, es oficio. Cada técnica tiene sus tiempos, sus materiales y su manera de aplicarse. Cuando se hace bien, una pared decorativa dura años y se mantiene perfecta. Cuando se hace deprisa o sin preparar bien la superficie, se nota en seguida: se agrieta, se descascarilla o simplemente no queda como se esperaba.
 
-En Granada trabajo con familias que quieren darle un giro a su salón, con estudios de diseño que necesitan acabados concretos, y con propietarios de apartamentos turísticos que buscan algo distinto. Cada proyecto es diferente y lo tratamos como tal. Si tienes una referencia o una idea en mente, cuéntamela y te digo qué es lo más viable.
+En Granada trabajo con familias que quieren darle un giro a su salón, con estudios de diseño que necesitan acabados concretos, y con propietarios de apartamentos turísticos que buscan algo distinto. Cada proyecto es diferente y lo trato como tal. Si tienes una referencia o una idea en mente, cuéntamela y te digo qué es lo más viable.
 
 Servicios
 
@@ -70,7 +70,7 @@ Servicios
 
 Estas son las técnicas que más aplico en Granada. Si lo que buscas no aparece aquí, pregúntame igualmente.
 
-### Estuco Veneciano
+### Estuco veneciano
 
 Desde 18€/m²
 
@@ -82,29 +82,51 @@ Desde 85€/m²
 
 Moderno, continuo, sin juntas. Ideal para suelos y paredes de baños y cocinas. Se puede aplicar sobre casi cualquier superficie sin necesidad de demoler lo que hay.
 
-### Efectos Decorativos
+### Efectos decorativos
 
 Desde 10€/m²
 
 Rayas, geométricos, envejecidos... lo que imagines, lo hablamos. Con la pintura y las herramientas correctas se pueden conseguir texturas muy distintas y originales.
 
-### Efecto Damasco
+### Efecto damasco
 
 Desde 10€/m²
 
-Pintura decorativa de acabado nacarado, con un brillo perlado que cambia según la luz. Queda muy bien en dormitorios y salones. Mira las fotos de arriba y dime qué te gusta.
+Pintura decorativa de acabado nacarado, con un brillo perlado que cambia según la luz. Queda muy bien en dormitorios y salones. Mira las fotos de arriba y la carta de colores, y dime qué te gusta.
 
-### Papel Pintado
+### Papel pintado
 
 Desde 12€/m²
 
 Lo coloco yo, sin burbujas ni juntas visibles. También retiro el antiguo y dejo la pared lista. Un buen papel en la pared correcta cambia toda la percepción de una habitación.
 
+Colores
+
 ## Carta de colores del efecto damasco
 
-Trabajo con el Damasco de Osaka. La base es plata y se colorea con sus esencias. Colores de la carta: Neutro (plata), Esencia 504, 529, 1, 14, 571, 530, 583, 527, 539, 533, 5, 584, 8, 581, 532, 582 y 521. También hay un oro que viene ya preparado.
+Trabajo con el Damasco de Osaka. La base es plata y se colorea con sus esencias, así que hay donde elegir. Estos son los colores de su carta.
+- Neutro (plata)
+- Esencia 504
+- Esencia 529
+- Esencia 1
+- Esencia 14
+- Esencia 571
+- Esencia 530
+- Esencia 583
+- Esencia 527
+- Esencia 539
+- Esencia 533
+- Esencia 5
+- Esencia 584
+- Esencia 8
+- Esencia 581
+- Esencia 532
+- Esencia 582
+- Esencia 521
 
-En pantalla los colores son orientativos: el damasco tiene brillo y cambia mucho con la luz. Antes de empezar te traigo la muestra de verdad para que la veas en tu pared. La carta original está en la web de Osaka: https://osaka.es/index.php/coleccion/metalizados/damasco/
+En pantalla los colores son orientativos: el damasco tiene brillo y cambia mucho con la luz. Antes de empezar te traigo la muestra de verdad para que la veas en tu pared. También hay un oro que viene ya preparado. Si quieres ver la carta original, está en la [web de Osaka](https://osaka.es/index.php/coleccion/metalizados/damasco/).
+
+[Dime qué color te gusta](https://wa.me/34633915898?text=Hola%20PintaReformas%2C%20me%20interesa%20el%20efecto%20damasco%20en%20este%20color%3A%20)
 
 Precios
 
@@ -170,6 +192,6 @@ Si tienes una referencia, una foto o simplemente una idea en la cabeza, llámame
 
 ¿Y cuánto me costaría a mí?
 
-Calcula el precio de pintar o reformar tu casa en 2 minutos — sin compromiso y sin que nadie te llame.
+Calcula el precio de pintar o reformar tu casa en 2 minutos, sin compromiso y sin que nadie te llame.
 
 [Calcular precio gratis →](https://pintareformas.es/calculadora.html)

@@ -12,37 +12,37 @@ Almuñécar tiene un clima muy suave todo el año, y eso está muy bien para viv
 Llevo desde 2012 trabajando aquí y he visto de todo: pintura que se levanta a los dos años por la sal, moho en las paredes de una casa que estuvo cerrada el invierno entero, y placa normal puesta en un baño sin ventilación en vez de placa hidrófuga, que es pedir problemas. Por eso lo primero que hago cuando voy a tu casa es mirar la pared y tocarla, no sacar la calculadora.
 
 **Te lo digo antes de que lo pagues:** la pintura de interior corriente pierde agarre pronto en una casa muy expuesta a la humedad del mar. Yo trabajo con producto pensado para costa, que cuesta más por bote y dura bastante más. No te vendo lo más caro por vender: si tu casa está a resguardo, te lo digo y nos ahorramos ese dinero.
-- **Pintura antimoho y con protección solar** — para las paredes que se llevan el sol de frente y el aire salado
-- **Fachadas con producto elástico** — tapa las fisuras finas y acompaña al muro cuando dilata con el calor, en vez de agrietarse encima
-- **Placa hidrófuga donde toca** — baños, cocinas y trasteros. Va en el presupuesto por escrito para que sepas qué placa estás pagando
-- **Recojo todos los días** — protejo muebles y suelos. Si el piso es de alquiler, lo dejo listo para entrar, no para limpiar tú detrás
-- **El precio que te digo es el que cobro** — materiales, mano de obra y días, todo por escrito antes de empezar
-- **Precio cerrado por escrito** — si algo se levanta o no aguanta, vuelvo y lo arreglo. Está escrito en el presupuesto
-- **Te contesto yo** — el mismo día casi siempre. La visita y el presupuesto son gratis y no te comprometen a nada
+- **Pintura antimoho y con protección solar**: para las paredes que se llevan el sol de frente y el aire salado
+- **Fachadas con producto elástico**: tapa las fisuras finas y acompaña al muro cuando dilata con el calor, en vez de agrietarse encima
+- **Placa hidrófuga donde toca**: baños, cocinas y trasteros. Va en el presupuesto por escrito para que sepas qué placa estás pagando
+- **Recojo todos los días**: protejo muebles y suelos. Si el piso es de alquiler, lo dejo listo para entrar, no para limpiar tú detrás
+- **El precio que te digo es el que cobro**: materiales, mano de obra y días, todo por escrito antes de empezar
+- **Precio cerrado por escrito**: si algo se levanta o no aguanta, vuelvo y lo arreglo. Está escrito en el presupuesto
+- **Te contesto yo**: el mismo día casi siempre. La visita y el presupuesto son gratis y no te comprometen a nada
 
 ## Lo que más me piden en Almuñécar
 
 Esto es lo que más sale en Almuñécar, con el precio de partida de cada cosa. Son precios reales de tarifa, no ganchos.
 
-### Pintura Interior
+### Pintura interior
 
 Paredes, techos y molduras con pinturas acrílicas antimoho. Especial para alta humedad subtropical. Acabados mate, satinado y liso perfecto.
 
 Desde 4 €/m²
 
-### Pintura Decorativa
+### Pintura decorativa
 
 Estucos, efectos marmolados y técnicas hechas a mano para darle un aire distinto a tu casa. El microcemento va aparte, desde 85 €/m².
 
 Desde 10 €/m²
 
-### Estuco Veneciano
+### Estuco veneciano
 
 Un acabado que impresiona de verdad y aguanta muy bien la humedad del mar. Queda genial en salones.
 
 Desde 18 €/m²
 
-### Pintura Exterior y Fachadas
+### Pintura exterior y fachadas
 
 Impermeabilización elástica con protección UV y anti-salinidad. Sistema bicapa con imprimación específica para el ambiente marino de Almuñécar.
 
@@ -54,7 +54,7 @@ División de espacios con placa estándar o hidrófuga. Instalación limpia, sin
 
 Desde 25 €/m²
 
-### Falso Techo con LED
+### Falso techo con LED
 
 Falso techo de placas de yeso con tira de LED empotrada. Cambia por completo una habitación. Eliges la luz cálida o fría, como más te guste.
 
@@ -66,13 +66,13 @@ Para esconder tubos, conductos del aire y cables sin picar nada, y de paso se oy
 
 Desde 30 €/m²
 
-### Papel Pintado
+### Papel pintado
 
 Colocación profesional de papel pintado vinílico, no tejido o de fibra natural. Gran catálogo de texturas y motivos para cada estilo.
 
 Desde 12 €/m²
 
-## Tabla de Precios 2026 — Almuñécar
+## Tabla de precios 2026 : Almuñécar
 
 Precios orientativos para trabajos en Almuñécar y la Costa Tropical. El presupuesto final se elabora tras visita gratuita en tu domicilio.
 
@@ -87,7 +87,7 @@ Precios orientativos para trabajos en Almuñécar y la Costa Tropical. El presup
 | Falso techo con LED | Falso techo + iluminación LED empotrada perimetral o central | Desde 50 €/m² |
 | Papel pintado | Preparación de soporte + colocación profesional, material aparte | Desde 12 €/m² |
 
-**Ejemplo orientativo:** Pintura completa de apartamento 65 m² en Almuñécar (salón + 2 hab. + cocina + baño): paredes y techos con pintura antimoho, imprimación y 2 manos — precio aproximado **520-650 €** todo incluido, IVA a parte. Presupuesto exacto tras visita gratuita.
+**Ejemplo orientativo:** Pintura completa de apartamento 65 m² en Almuñécar (salón + 2 hab. + cocina + baño): paredes y techos con pintura antimoho, imprimación y 2 manos, precio aproximado **520-650 €** todo incluido, IVA a parte. Presupuesto exacto tras visita gratuita.
 
 ## Por dónde me muevo por aquí
 
@@ -111,7 +111,7 @@ Otívar Interior Costa Tropical
 
 Si tu pueblo no está en la lista, llámame igual. No digo que no por estar un poco más lejos, pero para un trabajo de medio día te diré con franqueza si te compensa o no.
 
-## Cómo trabajamos tú y yo
+## Cómo trabajo tú y yo
 
 Siempre igual, para que sepas en todo momento qué va a pasar y cuánto vas a pagar.
 
@@ -119,7 +119,7 @@ Siempre igual, para que sepas en todo momento qué va a pasar y cuánto vas a pa
 
 ### 1. Me escribes
 
-Llámanos al [633 915 898](tel:+34633915898), escríbenos por WhatsApp o manda un email a [info@pintareformas.es](mailto:info@pintareformas.es). Te contesto yo. Si estoy subido a una escalera, te llamo en cuanto bajo.
+Llámame al [633 915 898](tel:+34633915898), escríbeme por WhatsApp o manda un email a [info@pintareformas.es](mailto:info@pintareformas.es). Te contesto yo. Si estoy subido a una escalera, te llamo en cuanto bajo.
 
 2
 
@@ -129,21 +129,21 @@ Voy yo a tu casa en Almuñécar, mido y miro cómo está la pared de verdad. Es 
 
 3
 
-### 3. Elegimos materiales y cerramos precio
+### 3. Elegimos materiales y cierro precio
 
 Te enseño las opciones que aguantan aquí y lo que cuesta cada una. Eliges tú. Lo que firmamos es precio cerrado: sin "esto no estaba incluido" al final.
 
 4
 
-### 4. Empezamos el día que acordamos
+### 4. Empiezo el día que acordamos
 
-Protejo muebles y suelos y recojo cada tarde. Si aparece algo que no estaba previsto —una humedad detrás de un armario, por ejemplo— te llamo antes de tocarlo.
+Protejo muebles y suelos y recojo cada tarde. Si aparece algo que no estaba previsto, una humedad detrás de un armario, por ejemplo, te llamo antes de tocarlo.
 
 5
 
 ### 5. Lo revisamos juntos
 
-Damos una vuelta por la casa antes de que pagues el final. Si hay un remate que no te convence, lo arreglo. El precio te lo dejo cerrado por escrito.
+Doy una vuelta por la casa antes de que pagues el final. Si hay un remate que no te convence, lo arreglo. El precio te lo dejo cerrado por escrito.
 
 ## Pintor en Almuñécar : lo que me encuentro casa por casa
 
@@ -159,7 +159,7 @@ En Almuñécar no hay un solo tipo de cliente. Hay quien vive aquí todo el año
 
 ## Tabiques y falsos techos en Almuñécar
 
-En apartamentos de costa las placas de yeso laminado se usan sobre todo para sacar una habitación más de un salón grande —tabique simple desde 25 €/m², doble desde 35 €/m² si quieres aislamiento del ruido— y para bajar techos y esconder los conductos del aire acondicionado sin picar obra: desde 30 €/m² el techo básico.
+En apartamentos de costa las placas de yeso laminado se usan sobre todo para sacar una habitación más de un salón grande, tabique simple desde 25 €/m², doble desde 35 €/m² si quieres aislamiento del ruido, y para bajar techos y esconder los conductos del aire acondicionado sin picar obra: desde 30 €/m² el techo básico.
 
 Lo que más ha crecido son los [falsos techos de placas de yeso con LED](https://pintareformas.es/falsos-techos-led-granada.html), desde 50 €/m² con la luz puesta. En un salón que se va a fotografiar para alquilarlo, cambia la sensación entera de la habitación sin tocar una sola pared.
 
@@ -175,7 +175,7 @@ No hago fontanería ni instalación eléctrica de obra nueva, no toco estructura
 
 ## Lo que dicen de mí en Google
 
-Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. — **Asis**
+Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. , **Asis**
 
 ★★★★★
 
@@ -207,7 +207,7 @@ Lo suyo es octubre o marzo, cuando el piso está vacío y no pierdes reservas. U
 
 ### ¿Cuánto me costaría pintar un apartamento de 65 m² en Almuñécar?
 
-Con pintura interior desde 4 €/m², un apartamento tipo de 65 m² (salón, dos habitaciones, cocina y baño) suele moverse entre 520 y 650 €, IVA aparte. Sube si hay que quitar gotelé, tratar humedades o si eliges pintura premium, que va de 7 a 9 €/m². Voy a verlo, te lo paso por escrito y ese es el precio que cobro.
+Con pintura interior desde 4 €/m², un apartamento tipo de 65 m² (salón, dos habitaciones, cocina y baño) suele moverse entre 520 y 650 €, IVA aparte. Sube si hay que quitar gotelé, tratar humedades o si eliges pintura de más calidad, que va de 7 a 9 €/m². Voy a verlo, te lo paso por escrito y ese es el precio que cobro.
 
 ### ¿Vas también a La Herradura y Salobreña?
 

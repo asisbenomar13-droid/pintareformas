@@ -16,7 +16,7 @@ Soy Asis. Llevo desde 2012 pintando en la costa y buena parte de lo que hago son
 
 En resumen
 
-Pinto apartamentos de alquiler vacacional en Nerja, Marbella, Fuengirola y Torremolinos entre reserva y reserva. Pintura lavable premium de 7 a 9 €/m², techos desde 4 €/m² y lacado de puertas desde 90 € por puerta. Soy Asis (PintaReformas), desde 2012, y entro con llave si no estás.
+Pinto apartamentos de alquiler vacacional en Nerja, Marbella, Fuengirola y Torremolinos entre reserva y reserva. Pintura lavable de más calidad de 7 a 9 €/m², techos desde 4 €/m² y lacado de puertas desde 90 € por puerta. Soy Asis (PintaReformas), desde 2012, y entro con llave si no estás.
 
 [633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
 
@@ -34,7 +34,7 @@ Un piso de alquiler vacacional no se pinta como una casa. En una casa la pared l
 
 Eso no se arregla pintando más veces. Se arregla pintando **con otro criterio**: otro tipo de pintura, otro acabado y unos cuantos detalles en las zonas que se comen todo el desgaste. Te cuento cómo lo hago yo, cuánto cuesta y qué cosas te puedes ahorrar tranquilamente.
 
-Dormitorio en Nerja — acabado lavable pensado para aguantar temporada tras temporada
+Dormitorio en Nerja, acabado lavable pensado para aguantar temporada tras temporada
 
 La realidad del desgaste
 
@@ -76,8 +76,8 @@ Lo que pongo en apartamentos turísticos es **plástica lavable de gama alta en 
 
 | Zona del apartamento | Lo que pongo | Precio |
 |---|---|---|
-| Dormitorios y salón | Plástica lavable premium, mate sedoso | **7 – 9 €/m²** |
-| Pasillo, recibidor y escalera | Lavable premium satinada (aguanta el roce de maletas) | **7 – 9 €/m²** |
+| Dormitorios y salón | Plástica lavable de más calidad, mate sedoso | **7 – 9 €/m²** |
+| Pasillo, recibidor y escalera | Lavable de más calidad, satinada (aguanta el roce de maletas) | **7 – 9 €/m²** |
 | Baño y cocina | Pintura antihumedad / antimoho | **6 €/m²** |
 | Techos | Plástica mate blanca (ahí no roza nadie) | **4 €/m²** |
 | Puertas y marcos | Lacado con esmalte al agua, sin olor | **Desde 90 €/puerta** |
@@ -143,7 +143,7 @@ Prefiero perder un trabajo a que pagues por algo que no te va a devolver ni un e
 - **Alisar el gotelé de todo el piso solo "porque queda mejor".** Si el gotelé está sano y bien pintado, el huésped no se fija. Alisa cuando ya vayas a hacer una reforma en serio, no en agosto con la temporada encima.
 - **Pintar encima de una mancha de humedad.** Vuelve. Siempre vuelve, y normalmente en mitad de la temporada. Primero se busca de dónde entra el agua.
 
-Cocina en Torremolinos — acabados fáciles de limpiar y de mantener entre inquilinos
+Cocina en Torremolinos, acabados fáciles de limpiar y de mantener entre inquilinos
 
 Costa
 
@@ -191,7 +191,7 @@ Una **plástica lavable de gama alta** en mate sedoso o satinado. El mate normal
 
 ### ¿Cuánto cuesta repintar un apartamento turístico completo?
 
-Con lavable premium a 7 – 9 €/m², un apartamento de 60 m² suele salir entre **1.050 y 1.950 €**, y uno de 90 m² entre **1.650 y 2.850 €**. Un repaso de zonas marcadas, sin pintar el piso entero, arranca en 250-350 €. Voy, lo mido y te doy el precio cerrado por escrito antes de tocar nada.
+Con lavable de más calidad a 7 – 9 €/m², un apartamento de 60 m² suele salir entre **1.050 y 1.950 €**, y uno de 90 m² entre **1.650 y 2.850 €**. Un repaso de zonas marcadas, sin pintar el piso entero, arranca en 250-350 €. Voy, lo mido y te doy el precio cerrado por escrito antes de tocar nada.
 
 ### ¿Haces factura para gestoras y propietarios extranjeros?
 
@@ -212,6 +212,6 @@ Mándame cuatro fotos y las fechas del hueco entre reservas. Te digo si entro y 
 
 ¿Y cuánto me costaría a mí?
 
-Calcula el precio de pintar tu apartamento en 2 minutos — sin compromiso y sin que nadie te llame.
+Calcula el precio de pintar tu apartamento en 2 minutos, sin compromiso y sin que nadie te llame.
 
 [Calcular precio gratis →](https://pintareformas.es/calculadora.html)

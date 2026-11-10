@@ -7,7 +7,7 @@ URL canónica: https://pintareformas.es/lacado-puertas-granada.html
 ---
 Lacado de puertas · Granada
 
-# Lacado de Puertas en Granada:
+# Lacado de puertas en Granada:
 de sapelly oscuro a blanco
 
 Soy Asis. Si tu piso tiene esas puertas de sapelly oscuro de los años 80 y 90, no hace falta cambiarlas: las laco en blanco y el piso parece otro. Por menos de la mitad de lo que cuesta poner puertas nuevas.
@@ -20,9 +20,9 @@ Lacar una puerta en Granada cuesta entre 80 y 150 €, con marco y jambas inclui
 
 [633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
 
-Es de los trabajos más agradecidos que hago: llego a un piso con las puertas marrón oscuro de toda la vida, y me voy dejándolas blancas, lisas y con un acabado de fábrica. La casa gana una luz que no te imaginas — muchas veces el cliente me dice que parece que hemos tirado un tabique, y solo hemos cambiado el color de las puertas.
+Es de los trabajos más agradecidos que hago: llego a un piso con las puertas marrón oscuro de toda la vida, y me voy dejándolas blancas, lisas y con un acabado de fábrica. La casa gana una luz que no te imaginas, muchas veces el cliente me dice que parece que he tirado un tabique, y solo he cambiado el color de las puertas.
 
-Y te voy a ser honesto, como siempre: no todas las puertas merecen lacado. Si la madera está hinchada por humedad o el golpe es muy grande, a veces compensa más cambiar esa puerta. Cuando venga a verlas te diré puerta por puerta cuáles merecen la pena — llevo desde 2012 haciéndolo y no me gusta cobrar por trabajos que no lucen.
+Y te voy a ser honesto, como siempre: no todas las puertas merecen lacado. Si la madera está hinchada por humedad o el golpe es muy grande, a veces compensa más cambiar esa puerta. Cuando venga a verlas te diré puerta por puerta cuáles merecen la pena, llevo desde 2012 haciéndolo y no me gusta cobrar por trabajos que no lucen.
 
 Las cuentas claras
 
@@ -94,7 +94,7 @@ Si la puerta está sana, lacar cuesta menos de la mitad y la madera antigua suel
 
 Un piso completo, 3-4 días entre lijado, fondo y manos de laca. Y sí, puedes seguir viviendo en casa: trabajo por zonas para molestar lo mínimo.
 
-## ¿Les damos una segunda vida a tus puertas?
+## ¿Les doy una segunda vida a tus puertas?
 
 Mándame una foto de tus puertas por WhatsApp y te digo si merecen lacado. Presupuesto gratis y precio cerrado por puerta.
 
@@ -104,6 +104,6 @@ Mándame una foto de tus puertas por WhatsApp y te digo si merecen lacado. Presu
 
 ¿Y cuánto me costaría a mí?
 
-Calcula el precio orientativo en 2 minutos — sin compromiso y sin que nadie te llame.
+Calcula el precio orientativo en 2 minutos, sin compromiso y sin que nadie te llame.
 
 [Calcular precio gratis →](https://pintareformas.es/calculadora.html)

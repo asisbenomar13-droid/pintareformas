@@ -1,4 +1,4 @@
-# Pintor y placas de yeso en Nerja | precio cerrado por escrito
+# Pintor y placas de yeso en Nerja, precio cerrado
 
 > Soy Asis, pintor y montador de placas de yeso en Nerja desde 2012. Pinto tu piso entre reservas, precio cerrado por escrito. Llámame al 633 915 898.
 
@@ -7,56 +7,56 @@ URL canónica: https://pintareformas.es/localidades/nerja.html
 ---
 [Inicio](https://pintareformas.es/) › [Localidades](https://pintareformas.es/localidades/) › Nerja
 
-# Pintor en Nerja desde 2012 — precio cerrado por escrito
+# Pintor en Nerja desde 2012: precio cerrado por escrito
 
-Soy Asis. Llevo desde 2012 pintando casas y haciendo reformas en Nerja y la Costa Tropical Oriental. Trabajo limpio, te doy precio cerrado **por escrito** antes de empezar, y uso pinturas que aguantan de verdad el salitre y el sol de aquí — no cualquier cosa que se caiga en un año.
+Soy Asis. Llevo desde 2012 pintando casas y haciendo reformas en Nerja y la Costa Tropical Oriental. Trabajo limpio, te doy precio cerrado **por escrito** antes de empezar, y uso pinturas que aguantan de verdad el salitre y el sol de aquí, no cualquier cosa que se caiga en un año.
 
-Dormitorio en Nerja — pintura con tratamiento especial para clima costero
+Dormitorio en Nerja, pintura con tratamiento especial para clima costero
 
-En Nerja desde 2012. La costa tiene sus manías — la humedad, la sal, el sol directo. He aprendido qué materiales aguantan aquí y cuáles no. Si algo no queda bien cuando termino, vuelvo y lo arreglo. Eso lo dejo por escrito.
+En Nerja desde 2012. La costa tiene sus manías, la humedad, la sal, el sol directo. He aprendido qué materiales aguantan aquí y cuáles no. Si algo no queda bien cuando termino, vuelvo y lo arreglo. Eso lo dejo por escrito.
 
 ## Por qué la gente de Nerja me llama
-- ✅ **Trato directo conmigo:** en Nerja hay mucho residente extranjero y mucho turista que no se entiende bien con los gremios de aquí. Conmigo lo hablamos claro, por WhatsApp o por teléfono.
-- ✅ **El precio que te digo es el que te cobro:** nada de "esto era más" ni "eso otro no estaba incluido". Si aparece algo, te llamo antes de tocarlo. Sin sorpresas al final.
-- ✅ **Aquí la pintura barata no aguanta:** el salitre del mar, el sol de la Costa Tropical y la humedad se la comen en poco tiempo. Sé qué pinturas funcionan de verdad en primera línea de playa y cuáles no llegan al segundo año. No te vendo lo más caro, te vendo lo que dura.
-- ✅ **Dejo la casa como me la encuentro:** protejo muebles y suelos, recojo todos los días. Lo digo especialmente para los apartamentos turísticos — sé que no quieres encontrarte polvo ni desorden entre temporadas.
-- ✅ **Si algo no queda como hablamos, me llamas:** me acerco y lo miro. Sin excusas.
-- ✅ **Hablas conmigo todo el rato:** no hay intermediarios, no hay encargados que no saben. Soy yo desde el primer mensaje hasta el último día de obra.
+- **Trato directo conmigo:** en Nerja hay mucho residente extranjero y mucho turista que no se entiende bien con los gremios de aquí. Conmigo lo hablamos claro, por WhatsApp o por teléfono.
+- **El precio que te digo es el que te cobro:** nada de "esto era más" ni "eso otro no estaba incluido". Si aparece algo, te llamo antes de tocarlo. Sin sorpresas al final.
+- **Aquí la pintura barata no aguanta:** el salitre del mar, el sol de la Costa Tropical y la humedad se la comen en poco tiempo. Sé qué pinturas funcionan de verdad en primera línea de playa y cuáles no llegan al segundo año. No te vendo lo más caro, te vendo lo que dura.
+- **Dejo la casa como me la encuentro:** protejo muebles y suelos, recojo todos los días. Lo digo especialmente para los apartamentos turísticos, sé que no quieres encontrarte polvo ni desorden entre temporadas.
+- **Si algo no queda como hablamos, me llamas:** me acerco y lo miro. Sin excusas.
+- **Hablas conmigo todo el rato:** no hay intermediarios, no hay encargados que no saben. Soy yo desde el primer mensaje hasta el último día de obra.
 
 ## Por dónde me muevo en Nerja
 
 Del Balcón de Europa a Maro, paso por todo. Estos son los sitios donde más trabajos hago:
-- 🏛️ **Balcón de Europa / Centro de Nerja** — apartamentos clásicos y pisos de toda la vida con paredes que llevan muchas capas encima
-- 🌿 **Capistrano** — urbanización muy popular entre residentes ingleses, me llaman bastante para reformas completas
-- 🏖️ **Burriana** — apartamentos cerca de la playa, sobre todo para renovar entre temporadas de alquiler
-- 🌊 **Torrecilla** — pisos de segunda residencia y chalets pequeños, mucho cliente que viene en verano y quiere dejarlo bien
-- 🏝️ **Maro** — casas con carácter, algunas con mucha historia, hay que saber tratar las paredes antiguas
-- 🌴 **Calahonda** — zona tranquila, chalets y casas de campo con fachadas que sufren mucho el sol
-- ⛰️ **Frigiliana / Torrox Costa** — también llego, lo hablo si me escribes
+- **Balcón de Europa / Centro de Nerja**: apartamentos clásicos y pisos de toda la vida con paredes que llevan muchas capas encima
+- **Capistrano**: urbanización muy popular entre residentes ingleses, me llaman bastante para reformas completas
+- **Burriana**: apartamentos cerca de la playa, sobre todo para renovar entre temporadas de alquiler
+- **Torrecilla**: pisos de segunda residencia y chalets pequeños, mucho cliente que viene en verano y quiere dejarlo bien
+- **Maro**: casas con carácter, algunas con mucha historia, hay que saber tratar las paredes antiguas
+- **Calahonda**: zona tranquila, chalets y casas de campo con fachadas que sufren mucho el sol
+- **Frigiliana / Torrox Costa**: también llego, lo hablo si me escribes
 
 Si tu zona no la ves aquí, llámame igual. No digo que no por estar un poco más lejos.
 
 ## Lo que más me piden aquí
 
-### 🎨 Pintura de apartamentos para alquilar
+### Pintura de apartamentos para alquilar
 
-Desde 4€/m². Es lo que más hago en Nerja — gente que tiene su piso o apartamento para alquiler vacacional y necesita dejarlo como nuevo antes de la temporada. Un piso de 70m² lo tengo en 3-5 días, sin que pierdas reservas. Cómo organizo el trabajo entre huéspedes lo cuento en [pintar un piso de alquiler vacacional en la costa](https://pintareformas.es/pintar-piso-alquiler-vacacional-costa.html).
+Desde 4€/m². Es lo que más hago en Nerja, gente que tiene su piso o apartamento para alquiler vacacional y necesita dejarlo como nuevo antes de la temporada. Un piso de 70m² lo tengo en 3-5 días, sin que pierdas reservas. Cómo organizo el trabajo entre huéspedes lo cuento en [pintar un piso de alquiler vacacional en la costa](https://pintareformas.es/pintar-piso-alquiler-vacacional-costa.html).
 
-### 🏢 Fachadas y pintura exterior frente al mar
+### Fachadas y pintura exterior frente al mar
 
-Desde 6€/m². Con el salitre y el sol directo de Nerja, la pintura barata dura poco. Uso productos específicos para ambientes marinos — y antes de darte precio te explico por qué uno cuesta más que otro y qué diferencia hace en la práctica.
+Desde 6€/m². Con el salitre y el sol directo de Nerja, la pintura barata dura poco. Uso productos específicos para ambientes marinos, y antes de darte precio te explico por qué uno cuesta más que otro y qué diferencia hace en la práctica.
 
-### 💡 Falsos techos con LED
+### Falsos techos con LED
 
-Desde 50€/m² con luz instalada. Cada vez me lo piden más — cambia una habitación entera sin tocar ni una pared. Limpio, rápido y con acabado que parece más caro de lo que es.
+Desde 50€/m² con luz instalada. Cada vez me lo piden más, cambia una habitación entera sin tocar ni una pared. Limpio, rápido y con acabado que parece más caro de lo que es.
 
-### ✨ Pintura decorativa y papel pintado
+### Pintura decorativa y papel pintado
 
 Estuco veneciano desde 18€/m² · papel pintado desde 12€/m². Muchos clientes de Capistrano y Balcón de Europa quieren algo diferente, no solo blanco. Si tienes idea de lo que buscas, lo hablamos; si no, te propongo yo.
 
-### 🏠 Reformas de baño y cocina enteras
+### Reformas de baño y cocina enteras
 
-Baño desde 2.000€ · cocina desde 3.000€. Placas de yeso, pintura y acabados — lo llevo todo yo. Así no andas tú coordinando a tres personas distintas que se echan la culpa entre ellas.
+Baño desde 2.000€ · cocina desde 3.000€. Placas de yeso, pintura y acabados, lo llevo todo yo. Así no andas tú coordinando a tres personas distintas que se echan la culpa entre ellas.
 
 ## "Pero tú vienes desde Granada, ¿no me sale más caro?"
 
@@ -66,25 +66,25 @@ Para trabajos muy pequeños (repasar una mano, pintar una habitación suelta), t
 
 ## Cómo trabajamos tú y yo
 
-### 📱 1. Me escribes
+### 1. Me escribes
 
-WhatsApp, llamada o email — lo que te sea más fácil. Te contesto yo, no nadie en mi nombre. Si estoy en obra, te llamo en cuanto paro.
+WhatsApp, llamada o email, lo que te sea más fácil. Te contesto yo, no nadie en mi nombre. Si estoy en obra, te llamo en cuanto paro.
 
-### 🚗 2. Me paso por tu casa
+### 2. Me paso por tu casa
 
-Quedamos, miro lo que hay que hacer, medimos y lo hablamos. Es gratis y no te comprometes a nada.
+Quedamos, miro lo que hay que hacer, mido y lo hablamos. Es gratis y no te comprometes a nada.
 
-### 📄 3. Te paso el presupuesto por escrito
+### 3. Te paso el presupuesto por escrito
 
 Normalmente el mismo día o al siguiente. Te pongo todo: materiales, mano de obra y los días que voy a tardar. Sin letra pequeña. Si te encaja, seguimos. Si no, sin malos rollos.
 
-### 🔨 4. Empezamos cuando tú me digas
+### 4. Empiezo cuando tú me digas
 
-Te marco los días y te aviso si hay cualquier cambio. Si aparece algo no previsto — una humedad, una tubería rara, lo que sea — te llamo antes de tocarlo.
+Te marco los días y te aviso si hay cualquier cambio. Si aparece algo no previsto, una humedad, una tubería rara, lo que sea, te llamo antes de tocarlo.
 
-### ✅ 5. Vemos la obra juntos al acabar
+### 5. Vemos la obra juntos al acabar
 
-Damos una vuelta por todo. Si hay algo que no te convence, lo arreglo antes de cobrar el final. Siempre.
+Doy una vuelta por todo. Si hay algo que no te convence, lo arreglo antes de cobrar el final. Siempre.
 
 ## Pintor en Nerja: lo que me encuentro casi siempre
 
@@ -92,15 +92,15 @@ Nerja no es una ciudad de bloques nuevos. Es mezcla: piso de toda la vida donde 
 
 En la vivienda antigua lo primero es el **gotelé**. Muchos pisos del centro lo llevan y encima varias manos de pintura de distintos dueños. Alisar eso no es dar una mano por encima: hay que plastecer, lijar e imprimar bien, y ahí es donde se nota si el que lo hizo tenía prisa. Si te interesa el detalle, lo explico en [quitar gotelé y alisar paredes](https://pintareformas.es/quitar-gotele-alisar-paredes-granada.html).
 
-En la vivienda cerrada medio año el problema es otro: **humedad de condensación**. Casa cerrada, sin ventilar, con el mar a un paso — vuelves en junio y te encuentras manchas negras en las esquinas de los dormitorios y detrás de los armarios. Pintar por encima es tirar el dinero, vuelve a salir en el mismo sitio. Primero se seca y se trata, y luego se pinta. Lo mismo pasa en baños sin ventana; tengo escrito cómo lo resuelvo en [reparación de humedades](https://pintareformas.es/reparacion-humedades-granada.html).
+En la vivienda cerrada medio año el problema es otro: **humedad de condensación**. Casa cerrada, sin ventilar, con el mar a un paso, vuelves en junio y te encuentras manchas negras en las esquinas de los dormitorios y detrás de los armarios. Pintar por encima es tirar el dinero, vuelve a salir en el mismo sitio. Primero se seca y se trata, y luego se pinta. Lo mismo pasa en baños sin ventana; tengo escrito cómo lo resuelvo en [reparación de humedades](https://pintareformas.es/reparacion-humedades-granada.html).
 
-Y en las **fachadas y terrazas** manda el sol y la sal. Aquí el poniente pega directo casi todo el día en muchas orientaciones, y la sal en suspensión ataca el paramento. Por eso en exterior no pinto con lo mismo que en un interior de Granada: son productos distintos, con otro precio y otra duración. Desde 6 €/m², y te cuento las dos opciones antes de que decidas — más en [pintura de fachadas y exteriores](https://pintareformas.es/pintura-exterior-fachadas-granada.html).
+Y en las **fachadas y terrazas** manda el sol y la sal. Aquí el poniente pega directo casi todo el día en muchas orientaciones, y la sal en suspensión ataca el paramento. Por eso en exterior no pinto con lo mismo que en un interior de Granada: son productos distintos, con otro precio y otra duración. Desde 6 €/m², y te cuento las dos opciones antes de que decidas, más en [pintura de fachadas y exteriores](https://pintareformas.es/pintura-exterior-fachadas-granada.html).
 
 ## Tabiques y falsos techos en Nerja
 
 Las placas de yeso laminado en la costa se usan mucho para tres cosas concretas. Una: separar un salón grande y sacar un dormitorio más, que en un piso de alquiler cambia el precio por noche. Tabique simple desde 25 €/m², doble desde 35 €/m² si quieres que no se oiga al vecino de al lado.
 
-Dos: bajar un techo para esconder instalaciones — el aire acondicionado, los conductos, el cableado — sin picar nada. Falso techo básico desde 30 €/m². Y tres, la que más me piden en apartamentos que se anuncian con fotos: [falsos techos con LED](https://pintareformas.es/falsos-techos-led-granada.html) desde 50 €/m² con la luz ya instalada. Un salón cambia entero sin tocar una sola pared.
+Dos: bajar un techo para esconder instalaciones, el aire acondicionado, los conductos, el cableado, sin picar nada. Falso techo básico desde 30 €/m². Y tres, la que más me piden en apartamentos que se anuncian con fotos: [falsos techos con LED](https://pintareformas.es/falsos-techos-led-granada.html) desde 50 €/m² con la luz ya instalada. Un salón cambia entero sin tocar una sola pared.
 
 Un aviso honesto sobre las placas en primera línea: en zonas de mucha humedad hay que poner placa hidrófuga, no la normal. Si alguien te da un precio muy bajo, pregúntale qué placa lleva. Yo te lo pongo por escrito en el presupuesto.
 
@@ -122,9 +122,9 @@ Si tienes otra propiedad en la zona, me muevo por toda la costa: [pintor y placa
 
 No hago fontanería ni electricidad de obra nueva, no toco estructura y no me meto en trabajos de altura con andamio colgante en edificios altos. Tampoco hago "el pintado rápido de un día" en pisos que necesitan preparación de verdad: prefiero decirte que no antes que dejarte un trabajo que se pela en un año y llevar yo la fama.
 
-## 📱 Pídeme presupuesto para tu casa en Nerja
+## Pídeme presupuesto para tu casa en Nerja
 
-**WhatsApp / llamada:** [633 915 898](tel:+34633915898) — te respondo yo mismo
+**WhatsApp / llamada:** [633 915 898](tel:+34633915898): te respondo yo mismo
 
 **Email:** [info@pintareformas.es](mailto:info@pintareformas.es)
 
@@ -142,13 +142,13 @@ Sí, es lo que más hago aquí. Me dices el hueco que tienes libre y organizo la
 
 En primera línea no vale cualquier plástica barata: el aire salino la levanta en un par de años. Para exteriores e interiores muy expuestos uso pinturas pensadas para ambiente marino, con más resistencia a la humedad y al sol. Cuestan más por bote, pero te ahorran repintar cada dos años. Antes de darte precio te explico las dos opciones y decides tú.
 
-### Tengo el piso en Nerja y yo vivo fuera de España, ¿cómo lo hacemos?
+### Tengo el piso en Nerja y yo vivo fuera de España, ¿cómo lo hago?
 
 Pasa mucho en Nerja. Lo hablamos por WhatsApp, me dejas llaves con quien tú digas y te voy mandando fotos cada día de cómo va. El presupuesto va por escrito antes de empezar, así sabes exactamente qué se hace y qué cuesta sin estar tú delante.
 
 ### ¿Cuánto cuesta pintar un piso de 70 m² en Nerja?
 
-La pintura interior empieza en 4 €/m² y la premium en 7–9 €/m². Sobre esa base influye el estado de las paredes: si hay gotelé que quitar, humedades que tratar o muchas capas viejas encima, sube. Por eso voy a verlo antes de darte un número, y el número que te doy por escrito es el que cobro.
+La pintura interior empieza en 4 €/m² y la de más calidad en 7–9 €/m². Sobre esa base influye el estado de las paredes: si hay gotelé que quitar, humedades que tratar o muchas capas viejas encima, sube. Por eso voy a verlo antes de darte un número, y el número que te doy por escrito es el que cobro.
 
 ### ¿Montas tabiques y falsos techos en Nerja o solo pintas?
 
@@ -156,7 +156,7 @@ Las dos cosas, y por eso me llaman: tabique simple desde 25 €/m², doble desde
 
 ## Lo que dicen de mí en Google
 
-Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. — **Asis**
+Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. , **Asis**
 
 ★★★★★
 

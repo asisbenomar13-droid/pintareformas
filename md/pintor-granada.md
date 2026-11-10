@@ -3,9 +3,9 @@
 URL canónica: https://pintareformas.es/pintor-granada.html
 
 ---
-# Pintor en Granada desde 2012 — pintura, tabiques y falsos techos
+# Pintor en Granada desde 2012: pintura, tabiques y falsos techos
 
-Soy Asis y llevo desde 2012 pintando casas en Granada y su cinturón. Esta es mi página general: aquí ves todo lo que hago (pintura interior y exterior, humedades, tabiques, falsos techos), cómo trabajo paso a paso y en qué pueblos me muevo. Sin intermediarios ni subcontratas — el mismo equipo que te da el precio es el que entra en tu casa.
+Soy Asis y llevo desde 2012 pintando casas en Granada y su cinturón. Esta es mi página general: aquí ves todo lo que hago (pintura interior y exterior, humedades, tabiques, falsos techos), cómo trabajo paso a paso y en qué pueblos me muevo. Sin intermediarios: el que te da el precio soy yo, y soy yo el que entra en tu casa.
 
 En resumen
 
@@ -15,7 +15,7 @@ Soy Asis (PintaReformas), pintor en Granada desde 2012. La pintura interior va d
 
 Si lo que te preocupa ahora mismo es el bolsillo, te lo he puesto aparte: en [precios de pintor económico en Granada](https://pintareformas.es/pintor-economico-granada.html) te desgloso el precio por m² y cómo abaratar la obra sin que se note en el resultado.
 
-**☎ 633 915 898 — Respuesta en menos de 24h.** Presupuesto gratuito y detallado para pintura interior, exterior, tabiques, falsos techos y reformas en Granada. Precio cerrado por escrito y factura en todos los trabajos.
+**633 915 898: Respuesta en menos de 24h.** Presupuesto gratuito y detallado para pintura interior, exterior, tabiques, falsos techos y reformas en Granada. Precio cerrado por escrito y factura en todos los trabajos.
 
 2012 Trabajando desde entonces
 
@@ -25,45 +25,45 @@ Si lo que te preocupa ahora mismo es el bolsillo, te lo he puesto aparte: en [pr
 
 24h Te paso el presupuesto
 
-**¿Necesitas un pintor en Granada?** Envíanos fotos por WhatsApp y te damos precio orientativo hoy mismo.
+**¿Necesitas un pintor en Granada?** Envíanos fotos por WhatsApp y te doy precio orientativo hoy mismo.
 
-[WhatsApp — Respuesta inmediata](https://wa.me/34633915898?text=Hola%2C%20necesito%20un%20pintor%20en%20Granada.%20%C2%BFPod%C3%A9is%20darme%20presupuesto%3F) [Formulario de contacto](https://pintareformas.es/#contacto)
+[WhatsApp: Respuesta inmediata](https://wa.me/34633915898?text=Hola%2C%20necesito%20un%20pintor%20en%20Granada.%20%C2%BFPod%C3%A9is%20darme%20presupuesto%3F) [Formulario de contacto](https://pintareformas.es/#contacto)
 
 ## Qué hago: pintura, tabiques y falsos techos en Granada
 
-Cojo el trabajo entero, de principio a fin: preparar la pared, tapar grietas, tratar la humedad si la hay y dar el acabado. Y lo mismo con las placas de yeso laminado — tabiques, falsos techos y reformas — con la misma gente, sin llamar a nadie de fuera. También hago [papel pintado](https://pintareformas.es/papel-pintado-granada.html), [microcemento](https://pintareformas.es/microcemento-granada.html), [pintura de pisos para vender](https://pintareformas.es/pintar-piso-antes-de-vender-granada.html) y [reformas integrales](https://pintareformas.es/reformas-integrales-granada.html).
+Cojo el trabajo entero, de principio a fin: preparar la pared, tapar grietas, tratar la humedad si la hay y dar el acabado. Y lo mismo con las placas de yeso laminado, tabiques, falsos techos y reformas, con la misma gente, sin llamar a nadie de fuera. También hago [papel pintado](https://pintareformas.es/papel-pintado-granada.html), [microcemento](https://pintareformas.es/microcemento-granada.html), [pintura de pisos para vender](https://pintareformas.es/pintar-piso-antes-de-vender-granada.html) y [reformas integrales](https://pintareformas.es/reformas-integrales-granada.html).
 
-### Pintura Interior
+### Pintura interior
 
 Viviendas, pisos de alquiler, locales y oficinas en Granada. Imprimación + 2 manos de acabado, materiales de primera incluidos.
 
 Desde 4 €/m²
 
-### Pintura Exterior
+### Pintura exterior
 
 Fachadas y comunidades de vecinos en Granada. Pintura impermeable con tratamiento previo de grietas y fisuras.
 
 Desde 6 €/m²
 
-### Pintura Decorativa
+### Pintura decorativa
 
 Estuco veneciano, efecto óxido y papel pintado. Acabados únicos para salones y dormitorios. El [microcemento](https://pintareformas.es/microcemento-granada.html) va aparte, desde 85 €/m².
 
 Desde 10 €/m²
 
-### Pintura Antihumedad
+### Pintura antihumedad
 
 Diagnóstico gratuito de la causa de la humedad. Tratamiento con productos específicos y revisión del resultado.
 
 Desde 9 €/m²
 
-### Tabiques de Placas de Yeso
+### Tabiques de placas de yeso
 
 Tabiques divisorios, trasdosados y reformas de distribución interior. Instalación rápida y limpia, sin obras húmedas.
 
 Desde 25 €/m²
 
-### Falsos Techos con LED
+### Falsos techos con LED
 
 Falsos techos de placas de yeso con tira de LED integrada. Le cambian el aire a cualquier habitación con luz indirecta.
 
@@ -78,7 +78,7 @@ Si vienes buscando el precio más ajustado y quieres verlo con lupa, lo tengo ex
 | Servicio | Precio orientativo | Incluye |
 |---|---|---|
 | **Pintura interior básica** | **4 – 6 €/m²** | Imprimación + 2 manos + materiales |
-| **Pintura interior premium** | **7 – 9 €/m²** | Pintura lavable de marca |
+| **Pintura interior de más calidad** | **7 – 9 €/m²** | Pintura lavable de marca |
 | **Pintura exterior / fachada** | **6 – 10 €/m²** | Pintura impermeable + sellado previo |
 | **Pintura antihumedad** | **9 – 14 €/m²** | Diagnóstico + tratamiento + acabado |
 | **Pintura decorativa** | **10 – 15 €/m²** | Técnica a elegir + materiales específicos |
@@ -93,13 +93,12 @@ Si vienes buscando el precio más ajustado y quieres verlo con lupa, lo tengo ex
 ## Por qué me llaman a mí y no a otro pintor de Granada
 
 Pintores en Granada hay muchos, y buenos. Lo que yo pongo encima de la mesa no es el precio: es cómo trabajo y qué pasa cuando me voy de tu casa.
-- **Sin subcontratas.** El equipo que presupuesta es el que trabaja. Conoces a las personas que entran en tu casa desde el primer día.
-- **Presupuesto fijo por escrito.** Lo que acordamos es lo que pagas. Sin sorpresas ni costes añadidos a mitad de obra.
+- **Tratas conmigo.** El que te da el precio es el que trabaja. Sabes desde el primer día quién entra en tu casa.
 - **Precio cerrado por escrito.** Lo que pone en el presupuesto es lo que pagas. Y si algo no queda como hablamos, me llamas y lo miro.
-- **Materiales de primera calidad incluidos.** Usamos pinturas de marcas reconocidas (Bruguer, Valentine, Jotun) según el tipo de trabajo y el acabado requerido.
-- **Limpieza y orden en la obra.** Protegemos muebles, suelos y puertas. Dejamos la vivienda lista para habitar al terminar.
+- **Materiales de primera calidad incluidos.** Uso pinturas de marcas reconocidas (Bruguer, Valentine, Jotun) según el tipo de trabajo y el acabado requerido.
+- **Limpieza y orden en la obra.** Protejo muebles, suelos y puertas. Dejo la vivienda lista para habitar al terminar.
 - **Trato directo conmigo.** Te atiendo yo mismo y te explico el presupuesto línea a línea, sin intermediarios.
-- **Experiencia local desde 2012.** Conocemos las particularidades de las viviendas en Granada: humedades típicas, tipos de fachadas, patologías habituales del parque inmobiliario local.
+- **Experiencia local desde 2012.** Conozco las casas de Granada: dónde suele salir la humedad, cómo son las fachadas de cada zona y qué fallos se repiten en los pisos antiguos.
 
 ## Cómo trabajo, del presupuesto a la entrega
 
@@ -109,7 +108,7 @@ Meter a alguien en tu casa es una cuestión de confianza. Por eso te cuento ante
 
 ### Presupuesto gratuito en 24 horas
 
-Contacta por WhatsApp, teléfono o formulario. Para trabajos de pintura podemos presupuestar con fotos y metros; para tabiques, falsos techos o reformas hacemos visita gratuita en Granada.
+Contacta por WhatsApp, teléfono o formulario. Para trabajos de pintura puedo presupuestar con fotos y metros; para tabiques, falsos techos o reformas hago visita gratuita en Granada.
 
 2
 
@@ -121,13 +120,13 @@ Recibes un documento con el desglose exacto: metros, materiales, marcas, número
 
 ### Preparación y protección
 
-Antes de abrir ningún bote de pintura, el equipo protege muebles, suelos y carpinterías. Reparamos grietas, humedades y defectos del soporte.
+Antes de abrir ningún bote de pintura, protejo muebles, suelos y puertas. Luego reparo grietas, humedades y cualquier defecto de la pared.
 
 4
 
 ### Ejecución del trabajo
 
-Imprimación + manos de acabado según lo acordado. El jefe de obra supervisa cada etapa para cuidar la calidad de acabado uniforme.
+Imprimación y las manos de acabado que hayamos acordado. Reviso cada mano antes de dar la siguiente, para que el acabado quede igual en toda la casa.
 
 5
 
@@ -137,7 +136,7 @@ Al finalizar, hacemos una revisión contigo para confirmar que todo está a tu g
 
 **¿Quieres que le eche un ojo?** Mándame fotos por WhatsApp y te digo un precio el mismo día.
 
-[WhatsApp — Presupuesto gratis](https://wa.me/34633915898?text=Hola%2C%20quiero%20presupuesto%20de%20pintura%20en%20Granada) [☎ 633 915 898](tel:+34633915898)
+[WhatsApp: Presupuesto gratis](https://wa.me/34633915898?text=Hola%2C%20quiero%20presupuesto%20de%20pintura%20en%20Granada) [☎ 633 915 898](tel:+34633915898)
 
 ## Pueblos de Granada donde me muevo
 
@@ -167,9 +166,9 @@ Churriana de la Vega
 
 Beas de Granada
 
-¿Tu municipio no aparece? Consúltanos. Trabajamos en toda la provincia de Granada con desplazamiento concertado.
+¿Tu municipio no aparece? Consúltame. Trabajo en toda la provincia de Granada con desplazamiento concertado.
 
-## Cómo Trabajo: lo que Puedes Esperar de Mí
+## Cómo trabajo: lo que puedes esperar de mí
 
 Aquí no vas a ver una pared de reseñas de cinco estrellas. Las opiniones que tengo son las que la gente me deja en Google, y son las que son. Lo que sí puedo contarte es cómo trabajo desde 2012, para que sepas a qué atenerte antes de llamarme:
 
@@ -187,9 +186,9 @@ Si sale una grieta, se levanta la pintura o algo no quedó como debía, vuelvo y
 
 **Lo mejor es que lo veas tú mismo.** Escríbeme, me paso por tu casa y te digo el precio. Gratis y sin compromiso.
 
-[WhatsApp — 633 915 898](https://wa.me/34633915898?text=Hola%20Asis%2C%20quiero%20presupuesto%20de%20pintura%20en%20Granada)
+[WhatsApp: 633 915 898](https://wa.me/34633915898?text=Hola%20Asis%2C%20quiero%20presupuesto%20de%20pintura%20en%20Granada)
 
-## Preguntas Frecuentes sobre Pintores en Granada
+## Preguntas frecuentes sobre pintores en Granada
 
 ¿Cuánto cobra un pintor en Granada?
 
@@ -197,15 +196,15 @@ Un pintor profesional en Granada cobra entre 4€/m² y 6€/m² para pintura in
 
 ¿Cuánto tarda en pintarse un piso en Granada?
 
-Un piso de 70-90 m² en Granada tarda entre 2 y 4 días laborables. Pisos que requieren tratamiento de humedades, reparación de grietas o más manos de acabado pueden necesitar un día adicional. Te indicamos el plazo exacto en el presupuesto.
+Un piso de 70-90 m² en Granada tarda entre 2 y 4 días laborables. Pisos que requieren tratamiento de humedades, reparación de grietas o más manos de acabado pueden necesitar un día adicional. Te pongo el plazo exacto en el presupuesto.
 
 ¿Hacéis presupuesto sin visita en Granada?
 
-Sí. Para trabajos de pintura podemos darte un precio orientativo por WhatsApp con fotos y metros aproximados. Para tabiques, falsos techos o reformas, realizamos visita gratuita sin compromiso en Granada y área metropolitana.
+Sí. Para trabajos de pintura puedo darte un precio orientativo por WhatsApp con fotos y metros aproximados. Para tabiques, falsos techos o reformas, realizo visita gratuita sin compromiso en Granada y área metropolitana.
 
 ¿Qué zonas de Granada cubrís?
 
-Granada capital y todo el cinturón: Armilla, Maracena, La Zubia, Atarfe, Peligros, Albolote, Ogíjares, Cenes de la Vega, Huétor Vega y alrededores. También bajo a la costa — Motril, Almuñécar, Salobreña — y trabajo en la costa de Málaga. El desplazamiento no te lo cobro.
+Granada capital y todo el cinturón: Armilla, Maracena, La Zubia, Atarfe, Peligros, Albolote, Ogíjares, Cenes de la Vega, Huétor Vega y alrededores. También bajo a la costa, Motril, Almuñécar, Salobreña, y trabajo en la costa de Málaga. El desplazamiento no te lo cobro.
 
 ¿Los materiales están incluidos en el precio?
 
@@ -217,16 +216,16 @@ Me llamas y lo miro. El precio te lo dejo cerrado y por escrito antes de empezar
 
 ¿Pintáis pisos con muebles dentro?
 
-Sí. Es la situación más habitual. Protegemos los muebles con plásticos y los suelos con telas especiales antes de comenzar. Al terminar dejamos la vivienda ordenada y limpia.
+Sí. Es la situación más habitual. Protejo los muebles con plásticos y los suelos con telas especiales antes de comenzar. Al terminar dejo la vivienda ordenada y limpia.
 
 ### Más información sobre pintura en Granada
 
 [→ Pintor económico en Granada: precio por m²](https://pintareformas.es/pintor-economico-granada.html) [→ Precio de pintar un piso en Granada](https://pintareformas.es/precio-pintar-piso-granada.html) [→ Reformas de baños en Granada](https://pintareformas.es/reformas-banos-granada.html) [→ Pintura antihumedad en baños](https://pintareformas.es/pintura-humedad-banos.html) [→ Falsos techos de placas de yeso con LED](https://pintareformas.es/falsos-techos-led-granada.html) [→ Placas de yeso en cocinas](https://pintareformas.es/placas-yeso-cocinas.html) [→ Calculadora de presupuesto online](https://pintareformas.es/calculadora.html)
 
-## ¿Buscas un Pintor en Granada?
+## ¿Buscas un pintor en Granada?
 
 Contacta ahora y recibe tu presupuesto gratuito en menos de 24 horas. Sin visita obligatoria para pintura interior.
 
-[WhatsApp — Respuesta inmediata](https://wa.me/34633915898?text=Hola%2C%20necesito%20un%20pintor%20en%20Granada.%20%C2%BFPod%C3%A9is%20darme%20presupuesto%3F) [☎ 633 915 898](tel:+34633915898) [Formulario de contacto](https://pintareformas.es/#contacto)
+[WhatsApp: Respuesta inmediata](https://wa.me/34633915898?text=Hola%2C%20necesito%20un%20pintor%20en%20Granada.%20%C2%BFPod%C3%A9is%20darme%20presupuesto%3F) [☎ 633 915 898](tel:+34633915898) [Formulario de contacto](https://pintareformas.es/#contacto)
 
 Presupuesto gratuito · Sin compromiso · Precio cerrado por escrito · Desde 2012 en Granada

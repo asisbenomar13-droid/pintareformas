@@ -3,13 +3,13 @@
 URL canónica: https://pintareformas.es/calculadora.html
 
 ---
-# Calcula el Precio de tu Reforma
+# Calcula el precio de tu reforma
 
 Obtén una estimación inmediata y gratis. Sin compromiso.
 
 🧮
 
-## Calculadora de Precios PintaReformas
+## Calculadora de precios PintaReformas
 
 Selecciona el servicio, introduce los metros y calcula al instante
 
@@ -43,7 +43,7 @@ Desde 4€/m²
 
 Pintura estándar para paredes y techos
 
-✨ Plástica Premium
+✨ Plástica de más calidad
 
 Desde 7€/m²
 
@@ -89,7 +89,7 @@ Desde 12€/m²
 
 Máxima protección contra humedad y lluvia
 
-🔝 Elastomérica Premium
+🔝 Elastomérica de más calidad
 
 Desde 15€/m²
 
@@ -205,7 +205,7 @@ Desde 18€/m²
 
 Alta calidad, fácil de retirar en el futuro
 
-🎨 Papel Decorativo Premium
+🎨 Papel decorativo de más calidad
 
 Desde 25€/m²
 
@@ -229,7 +229,7 @@ Estos precios son aproximados y pueden variar según el estado de las paredes, a
 
 💬 Enviar presupuesto por WhatsApp
 
-— o llámanos directamente —
+, o llámame directamente,
 
 [📞 633 915 898](tel:+34633915898)
 

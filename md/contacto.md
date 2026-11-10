@@ -8,7 +8,7 @@ URL canónica: https://pintareformas.es/contacto.html
 Soy Asis. Contesto yo, no un centro de llamadas. Lo más rápido es el WhatsApp: suelo responder en unos minutos si estoy en horario de trabajo. Si estoy subido a un andamio, tardo un poco más, pero contesto el mismo día.
 
 ## Cómo localizarme
-- **WhatsApp:** [633 915 898](https://wa.me/34633915898) — la vía más rápida. Puedes mandarme fotos de la pared o de la habitación y te oriento antes de ir.
+- **WhatsApp:** [633 915 898](https://wa.me/34633915898): la vía más rápida. Puedes mandarme fotos de la pared o de la habitación y te oriento antes de ir.
 - **Teléfono móvil:** [+34 633 915 898](tel:+34633915898)
 - **Teléfono fijo:** [+34 858 837 106](tel:+34858837106)
 - **Email:** [info@pintareformas.es](mailto:info@pintareformas.es)
@@ -28,7 +28,7 @@ Si estás algo más lejos, pregunta igualmente. Según el trabajo puede compensa
 
 Voy a ver la obra, la mido y te paso el presupuesto **por escrito**, normalmente el mismo día. La visita y el presupuesto no se cobran y no comprometen a nada.
 
-El precio que te doy es el que cobro. Si aparece algo que no se veía —una humedad detrás de un armario, por ejemplo— te lo enseño y decidimos juntos antes de tocar nada. Nunca te vas a encontrar una factura más alta al final sin haberlo hablado.
+El precio que te doy es el que cobro. Si aparece algo que no se veía, una humedad detrás de un armario, por ejemplo, te lo enseño y decidimos juntos antes de tocar nada. Nunca te vas a encontrar una factura más alta al final sin haberlo hablado.
 
 ## Para que te dé el precio más rápido
 

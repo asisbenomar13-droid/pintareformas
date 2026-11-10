@@ -7,7 +7,7 @@ URL canónica: https://pintareformas.es/pintores-granada-capital.html
 ---
 Granada Capital · Todos los barrios
 
-# Pintor en Granada Capital,
+# Pintor en Granada capital:
 barrio a barrio
 
 Soy Asis. Llevo desde 2012 pintando pisos, casas y locales por toda Granada capital: del Zaidín al Albaicín. Cada barrio tiene sus casas y sus manías, y después de tantos años me las conozco casi todas. Precio cerrado por escrito, trabajo limpio y factura.
@@ -42,35 +42,35 @@ Dónde trabajo
 
 Cada zona tiene lo suyo. Esto es lo que más me encuentro en cada una.
 
-### 🏢 Zaidín
+### Zaidín
 
 El barrio donde más trabajo. Pisos de los años 70 y 80, mucho gotelé por quitar y paredes que agradecen un buen alisado. También muchos pisos de estudiantes que hay que dejar finos entre curso y curso.
 
-### 🏛️ Albaicín
+### Albaicín
 
-Casas antiguas con muros de cal y yeso. Aquí no vale cualquier pintura: hay que usar pinturas transpirables y sanear bien, o la humedad te la devuelve en un año. Es trabajo delicado y me encanta.
+Casas antiguas con muros de cal y yeso. Aquí no vale cualquier pintura: hay que usar pinturas transpirables y arreglar bien, o la humedad te la devuelve en un año. Es trabajo delicado y me encanta.
 
-### ⛪ Realejo
+### Realejo
 
 Mezcla de edificios rehabilitados y casas con siglos de historia. Mucho trabajo de tabiques y falsos techos de placa de yeso para aprovechar espacios, y acabados finos para pisos que se alquilan a turistas.
 
-### 🛍️ Centro
+### Centro
 
 Pisos señoriales de techos altos, oficinas y locales comerciales. En los locales trabajo por las tardes o fines de semana si hace falta, para que no cierres ni un día.
 
-### 🏘️ Chana
+### Chana
 
 Casas bajas y pisos familiares. Aquí me piden mucho pintura exterior, fachadas pequeñas y quitar humedades de plantas bajas.
 
-### 🌇 Cartuja y Norte
+### Cartuja y Norte
 
 Pisos de precio ajustado donde la gente busca calidad sin gastar de más. Pintura básica bien hecha desde 4€/m², sin trampas.
 
-### 🏗️ Beiro y Ronda
+### Beiro y Ronda
 
 Edificios de los 80 y 90, comunidades de vecinos y pisos para reformar. Tabiques de placa de yeso, falsos techos con LED y pintura completa.
 
-### 🎓 Pisos de estudiantes (toda la capital)
+### Pisos de estudiantes (toda la capital)
 
 Granada es ciudad de estudiantes y lo sé bien: pinto pisos completos entre inquilino e inquilino en 1-3 días, con factura para el propietario. Si tienes varios pisos, precio especial.
 
@@ -120,7 +120,7 @@ Entre 15 y 25 € la hora, según la experiencia y el tipo de trabajo. Pero te v
 
 ### ¿Trabajáis en casas antiguas del Albaicín o el Realejo?
 
-Sí, y son de los trabajos que más me gustan. Los muros de cal y yeso no se pueden tratar como un piso moderno: hay que sanear y usar pinturas transpirables, o la humedad vuelve en un año. Llevo desde 2012 haciéndolo.
+Sí, y son de los trabajos que más me gustan. Los muros de cal y yeso no se pueden tratar como un piso moderno: hay que arreglar y usar pinturas transpirables, o la humedad vuelve en un año. Llevo desde 2012 haciéndolo.
 
 ### ¿Pintáis pisos de estudiantes entre alquiler y alquiler?
 
@@ -130,7 +130,7 @@ Es de lo que más hago en la capital. Piso completo en 1-3 días, precio cerrado
 
 En Granada capital, normalmente el mismo día que me llamas o al siguiente. Voy, mido, y te doy el precio en el momento. Gratis y sin compromiso.
 
-## ¿Pintamos tu piso en Granada?
+## ¿Pinto tu piso en Granada?
 
 Llámame o escríbeme por WhatsApp, dime tu barrio y me paso a verlo. Presupuesto gratis el mismo día.
 
@@ -141,6 +141,6 @@ Llámame o escríbeme por WhatsApp, dime tu barrio y me paso a verlo. Presupuest
 
 ¿Y cuánto me costaría a mí?
 
-Calcula el precio de pintar tu casa en 2 minutos — sin compromiso y sin que nadie te llame.
+Calcula el precio de pintar tu casa en 2 minutos, sin compromiso y sin que nadie te llame.
 
 [Calcular precio gratis →](https://pintareformas.es/calculadora.html)

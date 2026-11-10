@@ -86,7 +86,7 @@ Llamada, WhatsApp o email. Te contesto yo. Si estoy subido a una escalera, en cu
 
 ### Visita y medicion
 
-Visitamos tu inmueble en Motril, medimos, valoramos el estado del soporte y tomamos fotos de referencia.
+Visito tu inmueble en Motril, mido, valoro el estado del soporte y tomo fotos de referencia.
 
 ### Presupuesto detallado
 
@@ -94,13 +94,13 @@ Entrega en 24 h con desglose por partidas: materiales, mano de obra, plazos y fo
 
 ### Ejecucion de obra
 
-Equipo propio, sin subcontratas. Protección de muebles y suelos, obra limpia y te voy contando cómo va cada día.
+Yo estoy en la obra, y si hace falta traigo a gente de confianza. Protección de muebles y suelos, obra limpia y te voy contando cómo va cada día.
 
 ### Entrega e inspeccion
 
 Revisión conjunta del resultado, contigo delante, antes de darlo por terminado. Y factura.
 
-Techo de placas de yeso con iluminacion empotrada — acabado habitual en reformas de la Costa Tropical
+Techo de placas de yeso con iluminacion empotrada, acabado habitual en reformas de la Costa Tropical
 
 ## Pintor en Motril: aquí se pinta para vivir, no para la foto
 
@@ -132,7 +132,7 @@ No hago fontanería ni instalación eléctrica de obra nueva, no toco estructura
 
 ## Lo que dicen de mí en Google
 
-Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. — **Asis**
+Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. , **Asis**
 
 ★★★★★
 
@@ -152,11 +152,11 @@ Antonio Delgado Muñoz Reseña publicada en Google
 
 ### ¿Cuánto cuesta pintar un piso de 90 m² en Motril?
 
-La pintura interior parte de 4 €/m² de superficie pintada, y la premium de 7 a 9 €/m². En un piso de 90 m² con la básica suele moverse entre 1.200 y 1.800 € según cómo estén las paredes y cuántas habitaciones haya. Si hay gotelé que alisar o humedad que tratar, sube y te lo digo antes. Voy a verlo, lo mido y te paso el precio por escrito.
+La pintura interior parte de 4 €/m² de superficie pintada, y la de más calidad de 7 a 9 €/m². En un piso de 90 m² con la básica suele moverse entre 1.200 y 1.800 € según cómo estén las paredes y cuántas habitaciones haya. Si hay gotelé que alisar o humedad que tratar, sube y te lo digo antes. Voy a verlo, lo mido y te paso el precio por escrito.
 
 ### La lluvia de barro me deja la fachada perdida, ¿hay algo que se pueda hacer?
 
-Sí. No se puede evitar que caiga, pero sí que se agarre. En fachada uso pintura de exterior con buen acabado, desde 6 €/m², que aguanta lavarse con agua a presión suave sin que se levante. Con una pintura porosa el barro se mete en el poro y ya no sale ni frotando. La diferencia se ve al segundo o tercer año, no el día que terminamos.
+Sí. No se puede evitar que caiga, pero sí que se agarre. En fachada uso pintura de exterior con buen acabado, desde 6 €/m², que aguanta lavarse con agua a presión suave sin que se levante. Con una pintura porosa el barro se mete en el poro y ya no sale ni frotando. La diferencia se ve al segundo o tercer año, no el día que termino.
 
 ### Vivo en la casa con la familia, ¿tengo que irme mientras pintas?
 
@@ -188,6 +188,6 @@ Solicita tu presupuesto gratuito hoy mismo. Visita sin compromiso y respuesta en
 
 ### Formulario web
 
-[Ir al formulario](https://pintareformas.es/#contacto) Rellena tus datos y te llamamos nosotros
+[Ir al formulario](https://pintareformas.es/#contacto) Rellena tus datos y te llamo yo
 
 [Pedir presupuesto gratis sin compromiso](https://pintareformas.es/#contacto)

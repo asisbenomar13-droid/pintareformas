@@ -1,15 +1,15 @@
 # Precio Falso Techo con LED en Granada: desde 50 €/m²
 
-> ¿Cuánto cuesta un falso techo con LED? Liso desde 30 €/m², con LED desde 50 €/m². Te digo el precio y ese es el que cobro. Granada y costa. ☎ 633 915 898
+> ¿Cuánto cuesta un falso techo con LED? Liso desde 30 €/m², con LED desde 50 €/m². Te digo el precio y ese es el que cobro. Granada y costa. Tel. 633 915 898
 
 URL canónica: https://pintareformas.es/falsos-techos-led-granada.html
 
 ---
 Falsos techos con LED · Granada y costa
 
-# Precio de un falso techo de placas de yeso con LED , por m² y sin rodeos
+# Precio de un falso techo de placas de yeso con LED : por m² y sin rodeos
 
-Soy Asis. Desde 2012 montando falsos techos de placa de yeso laminado en Granada y en la costa. Es lo que más me piden últimamente y entiendo por qué — cuando lo ves terminado, con la luz saliendo del foseado, no te lo esperas. Aquí te dejo los precios de verdad, lo que incluyen y lo que no.
+Soy Asis. Desde 2012 montando falsos techos de placa de yeso laminado en Granada y en la costa. Es lo que más me piden últimamente y entiendo por qué, cuando lo ves terminado, con la luz saliendo del foseado, no te lo esperas. Aquí te dejo los precios de verdad, lo que incluyen y lo que no.
 
 **30 €/m²**Falso techo liso, sin luz
 
@@ -23,7 +23,7 @@ Un falso techo de placas de yeso en Granada cuesta desde 30 €/m² liso y desde
 
 [633 915 898](tel:+34633915898) · [WhatsApp](https://wa.me/34633915898) · Presupuesto gratis
 
-Estructura de un falso techo en Granada — así queda antes de placar y de dejar el hueco para la tira LED
+Estructura de un falso techo en Granada, así queda antes de poner la placa y de dejar el hueco para la tira LED
 
 Lo primero, el precio
 
@@ -141,7 +141,7 @@ desde 50 €/m²
 
 ### 3. Con focos empotrados
 
-Focos LED redondos o cuadrados embutidos en la placa. Luz directa y potente donde la necesitas: encima de la encimera, del sofá o de la mesa. Lo suelo combinar con el foseado — focos para ver, tira LED para el ambiente.
+Focos LED redondos o cuadrados embutidos en la placa. Luz directa y potente donde la necesitas: encima de la encimera, del sofá o de la mesa. Lo suelo combinar con el foseado, focos para ver, tira LED para el ambiente.
 
 registro incluido
 
@@ -171,7 +171,7 @@ Tiempos reales de un salón de unos 20 m². Los secados no se pueden acelerar, y
 
 ### Replanteo contigo 1 hora
 
-Marcamos la altura del techo nuevo y por dónde va el foseado y cada foco. Lo dibujo en la pared con lápiz para que lo veas antes de que sea irreversible. Aquí es donde se decide si el resultado te va a gustar.
+Marco la altura del techo nuevo y por dónde va el foseado y cada foco. Lo dibujo en la pared con lápiz para que lo veas antes de que sea irreversible. Aquí es donde se decide si el resultado te va a gustar.
 
 2
 
@@ -183,7 +183,7 @@ Perfil perimetral nivelado con láser y estructura de maestras colgada del forja
 
 ### Paso de cables medio día
 
-Antes de cerrar, dejo pasados los cables de la tira y de cada foco, y decidido dónde queda la fuente de alimentación — siempre en un punto al que pueda llegar por el registro.
+Antes de cerrar, dejo pasados los cables de la tira y de cada foco, y decidido dónde queda la fuente de alimentación, siempre en un punto al que pueda llegar por el registro.
 
 4
 
@@ -260,9 +260,9 @@ Baño y cocina
 
 En un baño o en una cocina el falso techo tiene que aguantar vapor todos los días. Por eso uso **placa hidrófuga**, la verde, que está tratada para no absorber humedad. Con placa normal el techo aguanta un año o dos y luego empieza con manchas y bordes hinchados junto a la ducha. Lo he visto muchas veces reparando trabajos de otros.
 
-En cocina lo típico son focos empotrados sobre la encimera — donde de verdad necesitas ver lo que cortas — y una tira LED escondida bajo el borde del techo si quieres luz de ambiente para cuando terminas de cenar. En baño, focos de bajo perfil y, si el espacio da, un foseado sobre el mueble del lavabo.
+En cocina lo típico son focos empotrados sobre la encimera, donde de verdad necesitas ver lo que cortas, y una tira LED escondida bajo el borde del techo si quieres luz de ambiente para cuando terminas de cenar. En baño, focos de bajo perfil y, si el espacio da, un foseado sobre el mueble del lavabo.
 
-Dos cosas que siempre dejo resueltas: el **registro cerca del extractor**, para no tener que abrir el techo si algún día falla, y la ventilación bien pasada por encima. Y ojo con la humedad de origen: si en tu baño hay manchas por una filtración, primero se arregla eso — te lo cuento en [pintura antihumedad en baños](https://pintareformas.es/pintura-humedad-banos.html) y en [reparación de humedades](https://pintareformas.es/reparacion-humedades-granada.html). Taparlo con una placa no lo cura, solo lo esconde.
+Dos cosas que siempre dejo resueltas: el **registro cerca del extractor**, para no tener que abrir el techo si algún día falla, y la ventilación bien pasada por encima. Y ojo con la humedad de origen: si en tu baño hay manchas por una filtración, primero se arregla eso, te lo cuento en [pintura antihumedad en baños](https://pintareformas.es/pintura-humedad-banos.html) y en [reparación de humedades](https://pintareformas.es/reparacion-humedades-granada.html). Taparlo con una placa no lo cura, solo lo esconde.
 
 Si vas a reformar la cocina entera, échale un vistazo a lo que hago en [placas de yeso en cocinas](https://pintareformas.es/placas-yeso-cocinas.html).
 
@@ -298,7 +298,7 @@ Granada capital Armilla La Zubia Maracena Motril Almuñécar Salobreña Nerja Ma
 
 En Granada capital y cinturón trabajo prácticamente cada semana. En la costa depende del volumen: para un salón completo o una vivienda entera voy sin problema; si es un trabajo pequeño y muy lejos, te lo digo honestamente antes de que pierdas el tiempo. Más sobre lo que hago en [pintura y placas de yeso en Granada](https://pintareformas.es/pintura-y-placas-yeso-granada.html) y en [placas de yeso en la costa de Málaga](https://pintareformas.es/pintura-y-placas-yeso-malaga.html).
 
-Falso techo terminado en Motril — el mismo trabajo que hago en Granada, en la costa
+Falso techo terminado en Motril, el mismo trabajo que hago en Granada, en la costa
 
 Preguntas frecuentes
 
@@ -308,7 +308,7 @@ Respuestas cortas, las mismas que doy por teléfono.
 
 ### ¿Cuánto cuesta un falso techo con LED por m²?
 
-Un falso techo de placas de yeso con LED integrado sale desde 50 €/m², y uno liso sin iluminación desde 30 €/m². Ahí va todo: perfilería, placa, tratamiento de juntas, lijado, el foseado para la tira y la conexión del LED. El precio final depende de la altura, de los metros y de cuántos registros haya que dejar. Yo lo veo, te doy un precio cerrado y ese es el que cobro.
+Un falso techo de placas de yeso con LED integrado sale desde 50 €/m², y uno liso sin iluminación desde 30 €/m². Ahí va todo: perfiles, placa, tratamiento de juntas, lijado, el foseado para la tira y la conexión del LED. El precio final depende de la altura, de los metros y de cuántos registros haya que dejar. Yo lo veo, te doy un precio cerrado y ese es el que cobro.
 
 ### ¿La pintura del techo va incluida en el precio?
 
@@ -348,6 +348,6 @@ Mándame los metros y una foto del techo por WhatsApp y te digo lo que cuesta. P
 
 ¿Y cuánto me costaría a mí?
 
-Calcula el precio de pintar o reformar tu casa en 2 minutos — sin compromiso y sin que nadie te llame.
+Calcula el precio de pintar o reformar tu casa en 2 minutos, sin compromiso y sin que nadie te llame.
 
 [Calcular precio gratis →](https://pintareformas.es/calculadora.html)

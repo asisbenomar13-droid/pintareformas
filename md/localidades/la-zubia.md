@@ -15,7 +15,7 @@ Soy Asis, pintor desde 2012. En La Zubia hay mucha casa y mucho chalet, y eso ca
 
 De los tres pueblos del cinturón donde más trabajo, La Zubia es el que menos se parece a los otros. En Armilla o Maracena el encargo típico es un piso: tabique de placas de yeso, techo con luz y pintura por dentro. Aquí hay bastante más vivienda unifamiliar y chalet, y eso mete en juego dos cosas que en un piso ni aparecen. La primera es la fachada: en un piso la pinta la comunidad cada tantos años y tú no decides nada; en una casa es tuya, la ves cada día al llegar y cuando se ensucia o se cuartea te toca a ti.
 
-La segunda es que en una casa la gente se anima con acabados que en un piso de alquiler nadie se plantea. Aquí sí me piden estuco veneciano en un recibidor, una pared de microcemento en el baño o una pintura decorativa con textura en el salón. Son trabajos más lentos, más de mano que de rodillo, y por eso valen lo que valen — pero también son los que quedan bien diez años.
+La segunda es que en una casa la gente se anima con acabados que en un piso de alquiler nadie se plantea. Aquí sí me piden estuco veneciano en un recibidor, una pared de microcemento en el baño o una pintura decorativa con textura en el salón. Son trabajos más lentos, más de mano que de rodillo, y por eso valen lo que valen, pero también son los que quedan bien diez años.
 
 Y luego está lo obvio: una casa tiene alturas, escaleras, techos altos y a veces un porche. Eso no se resuelve igual que un salón de 20 metros. Por eso en La Zubia no doy nunca precio sin subir a verlo, aunque me mandes veinte fotos. Necesito saber por dónde se sube a esa fachada antes de decirte un número.
 
@@ -77,7 +77,7 @@ La casa entera por dentro: dos manos y material incluido.
 
 4 – 9 €/m²
 
-Hueco de escalera de una vivienda unifamiliar — de los sitios donde más se nota el acceso
+Hueco de escalera de una vivienda unifamiliar, de los sitios donde más se nota el acceso
 
 ## Quince minutos, y eso se nota después
 
@@ -91,7 +91,7 @@ En casas unifamiliares me piden de todo, así que lo aclaro. No subo a tejados n
 
 ## Lo que dicen de mí en Google
 
-Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. — **Asis**
+Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. , **Asis**
 
 ★★★★★
 
@@ -131,7 +131,7 @@ Me llamas y me acerco a verlo. Vivo a quince minutos, así que no es una frase: 
 
 Sí, y es gratis. Son quince minutos desde Granada capital: me llamas, quedamos y subo, normalmente el mismo día o al siguiente. Mido, te digo el precio y no cobro nada por el desplazamiento ni por la visita, decidas o no decidas trabajar conmigo.
 
-## ¿Le damos vida a tu casa en La Zubia?
+## ¿Le doy vida a tu casa en La Zubia?
 
 Llámame o escríbeme por WhatsApp y me paso a verla. Presupuesto gratis el mismo día.
 
@@ -141,6 +141,6 @@ Llámame o escríbeme por WhatsApp y me paso a verla. Presupuesto gratis el mism
 
 ¿Y cuánto me costaría a mí?
 
-Calcula el precio de pintar tu casa en 2 minutos — sin compromiso y sin que nadie te llame.
+Calcula el precio de pintar tu casa en 2 minutos, sin compromiso y sin que nadie te llame.
 
 [Calcular precio gratis →](https://pintareformas.es/calculadora.html)

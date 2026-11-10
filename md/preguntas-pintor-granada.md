@@ -5,7 +5,7 @@ URL canónica: https://pintareformas.es/preguntas-pintor-granada.html
 ---
 # Preguntas frecuentes sobre pintura y reformas en Granada
 
-Respuestas directas de Asis, fundador de PintaReformas. Llevamos desde 2012 en Granada y la Costa de Málaga — aquí respondemos lo que más nos preguntan.
+Respuestas directas de Asis, fundador de PintaReformas. Llevo desde 2012 en Granada y la Costa de Málaga, aquí respondo lo que más me preguntan.
 
 ¿Cuánto cuesta pintar un piso en Granada?
 
@@ -41,7 +41,7 @@ Por WhatsApp al 633 915 898, por teléfono, por email a info@pintareformas.es o 
 
 ¿La placa de yeso aguanta la humedad?
 
-La placa normal no, pero hay una específica — la hidrófuga, la verás como placa "H" o de color verde — que sí. Para baños, cocinas y cualquier zona con humedad uso siempre esa. Si alguien te pone placa normal en un baño, a la larga se estropea. Yo te pongo la que toca en cada sitio.
+La placa normal no, pero hay una específica, la hidrófuga, la verás como placa "H" o de color verde, que sí. Para baños, cocinas y cualquier zona con humedad uso siempre esa. Si alguien te pone placa normal en un baño, a la larga se estropea. Yo te pongo la que toca en cada sitio.
 
 ¿Se pueden poner placas de yeso en un piso antiguo?
 
@@ -49,11 +49,11 @@ Sí, sin problema. De hecho en pisos antiguos es donde más juego da, porque te 
 
 ¿Qué es un falso techo de placas de yeso y para qué sirve?
 
-Es un techo nuevo que se monta por debajo del que ya tienes. Sirve para esconder tuberías y cables, meter luz LED indirecta, ganar aislamiento del ruido y, si tienes el techo muy alto, bajarlo un poco. Es de lo que más me piden — desde 30€/m², y con LED integrado desde 50€/m².
+Es un techo nuevo que se monta por debajo del que ya tienes. Sirve para esconder tuberías y cables, meter luz LED indirecta, ganar aislamiento del ruido y, si tienes el techo muy alto, bajarlo un poco. Es de lo que más me piden, desde 30€/m², y con LED integrado desde 50€/m².
 
 ¿Se puede pintar sobre placa de yeso vieja?
 
-Sí. Se limpia, se tapan las grietas, se da imprimación y dos manos, y queda como nuevo. Solo si la placa está muy castigada o con grietas que se mueven te diré que merece más la pena cambiarlo que ir parcheando — pero eso es raro.
+Sí. Se limpia, se tapan las grietas, se da imprimación y dos manos, y queda como nuevo. Solo si la placa está muy castigada o con grietas que se mueven te diré que merece más la pena cambiarlo que ir parcheando, pero eso es raro.
 
 ¿Qué diferencia hay entre tabique de placa de yeso y tabique de ladrillo?
 
@@ -61,7 +61,7 @@ La placa de yeso es mucho más rápida y limpia: no hay obra pesada, ni polvo de
 
 ¿Es más barato contratar los tabiques y la pintura por separado?
 
-No, sale más caro. Cuando lo hago yo todo seguido — primero los tabiques y luego la pintura — te ahorras la coordinación entre dos gremios, el tiempo muerto entre uno y otro, y tienes un solo responsable para todo. Por eso mucha gente me llama para las dos cosas a la vez.
+No, sale más caro. Cuando lo hago yo todo seguido, primero los tabiques y luego la pintura, te ahorras la coordinación entre dos gremios, el tiempo muerto entre uno y otro, y tienes un solo responsable para todo. Por eso mucha gente me llama para las dos cosas a la vez.
 
 ¿Qué es PintaReformas?
 

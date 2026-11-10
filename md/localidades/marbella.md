@@ -7,60 +7,60 @@ URL canónica: https://pintareformas.es/localidades/marbella.html
 ---
 [Inicio](https://pintareformas.es/) › [Localidades](https://pintareformas.es/localidades/) › Marbella
 
-# Pintor en Marbella desde 2012 — precio cerrado por escrito
+# Pintor en Marbella desde 2012: precio cerrado por escrito
 
 Soy Asis. Llevo desde 2012 pintando casas y haciendo reformas en Marbella y toda la Costa del Sol. Trabajo limpio, te doy precio cerrado **por escrito** antes de empezar y respondo yo mismo a cada cliente.
 
-Dormitorio reformado en Marbella — falso techo de placas de yeso y papel pintado decorativo
+Dormitorio reformado en Marbella, falso techo de placas de yeso y papel pintado decorativo
 
-En Marbella desde 2012. Si algo no te gusta cuando termino, vuelvo y lo arreglo — eso lo dejo por escrito. Vengo desde Granada, pero me organizo los días para que no te cueste más por eso.
+En Marbella desde 2012. Si algo no te gusta cuando termino, vuelvo y lo arreglo, eso lo dejo por escrito. Vengo desde Granada, pero me organizo los días para que no te cueste más por eso.
 
 ## Por qué la gente de Marbella me llama
-- ✅ **Trato directo conmigo:** aquí hay mucho extranjero que se harta de no entenderse con los gremios. Conmigo lo hablamos claro, por WhatsApp o por teléfono.
-- ✅ **El precio que te digo es el que te cobro:** nada de "ah, esto era más", "ah, esto otro no estaba". Si aparece algo, te llamo antes de tocarlo.
-- ✅ **Aquí la pintura aguanta menos:** sal, sol y humedad se la comen rápido. He aprendido a mano qué pinturas funcionan en primera línea de playa y cuáles no. No te vendo lo más caro, te vendo lo que dura.
-- ✅ **Dejo la casa como me la encuentro:** protejo los muebles, los suelos, recojo todos los días. Sobre todo en apartamentos amueblados — sé que no quieres encontrarte polvo blanco en las sábanas.
-- ✅ **Si algo no queda como hablamos, me llamas:** me acerco y lo miro. Sin excusas.
-- ✅ **Hablas conmigo todo el rato:** no hay comercial que te llame, ni encargado que te diga "yo no sé, eso lo lleva otro". Soy yo desde el primer WhatsApp hasta el último día.
+- **Trato directo conmigo:** aquí hay mucho extranjero que se harta de no entenderse con los gremios. Conmigo lo hablamos claro, por WhatsApp o por teléfono.
+- **El precio que te digo es el que te cobro:** nada de "ah, esto era más", "ah, esto otro no estaba". Si aparece algo, te llamo antes de tocarlo.
+- **Aquí la pintura aguanta menos:** sal, sol y humedad se la comen rápido. He aprendido a mano qué pinturas funcionan en primera línea de playa y cuáles no. No te vendo lo más caro, te vendo lo que dura.
+- **Dejo la casa como me la encuentro:** protejo los muebles, los suelos, recojo todos los días. Sobre todo en apartamentos amueblados, sé que no quieres encontrarte polvo blanco en las sábanas.
+- **Si algo no queda como hablamos, me llamas:** me acerco y lo miro. Sin excusas.
+- **Hablas conmigo todo el rato:** no hay comercial que te llame, ni encargado que te diga "yo no sé, eso lo lleva otro". Soy yo desde el primer WhatsApp hasta el último día.
 
 ## Por dónde me muevo en Marbella
 
 De la Milla de Oro a Cabopino, paso por toda la ciudad. Estos son los sitios donde más obras hago:
-- 🏖️ **Puerto Banús** — me llaman mucho de apartamentos turísticos, sobre todo para refrescar pintura entre temporadas
-- 🏡 **Nueva Andalucía** — chalets y reformas más grandes, suelen ser obras de varias semanas
-- 🏘️ **San Pedro de Alcántara** — pisos de toda la vida y comunidades de vecinos
-- ⛳ **La Milla de Oro / Sierra Blanca** — aquí me piden lo bueno: estuco veneciano, microcemento, acabados que la gente quiere ver
-- 🌴 **Las Chapas / Elviria / Cabopino** — chalets y urbanizaciones, mucho cliente inglés y nórdico
-- 🏛️ **Marbella Centro / Casco Antiguo** — pisos clásicos, paredes que llevan capas y capas que hay que sanear bien
-- 🏌️ **Guadalmina / Atalaya** — casas en zonas de golf, suelen ser segundas residencias
+- **Puerto Banús**: me llaman mucho de apartamentos turísticos, sobre todo para refrescar pintura entre temporadas
+- **Nueva Andalucía**: chalets y reformas más grandes, suelen ser obras de varias semanas
+- **San Pedro de Alcántara**: pisos de toda la vida y comunidades de vecinos
+- **La Milla de Oro / Sierra Blanca**: aquí me piden lo bueno: estuco veneciano, microcemento, acabados que la gente quiere ver
+- **Las Chapas / Elviria / Cabopino**: chalets y urbanizaciones, mucho cliente inglés y nórdico
+- **Marbella Centro / Casco Antiguo**: pisos clásicos, paredes que llevan capas y capas que hay que arreglar bien
+- **Guadalmina / Atalaya**: casas en zonas de golf, suelen ser segundas residencias
 
 Si tu zona no la ves arriba, llámame igual. No voy a decir que no por estar en otro sitio.
 
-Reforma de cocina en Marbella — diseño moderno blanco y negro
+Reforma de cocina en Marbella, diseño moderno blanco y negro
 
 ## Lo que más me piden aquí
 
-### 🎨 Pintura de apartamentos para alquilar
+### Pintura de apartamentos para alquilar
 
-Desde 4€/m². Es lo que más toco en Puerto Banús y San Pedro — gente que alquila su piso por temporadas y necesita dejarlo nuevo entre inquilinos. Un piso de 70m² lo tengo en 3-5 días, así no te quedas sin reservas.
+Desde 4€/m². Es lo que más toco en Puerto Banús y San Pedro, gente que alquila su piso por temporadas y necesita dejarlo nuevo entre inquilinos. Un piso de 70m² lo tengo en 3-5 días, así no te quedas sin reservas.
 
-### 🏢 Fachadas y pintura exterior frente al mar
+### Fachadas y pintura exterior frente al mar
 
 Desde 6€/m². Aquí la pintura barata se cae en un año. La sal y el sol pegan duro. Uso pinturas que aguantan eso, te aviso del precio antes para que sepas por qué cuesta lo que cuesta.
 
-### 💡 Falsos techos con LED
+### Falsos techos con LED
 
-Desde 50€/m² con la tira de luz puesta. Es lo que más me piden últimamente en los chalets de Nueva Andalucía y la Milla de Oro. La gente lo ve terminado y no se lo cree — cambia la casa entera.
+Desde 50€/m² con la tira de luz puesta. Es lo que más me piden últimamente en los chalets de Nueva Andalucía y la Milla de Oro. La gente lo ve terminado y no se lo cree, cambia la casa entera.
 
-### ✨ Estuco veneciano y microcemento
+### Estuco veneciano y microcemento
 
 Estuco desde 18€/m² · microcemento desde 85€/m². Esto me lo piden sobre todo en Sierra Blanca y la Milla de Oro. El microcemento es lo más caro que hago, porque son varias capas con su secado. No es para cualquier casa ni para cualquier presupuesto, pero cuando queda bien, queda de revista.
 
-### 🏠 Reformas de cocina y baño enteras
+### Reformas de cocina y baño enteras
 
-Cocina desde 3.000€ · Baño desde 2.000€. Placas de yeso, pintura, acabados — todo lo llevo yo. Así no andas tú llamando a tres personas distintas para que cada uno te eche la culpa al otro.
+Cocina desde 3.000€ · Baño desde 2.000€. Placas de yeso, pintura, acabados, todo lo llevo yo. Así no andas tú llamando a tres personas distintas para que cada uno te eche la culpa al otro.
 
-Cocina con diseño gris minimalista — Marbella
+Cocina con diseño gris minimalista. Marbella
 
 ## "Pero tú vienes desde Granada, ¿no me sale más caro?"
 
@@ -70,25 +70,25 @@ Para cosas muy pequeñas (pintar una habitación suelta, repasar una mano), te l
 
 ## Cómo trabajamos tú y yo
 
-### 📱 1. Me escribes
+### 1. Me escribes
 
-WhatsApp, llamada o email — lo que te venga mejor. Te contesto yo, no nadie en mi nombre. Si estoy en obra y no puedo coger, te llamo en cuanto paro.
+WhatsApp, llamada o email, lo que te venga mejor. Te contesto yo, no nadie en mi nombre. Si estoy en obra y no puedo coger, te llamo en cuanto paro.
 
-### 🚗 2. Me paso por tu casa
+### 2. Me paso por tu casa
 
-Quedamos un rato, miro lo que hay que hacer, medimos y lo hablamos. Es gratis y no te comprometes a nada.
+Quedamos un rato, miro lo que hay que hacer, mido y lo hablamos. Es gratis y no te comprometes a nada.
 
-### 📄 3. Te paso el presupuesto por escrito
+### 3. Te paso el presupuesto por escrito
 
-Normalmente el mismo día o al día siguiente. Te pongo todo: materiales, mano de obra y los días que voy a tardar. Lo lees con calma. Si te encaja, seguimos. Si no, ya está — sin malos rollos.
+Normalmente el mismo día o al día siguiente. Te pongo todo: materiales, mano de obra y los días que voy a tardar. Lo lees con calma. Si te encaja, seguimos. Si no, ya está, sin malos rollos.
 
-### 🔨 4. Empezamos cuando tú me digas
+### 4. Empiezo cuando tú me digas
 
 Te marco los días, te aviso si llego más tarde o si tengo que cambiar algo. Si aparece algo no previsto (humedad, una tubería rara, lo que sea), te llamo antes de tocarlo.
 
-### ✅ 5. Vemos la obra juntos al acabar
+### 5. Vemos la obra juntos al acabar
 
-Damos una vuelta por todo. Si hay algo que no te convence, lo arreglo ahí mismo, antes de cobrar el final. Eso siempre.
+Doy una vuelta por todo. Si hay algo que no te convence, lo arreglo ahí mismo, antes de cobrar el final. Eso siempre.
 
 ## Pintor en Marbella: dos clientes muy distintos
 
@@ -118,9 +118,9 @@ Cálculo orientativo con mi tarifa, no una obra concreta. Una cocina de 12 m² c
 
 ¿Quieres ver más precios por metro cuadrado en Marbella? Te los detallo todos aquí: [precios de pintor en Marbella 2026 →](https://pintareformas.es/pintor-marbella-precio.html)
 
-## 📱 Pídeme presupuesto para tu casa en Marbella
+## Pídeme presupuesto para tu casa en Marbella
 
-**WhatsApp / llamada:** [633 915 898](tel:+34633915898) — te respondo yo mismo
+**WhatsApp / llamada:** [633 915 898](tel:+34633915898): te respondo yo mismo
 
 **Email:** [info@pintareformas.es](mailto:info@pintareformas.es)
 
@@ -144,7 +144,7 @@ Sí, y aquí es lo normal. Recojo las llaves de quien tú digas, de la empresa q
 
 ### ¿Trabajas también en apartamentos normales o solo acabados caros?
 
-Trabajo en los dos. En Marbella me piden mucho microcemento y estuco, sí, pero la mitad de lo que hago es pintura normal de piso: desde 4 €/m² el interior y 7–9 €/m² el premium. No hay pedido pequeño ni casa que no merezca un trabajo bien hecho.
+Trabajo en los dos. En Marbella me piden mucho microcemento y estuco, sí, pero la mitad de lo que hago es pintura normal de piso: desde 4 €/m² el interior y 7–9 €/m² el de más calidad. No hay pedido pequeño ni casa que no merezca un trabajo bien hecho.
 
 ### ¿Cuánto se tarda en dejar un piso listo entre inquilinos?
 
@@ -160,11 +160,11 @@ No hago fontanería ni electricidad de obra nueva, no toco estructura y no traba
 
 ## Lo que dicen de mí en Google
 
-Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. — **Asis**
+Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. , **Asis**
 
 ★★★★★
 
-"Actually this worker got me a nice job, clear and beautiful — I mean professional. He can be relied on."
+"Actually this worker got me a nice job, clear and beautiful. I mean professional. He can be relied on."
 
 Abdoo Dodo Reseña publicada en Google
 

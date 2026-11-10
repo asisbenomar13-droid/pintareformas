@@ -1,6 +1,6 @@
 # Reforma de cocina en Granada: precio y plazos desde 3.000 €
 
-> Reforma de cocina en Granada: la obra desde 3.000 € y la cocina completa de 6.000 a 12.000 €. Plazos y precio cerrado por escrito. Presupuesto gratis: 633 915 898.
+> Reforma de cocina en Granada: la obra desde 3.000 € y la cocina completa de 6.000 a 12.000 €. Plazos y precio cerrado por escrito. Presupuesto gratis.
 
 URL canónica: https://pintareformas.es/reformas-cocinas-granada.html
 
@@ -133,6 +133,6 @@ Mándame unas fotos y los metros por WhatsApp y te doy una horquilla. La visita 
 
 ¿Y cuánto me costaría a mí?
 
-Calcula el precio orientativo en 2 minutos — sin compromiso y sin que nadie te llame.
+Calcula el precio orientativo en 2 minutos, sin compromiso y sin que nadie te llame.
 
 [Calcular precio gratis →](https://pintareformas.es/calculadora.html)

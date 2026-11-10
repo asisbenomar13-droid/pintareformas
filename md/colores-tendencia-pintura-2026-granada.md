@@ -7,14 +7,14 @@ URL canónica: https://pintareformas.es/colores-tendencia-pintura-2026-granada.h
 ---
 Tendencias · Pintura 2026
 
-# Colores de Moda para
-Pintar tu Casa en 2026 y 2027
+# Colores de moda para
+pintar tu casa en 2026 y 2027
 
 Soy Asis, pintor en Granada desde 2012. Cada año me preguntan lo mismo: «¿Qué color se lleva ahora?». Aquí te cuento, sin postureo, los colores que más me piden en 2026 y dónde quedan bien de verdad.
 
 [Pídeme consejo y presupuesto](https://wa.me/34633915898?text=Hola%20PintaReformas%2C%20quiero%20consejo%20de%20color%20y%20presupuesto) [📞 633 915 898](tel:+34633915898)
 
-Después de unos años en los que todo el mundo quería gris y blanco frío, en 2026 la cosa ha cambiado. Ahora se buscan colores más cálidos y naturales, de esos que hacen que la casa se sienta acogedora nada más entrar. Tonos tierra, verdes suaves, terracotas… colores que dan calma y se llevan bien con la luz que tenemos aquí en Granada.
+Después de unos años en los que todo el mundo quería gris y blanco frío, en 2026 la cosa ha cambiado. Ahora se buscan colores más cálidos y naturales, de esos que hacen que la casa se sienta acogedora nada más entrar. Tonos tierra, verdes suaves, terracotas… colores que dan calma y se llevan bien con la luz que tengo aquí en Granada.
 
 Te aviso de una cosa antes de empezar: una moda no tiene por qué encajar en tu casa. El color depende de la luz que entra, del tamaño de la habitación y de los muebles que ya tienes. Por eso, más abajo no solo te digo qué se lleva, sino dónde poner cada color para que no te arrepientas a la semana.
 
@@ -172,6 +172,6 @@ Llámame o escríbeme por WhatsApp. Voy a verlo, te aconsejo el color y te doy e
 
 ¿Y cuánto me costaría a mí?
 
-Calcula el precio de pintar tu casa en 2 minutos — sin compromiso y sin que nadie te llame.
+Calcula el precio de pintar tu casa en 2 minutos, sin compromiso y sin que nadie te llame.
 
 [Calcular precio gratis →](https://pintareformas.es/calculadora.html)

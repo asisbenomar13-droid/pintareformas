@@ -21,9 +21,9 @@ Yo hago los dos oficios. Monto el tabique sabiendo perfectamente cómo lo voy a 
 
 ## Pintor en Maracena: cómo va una obra de piso completo
 
-Te cuento el orden real, porque casi nadie lo explica y es lo que más tranquiliza. Primer día: tapo suelos y muebles y hago la preparación, que es donde se juega el resultado — lijar, sellar rozas viejas, dar masilla donde haga falta. Segundo y tercero: primera mano de todo, paredes y techos. Cuarto: segunda mano y repasos con luz de lado, que es cuando se ven los defectos que de frente no aparecen. Último día: quitar cintas, limpiar y darte la vuelta a la casa conmigo para que me señales lo que no te convenza.
+Te cuento el orden real, porque casi nadie lo explica y es lo que más tranquiliza. Primer día: tapo suelos y muebles y hago la preparación, que es donde se juega el resultado, lijar, sellar rozas viejas, dar masilla donde haga falta. Segundo y tercero: primera mano de todo, paredes y techos. Cuarto: segunda mano y repasos con luz de lado, que es cuando se ven los defectos que de frente no aparecen. Último día: quitar cintas, limpiar y darte la vuelta a la casa conmigo para que me señales lo que no te convenza.
 
-Un piso de 90 m² son entre tres y cinco días. La [pintura interior de piso](https://pintareformas.es/pintura-pisos-granada.html) va **desde 4 €/m²** con plástica de calidad, dos manos y material incluido, o **7–9 €/m²** con premium, que aguanta mejor los lavados en pasillo, cocina y zonas de paso con niños. Ahí ya estás pagando casi el doble, así que la premium solo te la recomiendo donde la pared se roza de verdad. Si el piso lleva gotelé, [quitarlo y alisar las paredes](https://pintareformas.es/quitar-gotele-alisar-paredes-granada.html) se presupuesta aparte porque es otro trabajo distinto: lijado, masilla y mucha paciencia. Y si quieres ideas de color antes de decidir, los [colores que más se están pidiendo este año](https://pintareformas.es/colores-tendencia-pintura-2026-granada.html) los tengo recogidos en otra página.
+Un piso de 90 m² son entre tres y cinco días. La [pintura interior de piso](https://pintareformas.es/pintura-pisos-granada.html) va **desde 4 €/m²** con plástica de calidad, dos manos y material incluido, o **7–9 €/m²** con la de más calidad, que aguanta mejor los lavados en pasillo, cocina y zonas de paso con niños. Ahí ya estás pagando casi el doble, así que la de más calidad solo te la recomiendo donde la pared se roza de verdad. Si el piso lleva gotelé, [quitarlo y alisar las paredes](https://pintareformas.es/quitar-gotele-alisar-paredes-granada.html) se presupuesta aparte porque es otro trabajo distinto: lijado, masilla y mucha paciencia. Y si quieres ideas de color antes de decidir, los [colores que más se están pidiendo este año](https://pintareformas.es/colores-tendencia-pintura-2026-granada.html) los tengo recogidos en otra página.
 
 ## Tabiques y techos en Maracena, sin escombro
 
@@ -83,11 +83,11 @@ Lo mismo vale para Albolote, Peligros, Pulianas y Atarfe, que están al lado. Y 
 
 ## Lo que no hago
 
-Para no marearte: no hago electricidad ni fontanería — dejo pasos y huecos preparados en el tabique, pero conecta un electricista. No toco muros de carga ni nada de estructura. No trabajo por horas sueltas ni voy a hacer un repaso de media hora; presupuesto trabajos completos. Y no doy el precio en firme por WhatsApp sin haber visto la casa: te oriento por teléfono encantado, pero el número cerrado sale de medir. Si me pides algo de esta lista te lo digo en la primera llamada y, si puedo, te digo a quién llamar.
+Para no marearte: no hago electricidad ni fontanería, dejo pasos y huecos preparados en el tabique, pero conecta un electricista. No toco muros de carga ni nada de estructura. No trabajo por horas sueltas ni voy a hacer un repaso de media hora; presupuesto trabajos completos. Y no doy el precio en firme por WhatsApp sin haber visto la casa: te oriento por teléfono encantado, pero el número cerrado sale de medir. Si me pides algo de esta lista te lo digo en la primera llamada y, si puedo, te digo a quién llamar.
 
 ## Lo que dicen de mí en Google
 
-Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. — **Asis**
+Estas dos las han escrito clientes míos en Google, con su nombre. No les he cambiado ni una coma. Las demás las tienes en mi ficha, que es donde de verdad se ve si un pintor cumple o no. , **Asis**
 
 ★★★★★
 
@@ -127,7 +127,7 @@ Un falso techo básico va desde **30 €/m²**, y con el foseado preparado para 
 
 Sí, todo el cinturón norte. Están a cinco o diez minutos de Maracena y no cobro desplazamiento en ninguno. Si me llamas desde cualquiera de ellos, el presupuesto va igual de rápido: subo, lo mido y te doy el precio.
 
-## ¿Le metemos mano a tu piso de Maracena?
+## ¿Le meto mano a tu piso de Maracena?
 
 Escríbeme por WhatsApp con lo que tienes en la cabeza y subo a verlo. Presupuesto gratis el mismo día.
 
@@ -137,6 +137,6 @@ Escríbeme por WhatsApp con lo que tienes en la cabeza y subo a verlo. Presupues
 
 ¿Y cuánto me costaría a mí?
 
-Calcula el precio de pintar tu casa en 2 minutos — sin compromiso y sin que nadie te llame.
+Calcula el precio de pintar tu casa en 2 minutos, sin compromiso y sin que nadie te llame.
 
 [Calcular precio gratis →](https://pintareformas.es/calculadora.html)

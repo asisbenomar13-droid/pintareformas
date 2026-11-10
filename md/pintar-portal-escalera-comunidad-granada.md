@@ -32,11 +32,11 @@ Te pongo los mismos precios que uso en el resto de trabajos. El metro cuadrado e
 | Paredes y techos de escalera con pintura lavable | 7 – 9 €/m² |
 | Cuartos de contadores, trasteros o garaje (pintura básica) | desde 4 €/m² |
 | Quitar gotelé del portal, alisar y pintar | 10 – 14 €/m² |
-| Gotelé muy grueso o pared dañada que hay que sanear | 13 – 16 €/m² |
+| Gotelé muy grueso o pared dañada que hay que arreglar | 13 – 16 €/m² |
 | Acabado decorativo en el portal (veladuras, efectos) | desde 10 €/m² |
 | Estuco veneciano en el portal | desde 18 €/m² |
 | Patio interior con pintura de exterior | desde 6 €/m² |
-| Sanear humedad en bajos o portal antes de pintar | desde 150 € más |
+| Arreglar humedad en bajos o portal antes de pintar | desde 150 € más |
 
 **Una cuenta de ejemplo:** una escalera de cuatro plantas en un bloque normal de Granada tiene más o menos entre 250 y 350 m² de pared y techo. Con pintura lavable a 7–9 €/m², sale entre 1.750 y 3.150 €. Dividido entre doce o dieciséis vecinos, la derrama se queda en algo bastante razonable. Barandillas y puertas de contadores van aparte: las miro y te las pongo en su línea.
 
@@ -84,7 +84,7 @@ Sí, siempre. Cada zona con sus metros y su precio, para que se pueda comparar c
 
 ### ¿Y si hay humedad en el portal?
 
-Pintar encima no sirve, vuelve a salir. Hay que sanear primero, y eso suma desde unos 150 €, según cómo esté. Te lo digo antes, no a mitad de obra. Si quieres saber más, tengo una página sobre [reparar humedades en Granada](https://pintareformas.es/reparacion-humedades-granada.html).
+Pintar encima no sirve, vuelve a salir. Hay que arreglar primero, y eso suma desde unos 150 €, según cómo esté. Te lo digo antes, no a mitad de obra. Si quieres saber más, tengo una página sobre [reparar humedades en Granada](https://pintareformas.es/reparacion-humedades-granada.html).
 
 Si lo que tienes es un local en el bajo del edificio, también lo pinto; lo explico en [pintura de locales y oficinas](https://pintareformas.es/pintura-locales-oficinas-granada.html). Y si quieres los precios de un piso particular, están en [cuánto cuesta pintar un piso en Granada](https://pintareformas.es/precio-pintar-piso-granada.html).
 
